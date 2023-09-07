@@ -1,0 +1,755 @@
+Nana	PER
+Addo	PER
+Dankwa	PER
+Akufo-Addo	PER
+(	O
+born	O
+29	O
+March	O
+1944	O
+)	O
+is	O
+a	O
+Ghanaian	O
+politician	O
+who	O
+has	O
+served	O
+as	O
+the	O
+president	O
+of	O
+Ghana	LOC
+since	O
+2017	O
+.	O
+
+He	O
+previously	O
+served	O
+as	O
+Attorney	O
+General	O
+from	O
+2001	O
+to	O
+2003	O
+and	O
+as	O
+Minister	O
+for	O
+Foreign	O
+Affairs	O
+from	O
+2003	O
+to	O
+2007	O
+under	O
+the	O
+Kufuor-led	PER
+administration	O
+.	O
+
+Akufo-Addo	PER
+first	O
+ran	O
+for	O
+president	O
+in	O
+2008	O
+and	O
+again	O
+in	O
+2012	O
+,	O
+both	O
+times	O
+as	O
+the	O
+candidate	O
+of	O
+the	O
+New	ORG
+Patriotic	ORG
+Party	ORG
+(	O
+NPP	ORG
+)	O
+.	O
+
+He	O
+lost	O
+on	O
+both	O
+occasions	O
+to	O
+National	ORG
+Democratic	ORG
+Congress	ORG
+'	O
+candidates	O
+:	O
+John	PER
+Evans	PER
+Atta	PER
+Mills	PER
+in	O
+2008	O
+and	O
+John	PER
+Dramani	PER
+Mahama	PER
+in	O
+2012	O
+.	O
+
+After	O
+the	O
+2012	O
+general	O
+elections	O
+,	O
+he	O
+refused	O
+to	O
+concede	O
+and	O
+proceeded	O
+to	O
+court	O
+to	O
+challenge	O
+the	O
+electoral	O
+results	O
+,	O
+but	O
+the	O
+Supreme	ORG
+Court	ORG
+of	ORG
+Ghana	ORG
+affirmed	O
+Mahama	PER
+'s	O
+victory	O
+.	O
+
+Akinwumi	PER
+'Akin	PER
+'	PER
+Adesina	PER
+is	O
+a	O
+Nigerian	O
+economist	O
+,	O
+who	O
+is	O
+currently	O
+serving	O
+as	O
+the	O
+President	O
+of	O
+the	O
+African	ORG
+Development	ORG
+Bank	ORG
+.	O
+
+He	O
+previously	O
+served	O
+as	O
+Nigeria	LOC
+'s	O
+Minister	O
+of	O
+Agriculture	O
+and	O
+Rural	O
+Development	O
+.	O
+
+Until	O
+his	O
+appointment	O
+as	O
+Minister	O
+in	O
+2010	O
+,	O
+he	O
+was	O
+Vice	O
+President	O
+of	O
+Policy	O
+and	O
+Partnerships	O
+for	O
+the	O
+Alliance	ORG
+for	ORG
+a	ORG
+Green	ORG
+Revolution	ORG
+in	ORG
+Africa	ORG
+(	O
+AGRA	ORG
+)	O
+.	O
+
+He	O
+was	O
+elected	O
+as	O
+the	O
+President	O
+of	O
+the	O
+African	ORG
+Development	ORG
+Bank	ORG
+in	O
+2015	O
+and	O
+re-elected	O
+for	O
+a	O
+second	O
+term	O
+in	O
+2020	O
+.	O
+He	O
+is	O
+the	O
+first	O
+Nigerian	O
+to	O
+hold	O
+the	O
+post	O
+.	O
+
+Early	O
+life	O
+and	O
+education	O
+Adesina	PER
+was	O
+born	O
+to	O
+a	O
+Nigerian	O
+farmer	O
+in	O
+Ibadan	LOC
+,	O
+Oyo	LOC
+state	O
+.	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

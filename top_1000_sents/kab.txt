@@ -1,0 +1,1062 @@
+Nikola Kopernik d amussnayyur , aẓar-is d apuluni .
+Ittwassen s teẓri I d-iqqaren : iṭij d areggag ( ur ittmimiḍ ara ) di tlemmast n umeɣrad ( univers ) .
+Amaḍal itezzi ɣef yiman-is abrid i wass , deg usseggwas ɣef iṭij ( système hélicocentrique ) .
+Kupernik ilul ass n 19 di furar 1473 di temdint n Torun di tmurt n Pulunya , gar twacult n imzenza d yinawuren ( fonctionnaires ) .
+Xal-is Lukas Watzelrude imended ɣef tɣuri ines .
+Deg usseggwas n 1491 , Kupernik ikcem ɣer tesdawit n Krakubi , syin akkin iruḥ ar tmurt Ṭelyan ad iɣer tussna n tijjit d wezref di Padu ( tasdawit anda isɣer , kra n 100 issegwassen d asawen , umussnaw ameqqwran Galili ) .
+Deg usseggwas n 1497 , yuɣ timsirin ɣef wezref di tesdawit n Bologne , din i yezdi taxxamt d usalmad amussnak Dominico Maria Novara ( 1454-1504 ) .
+Kupernik , ilha-d s trakalt ( géographie ) d tussnayyurt ( astronomie ) .
+Deg usseggwas 1500 , ifka isaragen ɣef tussnayyurt di Rome .
+Deg usseggwas 1503 , Kupernik ikfa Duktura-ines n uzref , di Ferrare .
+Seg usseggwas 1503 ar usseggwas 1510 , Kupernik illa ɣer xal-is di Plogne .
+Gar usseggwas 1507 d usseggwas 1515 , ikfa adlis ɣef tussnayyurt De Hypothesibus Motuum Coelestium a se Commentariolus .
+Deg usseggwas 1512 , Kupernik ittekka di tesmilt I teknawt ( comission de réforme ) n uszemz .
+Deg usseggwas 1517 , yura-d adlis ɣef isurdiyen , ibda lsas n udlis-is De Revolutionibus Orbium Coelestium I ikfa deg usseggwas 1530 .
+Zzat tegrawla takupernikit , imussnawen la d-qqaren : amaḍal ur ittmimiḍ ara .
+Tiknurin ( planètes ) illan tezzint I umaḍal .
+Anagraw akuperniki ( système de Copernic ) ibedd ɣef : - Yiwet : amaḍal itezzi deg yiwen wass ɣef yiman-is , deg usseggwas ɣef iṭij .
+- Tis-snat , tiknurin nniḍden zgant tezzint ɣef iṭij .
+S waya , Kupernik isebrurez-ed amek illa wass d yiḍ .
+Maca , ayen i d-inna , di lqern XVI , d kra kan imussnawen I t ) irefden ; I t-yumnen ; tugett ugin ayen I d-yenna ; ayen id- yufa .
+
+Albrecht Dürer neɣ s telmant Albrecht Dürer der Jüngere ( ilul deg Nürnberg , Bayern , deg 21 Mayyu 1471 - yemmut deg 6 Yebrir 1528 ) , d amekla ( peintre ) yerna d amusnak ( mathématicien ) almani .
+Leqdicat-nnes n tẓuri rran-t mechur deg Turuft qbel ad yaweḍ 30 n yiseggasen deg tmeddurt-nnes , yerna ass-a , ttwalin-t d anaẓur ameqran n tallit n Tsidert ( Renaissance ) deg tmura n ugafa ( nord ) n Turuft .
+Dürer yella daɣen ineqqec-d tugniwin ɣef yiɣir ( nnḥas ) , am wakken ay inejjer tugniwin ɣef wesɣar .
+Maca , deg leqdicat ay iga sakkin , yeḍfer aɣanib d amaynut .
+Tifelwiyin-nnes ( tableau ) mechuren am Amnay , Tamettant ed Uciṭan ( deg 1513 ) , San Hieronymus deg Tezrawin-nnes ( 1514 ) akked Melencolia I ( 1514 ) jebdent-d lwelha n yizaɣanen ( critiques ) yerna aṭas n wawal ay d-yellan fell-asent deg wayen yerzan inumak-nsent .
+Dürer iga-d daɣen tikla s waman .
+Tifelwiyin-nnes n waman d tid aydeg d-iṣewwer imeẓriyen ( paysages ) , yerna Dürer d yiwen seg yinuẓar uṛufiyen imezwura ay d-iṣewwren imeẓriyen .
+Daɣen , iqeddicen-nnes deg wenrar n wenjar n wesɣar d wid ay yesnernan mliḥ taẓuri-a deg leqrun ay d-iḍefren .
+Dürer yella yessen inuẓar iṭalyanen ed yelsaẓriyen ( humanistes ) almanen , dɣa d aya ay as-iledyen abrid akken ad d-yessekcem aɣanib aṭalyani n tẓuri deg Tsidert ( Rennaissance ) n tmura n ugafa n Turuft .
+Seg tama niḍen , Dürer yura-d daɣen iqeddicen ɣef tusnakt .
+Albrecht Dürer yemmut deg temdint n Nürnberg .
+
+F a = ρ g V { \displaystyle F_ { a } =\rho gV } F a { \displaystyle F_ { a } } : tadusi n itekk-d nnig amazzal .
+ρ { \displaystyle \rho } : tneẓẓi .
+g { \displaystyle g } : ameɣlal n tajebda .
+V { \displaystyle V } : ableɣ n amazzal neɣ lgaz wi yettwakkes .
+ρ = m / V { \displaystyle \rho =m/V } ⇒ m = ρ V { \displaystyle m=\rho V } ⇒ F a = m a g { \displaystyle F_ { a } =m_ { a } g } ; akked m a { \displaystyle m_ { a } } : tneẓẓi n amazzal neɣ lgaz wi yettwakkes .
+
+Deg tmuɣli n Montesqiueu , isaḍufen neɣ leqwanen d nutni i yesselḥawen tilufa gar yemdanen , zgan-d sufella n kra yellan .
+I wakken ad nefhem isaḍufen i d-sersen yemdanen , ilaq ad nerzu ɣer teɣdemt axaṭer dinna i yettbedday lḥedd .
+Isaḍufen n yemdanen mgaraden ɣef wid n ugama , ur d-ttnulfan kan akka .
+Leqwanen i d-sbedden yemdanen , ɣas ur ttemcabin , resen ɣef yiwen n llsas .
+Wa icudd ɣer gma-s. Asaḍuf yettḍebbir , d netta i d assaɣ gar wid yesmendiwen ( wid d-yesnulfayen lqanun ) d yineḥkamen .
+Asaḍuf d aseɣwen i d-yefrurin seg temsal d wamek d-ḍrant , am win yeqqnen Rebbi d yemdanen neɣ win n yemdanen deg aygar-nsen .
+Montesqiueu yettwali isaḍufen s wudem n tussna ; ur ten-yettmuqul ara mfaraqen , yeqqar iseɣwan i ten-icudden wa ɣer wa .
+Yettaddam-d lmul ussnan , ad t-yessers syinnakin ɣef yemdanen .
+Iseɣwan yakk yellan ger leqwanen d nutni i d iman , i d rruḥ n yisaḍufen .
+Asaḍuf i ten-id-jemmlen yakk d ṣṣwab n wemdan , imi d netta i yettḍebbiren ɣef yemdanen yakk n lqaɛa .
+S ttexmam-a , Motesqiueu yeɛreḍ ad d-yesbeggen ṣwab n tmettiyin n medden d yisaḍufen .
+Timsal n tsertit d taluft n umusnaw ; tussna n tsertit ur yezmir yiwen ad tt-iɣer alma yekkes-as lhiba i tidet n ddin .
+Asenqed n yinhilen ( iduba ) Montesqiueu ur yebni ara ttexmam-is s tsertiyin tiqdimin , dacu kan yugem-d s waṭas seg tfelsafit tasertant n zik imi yeɣra 03 n leṣnaf imeqranen n udabu : Deg udabu-a , d agdud neɣ cwiṭ deg-s i iḥekkmen .
+Deg-s , ad naf sin n leṣnaf : arisṭukraṭ ( adabu n kra ) d tugdut ( adabu n yakk ) ; Deg tegduda tagdudant , leḥkem d ayla n wegdud , d acu kan ikennu deg taggara i leqwanen i d-sersen iɛeggalen d-yesbedd .
+Ɣer Montesquieu yella wemgirred gar tugdut tusridt d tin n yiɛeggalen .
+Netta yettwali agdud yessefk-as ad iḍebber ɣef kra i yellan gar ifassen-is , ayen i d-yegran d tamsalt n yineɣlafen-is .
+Tigejdit iɣef yebna udabu-a d ṣwab , lmeɛna-s d sivizm i yettarran amdan yessizwir nnfeɛ n medden yakk d tmurt ɣef nnfeɛ-is netta .
+Tayri n sɛaya d ayen ur nettumekken deg udabu yecban wa imi d tezdeg i t-yesseddawen .
+Dacu kan , adabu-a ur yezmir ad d-yili ala deg tmura timecṭuḥin .
+Deg tegduda tarisṭukraṭ , anager drus i yeṭṭfen leḥkem .
+Ṣwab , ɣas d tigejdit daɣen deg ṣenf udabu-a , ur yeǧhid ara imi deg drus n tlufa kan i ikennu i lebɣi n wegdud .
+Yiwen i yettrayin , i ilan leḥkem , d netta kan i yesselḥawen tilufa s lemqadra n leqwanen ibedden .
+Agellid ur yezmir ara ad yexdem ayen akk i yebɣa , imi tazmert-is tesɛa tilisa .
+Tilist-is teqqen ɣer tezmert yergazen yesɛan ccan deg tgelda-s , am : Lqaḍi , At ddin d yimeqqranen nniḍen .
+Tigejdit n udabu-a d iseɣ d wayen i iḥemmlen lɣaci n tgelda .
+Ageldun ur yezmir ad yessuter deg yemdanen ad xedmen ayen iwumi ur zmiren i wakken ur itekkes ara fell-asen sser .
+Yiwen i yettrayin , meɛna mebla tilisa .
+Yettḍebbir kan akken yebɣa , akken s-d-ddnen uqerruy-is d wul-is .
+Deg udabu-a , win iḥekmen ur yesɛi d acu ara t-id-iḥebsen neɣ ad s-iḥettmen xerṣum d ayen i iṛeggem neɣ yewɛed .
+Yezmer ad yefk yak tazmert-is i yineɣlafen-is .
+Tigejdit n ṣṣenf udabu-a d tegdi , d lxuf .
+Yal ṣṣenf n udabu yebna ɣef wedɣaɣ n lmul-tigejdit : d ayen i yessezdayen isaḍufen n kra n udabu .
+Tijɛelt n udabu tbeddu deg tazwara s tmesɣiwt n tgejdit iɣef yuli udabu-a ( amedya : deg tegduda tagdudant , imdanen yeffeɣ-asen ṣwab ) Montesquieu yezzem nezzeh adabu n udebbuz , yewṣef-it am wexxam mebla tiɛerstin .
+Adabu-a ur yesɛi ara taɣessa tasertant-taɣademt ( la lqanun , la aseɣwen ger uneḥkam d yisaḍufen , imi imdanen knan kan ar nnefḥa n uqerruy i ten-iḥekmen ) .
+I t-yeččuren d tasusmi kan d tigugemt ideg yeṭṭenṭun lebɣi n yimḍebber , ulac yakk deg-s ayen iwumi qqaren taɣessa timettit .
+Deg udabu n udebbuz , wid yellan yakk swadda kifkif-iten deg wazal .
+ɣer Montesqiueu , d aseɛdel ger yemdanen i yesseččayen adabu-a .
+Acku mi ara ɛedlen yakk yemdanen , tettruḥu-asen tazmert i wakken ad qablen win yuɣalen d Rebbi fell-asen .
+Dɣa seddaw n Udabu Aqdim , igelliden ttaɛraḍen ad d-sersen leqwanen wer ma fkan azal i tseddarin n yemdanen ( tisegluyin ) , aya i wakken ad sefḍen icelqem yellan gar medden , ɣilen d ayen fessusen .
+Montesqiueu iwala-d aseɛdel-a ger medden yettawi ɣer leḥkem udebbuz .
+Tifrat ɣer-s d aleggen n lǧehd i yesɛan yemdanen : yessefk lmizan ara yesserkden timetti d wefraq n tzemmar n ddula .
+Afraq n tzemmar Ɣer Montesqiueu , tilelli mačči d timunnent , iswi mačči d tazmert ad yexdem yiwen akken i s-yehwa .
+Tilelli i nettnadi d tin ara yefken tazmert i wemdan ad yexdem ayen akk i s-yessuref lqanun .
+D lqanun ihi i d-yessrusun tilisa n tlelli .
+Aserrus n yisaḍufen iṛessan ur yettaǧǧa ara adabu i yebnan ɣef tgejdit n tegdi ad d-ilal .
+Win yettḍebbiren ilaq ad yeknu i yisaḍufen .
+Montesqiueu yettwali deg wefraq n tzemmar n ddula yesnernay deg tlelli n yemdanen .
+S tmuɣli-a , ad naf belli llan sin n leṣnaf n yiduba : adabu ireẓnen ( am tugdut d trisṭukraṭit ) d win ur nerẓin ara .
+Anager adabu ireẓnen i izemren ad yeḍmen tilelli n wemdan .
+Ala s tmendawt iweznen d yisaḍufen i iḍemmnen laman i terwiḥin n yemdanen i s-izemren ad d-ḥellin tilelli-nsen .
+Ɣer Montsequieu , ilaq tifin n ttawil ara igen tilisa i tezmert n ddula .
+Dɣa ɣef wannect-a i d-yettmeslay ɣef wefraq n tzemmar i d-yebder uqbel-is yakan Locke .
+Aya yekkat i wakken ur tettemttuttul ara tezmert ger ifassen n yiwen n wemdan kan. “ Tazmert tḥebbes-d tazmert nniḍen ” .
+Dacu kan , tezmer tmurt ad t-tfeṣṣel aya akken s-yehwa , tezmer ad tesdukkel ger snat n tzemmar deg umedya , neɣ ad tger azeṭṭa ger tzemmar .
+Montesquieu yettwali deg Yiman n yisaḍufen 03 tɣawsiwin i yessefken i wefraq n tzemmar .
+Yeddem-d amedya n Tmendawt taglizit : Wid d-yusan deg leqrun wis-19 d 20 ( Durgit , Carré de Malberg , .. ) fehmen s leɣlaḍ afraq n tzemmar i d-yemla Montesquieu .
+Ɣilen afraq-a n tzemmar yessefk ad yili d ugzim , netta dɣa aya d awezɣi ad d-yili deg tilawt , axaṭer aya ad d-yeglu s uẓerreb , yal tazmert deg tama-s. Ulamek yal tama n ddula ad tesɛu tazmert-is i yiman-is , neɣ ad tili d tilellit s wudem igezmen ( yiwet ur tettɛawan tayeḍnin ) .
+Aẓerreb-a yeslalay-d yiwen udabu d aɛeẓẓug , d tisselwit d tejmaɛt-is kan i yettrayin ( ala adebbuz i izemren ad d-yessufɣen tamurt seg tnexxart-a ) neɣ adabu ara yesselḥaw wegraw kan ( tisselwit d lexyal ubeɛli kan ) .
+Ur yessefk ara ihi usemnenni n snat n tzemmar ger ifassen n yiwen n wemdan .
+Asemnenni yezmer ad d-yawi dder , aladɣa mi ara yiwen ad yejmeɛ 03 n lxedmat ɣef tikelt .
+Meɛna , yelha mi ara yiwen ad d-yeṭṭef cwiṭ deg-sent : amedya , azref n Veto .
+Aya yessuruf i yal tazmert ad teḥbes tayeḍnin , ad teslek seg lbaṭel-is .
+S tiṭ n wemdan atrar , Montesquieu yettwali tilelli ur d-tettas ara s uttekki deg udabu d tsertit .
+Amdan atrar yettwali tilelli mi ara yerwel seg tsertit d mi ara yeɛzel iman-is deg lehmum n wexxam-is .
+Deg udabu n udebbuz , imdanen kennun imir-nni .
+Deg tgelda , kennun s ṭṭul .
+Tegdi tettili-d deg udabu ideg ur d-tettbin ansi ara d-tas tiyita .
+Yessefk ihi usbeddi n leqwanen iṣeḥḥan ara isefḍen tegdi , ad d-yawin talwit .
+Udem n tsertit yettban-d amek ttqadaren medden isaḍufen ibedden .
+Ɣer Montesqiueu , ur nkennu ara i lqanun , meɛna nxeddem ayen yessuruf lqanun .
+Afraq ger tzemmar yezmer ad d-yawi tadukli , i waken wa ur yettali ɣef wa .
+Deg taggara , lqanun yella-d i waken ad yesḥirbeb amdan , ad t-yesserked .
+Ma ɣef yedrimen , Montesquieu yettwali belli d ttawil yelhan i userked d useggem n lemxalṭat ger yemdanen , yettarra-ten wa yettnadi ɣef wayeḍ .
+S tmuɣli-a , Montesqiueu yesnulfa-d ajdid deg tussna tasertit , imi yessuẓa ar sdat “ lmeɛna ” .
+
+Avril Ramona Lavigne d yiwet n tnaẓuṛt-tacennayt n pop-rock n tmurt n Kanada , tlul-d ass n 27 ctember aseggas 1984 di Belleville , Ontario .
+Temmuger-d tarennawet deg umenzu n yisegwasen 2000 , imi tezzenz ar assa azal n 35 Ifeḍ tkalasin deg umaḍal d 18 Ifeḍ n iḍebsiyen umi neqqaṛ `` singles '' .
+Avril Lavigne tedder di temẓis di Napanee , tamdint tamecṭuḥt di Ontario nettat d gmas ameqqṛan Mathew d weltmas tamecṭuḥt Michelle .
+Seg ass mi meẓẓiyet Avril tebɣa ad tuɣal tacennayt , imawlan-is ḍefṛentt , ddan yid-s. ɣur-s 12 isegwasen mi tura isefra-yines imezwura , tḥemmel cna s waṭas .
+Tetturar s snitra n baba-s di tazwara , alami d ass mi-z duɣ yiwet teḥbibt twacult-is snitra-yines d amezwarut .
+Telmed iyiman-is ad turar , yarna tefka aṭas n wukud iwayagi .
+Tella tetturar yiwet n tezlit yal ass fly away n Lenny Kravitz .
+Sinna tebda tettaru tizlatin ines timezwura anda nettaf tazrirt aladɣa n Goo Goo Dolls d Green Day .
+Ɣuṛ-s 12 n yisegwasen mi tecna isefra di ligliz n taddart-is d tifeskiwin niḍen i d-iḍeṛṛun di tama-ines , daɣen tecna d yiwen unaẓuṛ ameqqṛan yettwasnen di Kanada ɣef isefra-ines ambigus .
+Aseggas n 1998 , Avril tewwi yiwet n temzizzelt i tt-yeǧǧan ad tali ɣer usayes d umsemmud-ines , tacennayt takanadiant Shania Twain .
+Turar s yidisan-is di Ottawa , tecna tizlit `` What Made You Say That '' .
+Teḍfer abrid-is tcennu deg aṭas n temdinin , ayen i tt-yeǧǧan ad arzu d tanebgit ɣer tkalast ( `` Quinte Spirit '' di 1999 ) n ucennay n `` folk '' Steve Medd , tecna tazlit `` Touch the Sky '' .
+Tecna daɣen deg tkalast ines ( My Window to You ) n useggas 2000 di tezlatin `` Temple of Life '' d `` Two Rivers '' .
+Yarzad ɣuṛ-s unfaras Antonio « LA » Reid , de RCA/Arista , i tt-iwalan di yiwet n tfaska , testenya yid-s agatu .
+Avril Lavigne tella deg useggas-ines wis 16 , dinna tḥebsed seg uɣarbaz iwakken adelhu kan d ccna .
+maca , tesɛa kra n wuguren akked ixeddamen-is di lawan-nni , ayen i tt-yeǧǧan ad tinig ɣer Los Angeles , anda tga tamusni d unfaras Clif Magness .
+Aseggas i d-yernan , tessufɣ-d Complicated i d-yeqqimen ar assa d tarennawet-ines tisnat seg i singles ines s umata , tḍefṛit-id tkalast-ines tamenzut Let Go deg ayyur n Yunyu 2002 i d-yemmugren tarennawt tameqqṛant , yussa-d d wissin di temzizzelt Billboard 200 Kṛaḍ wagguren ar zdat .
+Ma si tama n IFPI , Let Go tusa-d d takalast tis snat i yenzan s waṭas aseggas n 2002 deffir Sleeping with Ghosts n Placebo .
+Di tagara , takalast-agi tenza s wazal n 16 ifeḍ ineɣlan deg umaḍal , yerna yewwi aṭas n warazen .
+S tkalast-agi , Avril Lavigne tekcem deg umezruy , imi tuɣal d tanaẓurt tis snat di ccna ala yesɛan Kraḍ n tezlatin di Top 40 i iḥerzen amḍiq amezwaru : Complicated ( 8 Imalas ) , Sk8er Boi ( 1 Imalas ) akked I 'm With You ( 4 Imalas ) .
+ala aggay Ace Of Base d tcennayt Lady Gaga i iṣawḍen ɣer waya .
+Avril tura d Chantal Kreviazuk tizlatin n tkalast agi .
+
+Tabitha King ( isem mi tlulTabitha Jane Spruce ) ( tlul 24 meɣres 1949 ) d tamyarut d tameɣnast tamarikant .
+Tabitha King uqbel ad tezweǧ isemis yella d Tabitha Jane-Frances Spruce tlul di Old Town , Maine .
+Baba-s d Raymond George ma d yemma-s d Sarah Jane White Spruce .
+Teɣra di St. Mary ’ s Grammar di temdint n Old Town , teffeɣ seg-s 1963 .
+Syen tekcem ar John Bapst Memorial High School di Bangor alamma useggas 1967 , tewwid lisans ines deg umezruy deg useggas 1971 seg tesdawit University of Maine di Orono .
+Zewǧen di 2 yennayer 1971 , ɣand have three children togetherursen tlata dderya : Naomi Rachel , Joseph Hillstrom , d Owen Phillip .
+Sin agi ineggura uɣalen d imyura daɣen .
+Tura daɣen adlis nniḍen d-yeffɣen ɣur Dendrite .
+Deg useggas 1998 , fkan-as Annual Constance Carlson Humanities Prize amezwaru i leqdic ines deg weḥric n tallalt n talsa .
+
+Mulud Ferɛun , Lmulud At Caɛban , d amyaru aqbayli .
+Illul ass 8 meɣres 1913 di Tizi Hibel di temnaṭ n Tizi Wezzu .
+Yemmut ass n 15 meɣres 1962 di Lebyar tama n Lezzayer tamanaɣt .
+I t-inɣan d amussu n O.A.S .
+Yerra-tt ar teqbaylit Amor Rekis S lferḥ ameqran ad awen nehdu tadiwennit d Mulud Ferɛun ara isufɣen ungal-ines wis sin , Akal d Idammen ɣer tizrigin Le Seuil .
+Adlis-a , i d-yettwacekkren aṭas , war ccek ad isɛu azal ameqran imi yettmeslay ɣef lɣerba n iqbayliyen ar Fransa .
+’ ’ Mulud Feraun ata da zdat-i , yusad srid si tmurt n yiqbayliyen .
+D acu tenniḍ ad temlileḍ yid-s tura .. ?
+i d-yesteqsa Emmanuel Roblès di tilifun .
+Ulayɣar nniɣ-awen srid i qebleɣ .
+Azgen n tsaɛtt mbaɛd , win ara yeqqimen ɣur-i mmis igellil , yekcem ɣer lbiru-inu .
+yiwen ufus yerfed lemḍela wayeḍ aqrab n uglim .
+Yessers ayen ibub .
+Yeẓẓel afus-is yexmes yid-i s leḥmala .
+Mulud Ferɛun yettban amzun d imsetḥi maca mi d yuki kan s teflest neɣ laman ad yelli iman-is , yettmeslay , yettqesiṛ awen d iban ulac argaz lɛali am netta .
+Netta yettmeslay-d nek taɛwadɣ-as tamuɣli s tuffra .
+Deffir tismaqalin tettreqriq deg taṭucin-is tafat n tudert .
+Yessers sin ifasen iberkanen sufella lbiru .
+Icetiḍen i yelsa ḥman , aqerruy-is yeǧǧa-t ɛaryan , tamgarṭ-is tettban i-yid am akken tekcem deg tuyat-is seg ubalṭu aqehwani i yelsa.Udem yennecraḥ ɣas anyir tkerz-it ddunit .
+Acebbub d ulwiɣ , aberkan am claɣem-is i cebḥen imi-s m ’ ara yecmumeḥ .
+Siwlaɣ-d ɣef ungal-inek amezwaru .
+-Uriɣ Mmis igellil deg ussan iberkanen n umgaru , s teftilt n ukanki.Rriɣ deg-s ayen akk yellan deg ul-iw .
+Ungal a d ameddurman * , neɣ akka ?
+-Ih…aṭas i fkiɣ i wakken ad yeffeɣ udlis a acku iḥuzayi laẓ di kra n ussan .
+ɣas akkeni imru ur yeḥbis armi ukiɣ i wayen i zemreɣ ad ggaɣ .
+Cciɛa i d-yewwi tesbeɣs-iyi akken ad aruɣ idlisen niḍen .
+Yernad d akken ilul deg Tizi-Hibel taɣiwant n Larbɛa n at Iraten deg tama n Igawawen .
+Deg twacult tagellilt .
+I baba-k d acu yella ixeddem ?
+-D afellaḥ I yella ɣef iman-is di tallit-nni i lullaɣ maca deffir 1910 terra-t tmara ad yeǧǧ akal n lejdud yeḍfer abrid n unadi n uxeddim anda niḍen .
+Imir-nni Iqbayliyen ur ttinigen ara ar Fransa maca ar tama n Qsentina .
+Ruḥ a zzman armi yufa iman-is deg imɣizen n Ugafa , di Lens syen yedda ar tama n Paris .
+Yella ixeddem ar Fonderies d'Aubervilliers mi t yewwet umxix deg uxeddim .
+Nezmer ad ninni d akken baba-k yeṛwa laɛtab akken ak n irebbi .
+Deg acḥal yid-wen i tellam ?
+-Semmus ( 5 ) , sin deg-sen d arrac .
+amaẓuẓ d aɣen d aselmad .
+Deg Mmis n igellil , turiḍ s ubrid n ungal temẓi-inek d leqraya-k. Tewḍed ar iswi-k s iɣalen-ik .
+Aṭas i tɛajb-iyi tabɣest-ik… .
+-Ur zmireɣ ad ttuɣ yiwen seg iselmaden-iw id yefkan afus n tallalt akken ad i fken lbursa akken ad kemleɣ leqraya deg Tizi-wezzu akk d ENA ( aɣerbaz amagnu n Lezzayer ) .
+Melmi id tuɣaleḍ d aselmad ?
+-Deg useggas n 1935 .
+Seg ass-nni aṭas n tɣawsiwin i seɣraɣ ladɣa di Tewrirt Mussa , sin ikilumitren ɣef taddart- iw , seg 1946 ar 1952 .
+Assa aqlik-id d anemhal n uɣerbaz n warrac n Larbɛa nat Iraten … .
+-D tidett Akka ih , seg wayyur n tuber .
+Aɣerbaz n 300 inelmaden s timeɣri tanemmadut * , tferḥeḍ ?
+-Deqs-aɣ .
+ɣur-nneɣ aman di tbernint d trisiti .
+Amejjay d ufarmasyan zdat-nneɣ kan.Igerdan qqaren akken ilha acku bɣan ad lemden aṭas n tɣawsiwin .
+Tzewǧeḍ ?
+-Zewǧaɣ , ɣur-i 6 igerdan , ameqran deg-sen d bab n 13 iseggasen .
+Newweḍ ɣer w Akal d idammen .
+Mulud Ferɛun yessereḥ deg meslay….nettḥulfu d akken adlis yecreḍ aṭas n wayyuren n tensuft .
+Adlis mazal yedder deg-s , ɣas akken atan yakan deg Paris .
+Amek ik d t ussa tikti n ungal-a amaynut ?
+-Tamezwarut d cciɛa n ungal id uriɣ deffir wa i-d-iyi sbeɣsen ad aruɣ wiyaḍ .
+Tis snat , tikti tusa-yid akken ad suqlaɣ iman ( rruḥ ) n Teqbaylit , ad iliɣ d anagi.Nek d aqbayli aquran d mmis uqbayli , seg mi d lulaɣ i zedɣeɣ di Tmurt-a .Iqbayliyen d imdanen am nutni am wiyaḍ.Nek aqli-yi da i wakken awen t id inniɣ .
+Seg mi bdiɣ tira n udlis a , yeṭafar-iyi ameddakel-iw Roblès , ɣur-s ass-a 20 iseggasen segmi tesnaɣ.Netta i yesbeɣsen di yal tikkelt yettased ar ɣur-i ar Tewrirt ad yessefqed ma kfiɣ-t neɣ ala , takerrust-is tameɣbunt aṭas i tenaɛtab deg iberdan yettalin s adrar .Ad teẓrem d akken tadukli ar ɣures macci d awal kan. Ungal n Aɛmeṛ d Marie .
+ɣef acu yettmeslay ungal akal d idammen ?
+Mulud Ferɛun ur d yerra awal din din .
+Yebda yetturar mebla ma ifaq s inziz ( llastik ) yufa sufella lbiru , mi t yeḍleq yeddem akeryun .
+Yeḍeqr iman-is ar deffir ikemmel : -Niɣ-as lɣerba n Iqbayliyen tezmer ad efk yiwen neɣ kra n idlisen .Bḍiɣ lɣerba ɣef snat : seg 1910 ar 1930 akk d 1930 ar assa.Akal d Idammen yettmeslay ɣef tallit tamezwarut , ad rnuɣ ungal niḍen ɣef tallit tis snat .
+Ayɣer snat n talliyin ?
+-ɣef akken ttwaliɣ yella umgarad ( lxilaf ) ameqran ger snat talliyin-a .
+lɛeqliya n Iqbayliyen n w ass-a yettinigen ar Fransa ur telli maḍi am tin n iqbayliyen isen irẓan asalu.Yif akken wejden Iqbayliyen n 1953 imi taɣen tanumi i tmeddurt n temdint maca yif akken ṭfen imezwura di tjadit d tmurt.Llan ttḥirin melmi ara uɣalen ar taddart s isurdiyen ara ten isuffeɣen seg yir liḥala ig llan ddren.Ass-a nettidir ayen niḍen .
+Siwlaɣ-d kra fell-as -Wwiɣ-d deg Akal d idammen taqsiṭ n Aɛmer , ilemẓi n 14 iseggasen , i d-uznen ɣer Paris netta d iǧiran-is deffir umgaru n umadal amezwaru.Aɛmer yella ixeddem d amenwal ɣer warraw n taddart-is .Di Fransa yebda ixeddem am netta am atmaten-is deg umɣizi ( lmina ) .Deg yiwet n tmeddit yenɣa war aɛemmed yimen uqbayli.Ameɣbun meskin ur yezmir ad yuɣal ar tmurt imi yugad at nɣen tawacult n umerḥum.Yeqqim di Fransa.Zrin 15 iseggasen , yettu leḥder , yejma tamurt d tudert n imesdurar .
+Yewwi yides tameṭṭut-is Marie , taparizyant ig ṛwan lemṛaṛ n ddunit.Sin iseggasen segmi d yuɣal , yessawel-as-d lmektub-is , nɣan-t. Ameslay nneɣ ikemmel , Mulud Ferɛun yettara ɣef akk isteqsiyen-iw .
+Yella kra tetthegiḍ ?
+-Ih , acku ayen yaɛnan iman ( rruḥ ) n Teqbaylit meqqer maca yewɛar at terreḍ akken iwata .
+Ad yilli ukemmel i Mmis igellil ?
+-Aya macci d awezɣi…maca deffir waya , ad suffɣeɣ war ccek adlis i d-yessumen Brouty ɣef tmeddurt n yal ass n yiqbayliyen .
+Tajmaɛt , tala , ssuq , tuɣalin n iɣriben si Fransa…atg.Ad kemleɣ adlis-a s tmucuha .
+Melmi tettaruḍ ?
+-Deg ass lehhuɣ d twurri , ttaruɣ deg iḍ d ussan n ustaɛfu.ttaruɣ qrib yal ass 3 neɣ 4 tewriqin , ma ǧǧan-t-iyi tikta a tteǧǧaɣ i wass niḍen .
+Mi tettaruḍ tetabaɛḍ aɣawas ( leblan ) ?
+-Zeggireɣ s tira n tikta s umata.Mi ttaruɣ i ttqeɛideɣ taqsiṭ.S umata ẓriɣ anda tedduɣ maca mi ttaruɣ ttasen-t tikta d tegnatin ur nwiɣ .
+Amek i tettwaliḍ udmawen n ungal-ik ?
+-Ttareɣ s tidet iman-iw deg umḍiq-nsen .
+Tsuturaɣ-ten.Di tagara d nutni ara i d innin d acu ara aruɣ .
+Nettkemil ameslay , mass Ferɛun yenna yid d akken ad yewwet tarzeft ar Paris deg ussan n ustaɛfu n tfaska ( Paques ) ilmend n tuffɣa n udlis Akal d Iddamen.Le Seuil , war ccek as d ggen tameɣra ( ad nfaṛes tagnit ad nesmekti d akken tizrigin-a uɣen izerfan n udlis Mmis igellil ) .
+Anwi idlisen i tḥemleḍ ?
+-Aṭas i ɣriɣ.Zik ur tceriṭeɣ ara nnig wacu tceriṭeɣ ass-a.Testtbenaɣ idlisen ilsanen , wid yaɛreḍ ad yer amyaru alsan s lekmal-is acku alsan ur yelli yelha s lekmal neɣ diri s lekmal.Amyaru af akken ttwaliɣ ur yesɛi azref ad yemeslay ɣef imdanen s ustehzi.Yak tecrekḍ-iyi ṛṛay ?
+Mulud Ferɛun d amusnaw s tidett u d amyaru mu zeddig wul .
+Ẓṛiɣ itri-s at yessiweḍ ɣer lebɛed , Akken yebɣu yili , tiɣṛi-s seg tid mu ilaq a nsel !
+tawwuri : leqdic , axeddim .
+yettwakkes seg www.imyura.net .
+
+Ṭaher Ǧaɛut d amyaru ilul ass 11 yennayer 1954 di Ulxu ( Iɣil Ibaḥriyen ) zdat n Uẓeffun .
+Iwwetet rebreb ass 26 mayu 1993 , sin yemmut ass n 2 yunyu 1993 , di Zzayer .
+ilul Ṭahaṛ Ǧaɛut ass n 11 yennayer 1954 di ulxu ( Iɣil ibahriyen ) id yussan zdat uzeffun di tizi wezzu , yeɣra deg uɣerbaz amenzu n taddart_is alemi d aseggas 1964 , syin ad yaneg uqcic_nni tezdaɣ tusna aqqaru deg tazwara n iseggasen 1965/1966 ɣer tamdint n lezzayer , imi y_uɣal yezdaɣ di lqasba and yekmmel leqray_as di tesddawit n lezzayer deg uhric n tusnakt ( mathématique ) .
+Maca aqcic id yeldin allen_is di taddart n ulxu di lḥif d lemizirya , wina akken ugin tikelt tamenzut a taqblen deg uɣerbaz akken ad iɣer , maca ṭahar ɣas ma mezziy laɛmer_is yettwali di tmusni tafat i tudert i deg yettidir ama tawacult_is ama timeti i deg id yekker , imi yessaxdem lmara n uqcic yebɣan tamusni , imir yekcem ɣer uɣerbaz ger y_imedukal_is bla lebɣi n imedabren n uɣerbaz , lhsab akken id inna weltm_as tasaɛdit .
+`` ma tebɣid a bnadem ad timeɣureḍ w ad yali ccan_ik ɣur medden merra ili_k qbel d amezyan '' .
+Ṭahaṛ Ǧaɛut yafhem meliḥ lmaɛns imeslayen agi simal irennu di tmusni akk d lefhama , akken yettmuqul ɣer deffir akken ur itettu anesi id yekka , ɣures d akken bnadm bla lasel ur nessin tajeddit , yarxes ccan_is am ttmar id yeɣlin si tjeṛṛa qbel ad yaweḍ lwaqt_i .
+Ṭahar Ǧaɛut yewwi_d agerdis n lisens di tusnakt maca yeḥmmel tamedyazt , imi yebda isefra seg mi yella d amectuḥ , id yefɣen di tazwara n y_iseggasen n 70 di kra n tkarniyin n temdyazt `` les revues de poesie '' yecban `` promesse '' id yattefɣen di lezzayer akk d `` Alif '' di tmurtn tunes , `` le souffle `` di lmaṛṛuk , ara a y yaɛajben atas i y_imedanen ama d imeyura neɣ d inaɣriyen gar_asen MASS `` ṬAHAR benjellum '' , ula d netta d ameyaru d aɛeggal di l'academie Goucourt , idi yennan d akken ise Ǧaɛut isefra ixaddem neɣ ayen yura deg ayen nniḍen y_ttabaned deg_s lɣid izadɣen amedyaz , yellan am yal tikelt i rakbit lɣiḍ seg ayen yettwali .
+Ɣas deg iseggasen n 70 tibbura n usuffaɣ n y_ idlisen llant ɣalqent deg udem n ilmezyen yeḥmmlen tira , d wid yesɛan awal amaynutt a t_ id inin , maca Ṭahaṛ Ǧaɛut yessen ad yeṛṛeẓ leqyud yufa_d iman_is yettuḥtem fell_as ad ad y_ssufeɣ adlis_is amezwaru n isefra di tmurt n canada sɣur tizrigin n `` Naɛman '' deg useggas n 1975 `` le solstice barbelé '' , d azru n lsas di lbenyan n Ṭahaṛ ǦAƐUT deg ayen yeɛnan tira , segi sefra ɣer tullisin imi yewwi araz di temzizlt tasklant s tullist imi yefka azwel `` les insummets '' .syin afus n Ǧaɛut yeɛda ɣer uḥric niḍen di tira tiklta tira deg jernan `` El Moudjahid '' imi y_ ttaf aḥric n idles syin yuɣel ɣer tsertit.akken ad yuɣel ad ibedel ɣer ujernan `` l'actualité '' yellan di tallit_nni y tabaɛ ajernan n EL MOUDJAIHD , w ad yeqqim ixdem din alemi d aseggas n 1992. tamedyazt , taɣamest , tira tullisin qnent s laḥmala n tira d ufus n Ṭahaṛ Ǧaɛut , syin ad y ssufeɣ adlis wiss sin wagi d `` L'arche a vau-l'eau '' ɣur tizrigin n saint-Germain id y_ffɣen deg useggas n 1978. w ad yernu ad y_aru timucuha s tiktiwin kan yellan deg alleɣ_is id y_snulfuy netta s lxeyal_is , inig MASS `` Ben Muḥmed '' yenna_d akken Ṭaḥaṛ Ǧaɛut yella ur yetaǧǧir ara s tikti , imi yella yettamen s w ayen yura.imi argaz izadɣent tiktiwin ur iḥebbe ar t tira akka ad ilal w ungal_is amenzu `` l'exproprié '' .ar tmuɣli n MASS '' Amin zaoui '' d akken ungal agi yecuba ɣer '' le polygone étoilé '' n Kateb Yacine deg ayen yeɛnan tira Imi isem_is mucaɛ s tira di tlemast useggas n 80 isem_is ad yaneg ɣer tmura tibaraniyn asemi iger aḍar ɣer w uxxam id y_ssufuɣen idlisen `` le seuil '' di tmurt n fransa , imi tazrigt agi tattunḥsab ger tezrigin mucɛen yakk di ddunit anda id sufɣen yakan aṭas n imeyura idlisen_nsen am Mulud Farɛun , Kateb Yassin , muḥmed Dib .akka ad y_ssaweḍ deg useggas n 1986 ad y_ssufeɣ ungal_is wiss sin imi yefka azwel `` Les chercheurs d'os '' ar tezrigin n `` seuil '' , syin ɣer w aṭas n w ungalen nniḍen am `` l'invention du désir `` .
+TAMETTANT_IS : lmut_is tella_d assn 26 di magu 1993 imi y__ttwawwet s ṛṣaṣ s aqqṛuy s ifassen n imeṭṭrfen fis zadt uxxam_is , akken ad y_ffaɣ ṛṛuḥ_is ass n 02 Yunyu 1993 .
+TIJMILIN : umbaɛd lmut n Ṭahar Ǧaɛut ilul_d w agraw n tsaklanin taɣessa i w saḥbiber ɣef yimeyurs anda syin tuɣal_as tajemilt n usemkti sɣur BBC i d y_ssufeɣen yiwen documentaire shooting the writer .
+ar tama tejmilin niḍen ad iḍafren am tizlitt lwennes maɛtub deg useggas 1994. a `` kenza a yelli `` andatru i s yeqqarara i yellis n ǦAƐUT `` Ur ttruy ara xarṣum d yiwen ad yegri ad i ɣ d semkti azekka '' .
+Imi ad neqqim n semktayit_id ar assa zeddk mulud ula d netta yerray_as tajemilt s tezlity inid id y_Ffɣen deg useggas 2021 anda id y ssuqel kra imeslayen id yenna tutlayt tfernasit `` Ma tssusmed a tamted , ma tenniḍed a tamteḍ , inid ayen i k _ iqarḥen tamteḍ .
+
+Ccix Lḥasnawi , s yisem-is unṣib Si Muḥ n Aɛmar u Muḥ , ilul ass n 23 Yulyu 1910 , di Taɛzibt n Lɛeṛc Iḥesnawen di tama n At Dwala .
+Yettwassen s yisem Ccix Lḥesnawi imi laṣel ines n Iḥesnawen , di lekwaɣeḍ yers s yisem n Muḥemed Xelwat .
+Asmi i yesɛa sin iseggasen di laɛmeṛ-is temmut yemma-s , akken kra iseggasen yerna baba-s. Am tizya-s akw di lawan-ni , yekcem ar temɛemmaṛt akken ad iɣer leqwran .
+Ur yeqqim ara aṭṭas di taddart-is , asmi yesɛa 14 iseggasen iṛuḥ ar Tizi Wezzu , dinna icennu di leqhawi , ur iɛeṭṭel ara di Tizi wezzu ikemmel abrid-is ar Lezzayer tamaneɣt .
+Dinna di Lezzayer yemlal-d kra inaẓuren imeqranen am Ccix Musṭafa Nadur akw d Ccix Mḥamed Lɛanqa .
+Deg useggas n 1935 Ccix Lḥesnawi yessufeɣ-ed tasfift-is tamenzut anda i yecna ɣef lɣerba akw d wuguren n tmurt imiren , tizlitt-nni Maison Blanche di tesfift-agi i deg tella .
+Yeqqim sin iseggasen di Lezzayer dɣa di 1937 iṛuḥ ar Franṣa anda i d-yessufeɣ tisfifin nniḍen .
+Di Franṣa Ccix Lḥesnawi yettwassen aṭṭas ger yeɣriben i yellan din .
+Aṭṭas n yeɣriben i t-iḥemlen imi icennu ɣef wayen i ten-iḥuzan , lɣerba m lemḥan .
+Ccix Lḥesnawi yecna diɣen ɣef tmeṭṭut n tmurt d wuguren i d-tettmaggar di lawan-nni .
+Xas akken tizlatin n Ccix Lḥasnawi wezzilit maca d tid igerzen aṭṭas , nezmer ad d-nini belli ibeddel-as udem i cna n caɛbi neɣ yewwi-d amaynut i ṣṣenf-agi n cna .
+Asmi i tebda tegrawla di tmurt , di 1954 , yeḥbes cna .
+Mi i tfuk di 1962 yeqqel ar cna , yerna 6 iseggasen dɣa yegzem-tt di ṛṛay-is belli ad yeḥbes cna i lebda .
+Ccix Lḥasnawi yexdem 46 n tezlatin , 29 s Teqbaylit , 17 s Dderǧǧa ( taɛrabt n Lzzayer ) .
+Deg iseggasen n 70 ibeddel tamurt ; abrid-agi iṛuḥ ɣer Tegzirt n La Reunion .
+Di tegzirt-agi ikemmel tudert-is armi d asmi i yemmut ass n 6 Yulyu 2002 .
+Xas akken Ccix Lḥasnawi yeǧǧa-yaɣ , tizlatin-is mazal-iten ttwasnent di yal tama n tmurt .
+Imeslayen agi yecna-ten Ccix Lḥasnawi deg 1935 .
+
+Ɛmiṛuc At Ḥemmuda ilul ass n 31 tuber 1926 di Tasaft Wagmun di Tmurt n Leqbayel , d argaz argaz aserti daɣen d argaz aserdasi i yennuɣen ɣef tlelli n tmurt n Lezzayer di Tegrawla Tazzayrit .
+Yemmut di Busɛada akked Ssi Lḥewwas ass n 28 meɣres 1959 deg webrid-nsen ar Tunes .
+Baba-s yemmut 4 n waguren qbel ad d-ilal , ɣef wakka i yeddem isem-is .
+Aseggas kan seg wass mi d-ilul , yemma-s teddem-it netta aked gma-s tuɣal ar taddart imawlan-is Iɣil n Wammas .
+Dinna i yebda ixeddem ar kra n twaculin timeṛkantiyin i wakken ad iɛiwen yemma-s akked gma-s ɣas akken d netta id amecṭuḥ .
+syin yewwit ɛemmi-s Belɛid At Ḥemmuda yid-s ar Wad el Feḍḍa di Clef anda xeddmen asɣunen n lfeṭṭa .
+Tameṭṭut-is d yelli-s n ɛemmi-s `` Dda Belɛid '' yesɛa ɣur-s yiwen weqcic , Nuṛdin At Ḥemmuda , win ara yuɣalen d imdebbeṛ ɣef ukabar Agraw i Yedles d Tugdut ( RCD ) .
+Yekcem ar Tirni n Uslelli Aɣelnaw di Dujember 1954 , yessers-it Krim Belqasem ɣef uqeṛṛu n temnaḍt n Ṣṣummam di 1955 iwakken ad tt-iseggem wa d-yerr anermis akked Twilayet Tamezwarut.D netta i d amasay n tɣellist deg Wegraw n Ssumam.Mi yessili wegra n ṣṣumam fernen-t-id wid yekkan deg wegraw iwakken ad yessiweḍ iɣtasen n Wegraw n Ssumam ar Twilayet Tamezwarut acku ur kkan ara deg wegraw , daɣen iwakken ad yefru cwal yellan ger imasayen n twilayet-a ( llan ttnaɣen ɣef anwa ara yuɣalen ɣef uqeṛṛu n twilayet ) .
+Mi iṛuḥ ar dinn yefra aṭas n yiɣeblan dinna , syin yuɣal-d ar twilayet tis 3 anda isen-yefka ttiɛad i kra n imasayen n twilayet tamezwarut , yuɣal iṛuḥ ar Tunes ikemmel tuɣdaḍt-is dinna akked Ɛmaṛ Uɛemṛan .
+Asmi i d-yuɣal si Tunes deg unebdu n 1957 , sersen-t ɣef uqeṛṛu n twilayet tis 3 deg wemkan n Muḥamdi Saɛid .
+
+Bahya Faraḥ ( 1917-1984 ) , s yisem-is awaryan Bunwaṛ Faṭima-Zuhra d yiwet gar tnaẓurin tiqbayliyin i yecnan s teqbaylit .
+Tlul deg Tubiret deg useggas 1917 .
+Imi d tagujilt , d ɛemmi-s i tt-irebban , yewwi-tt yid-s ɣer Tunes .
+Dinna dɣa , deg yiwen n uɣsur n usileɣ n tẓuri ( centre de formation artistique ) , i telmed cḍeḥ .
+Deg useggas 1931 , deg leɛmer-is 14 n yiseggasen , tunag ɣer Lpari , anda i tufa iɣriben i tt-iɛawnen s wayen i zemren akken ur tettmenṭar ara deg yiberdan .
+Syin akkin , tettekka deg la troupe artistique maghrébine i yessedda unaẓur atunsi Muḥamed Lǧamussi seg 1910 ar 1988 .
+Ɣas akken d cḍeḥ i tḥemmel , testufa-d daɣen i ccna .
+Tuɣac timezwura i tecna , s teɛrabt , d tid n unaẓur Muḥamed Lkamel ( 1919-1935 ) : `` Sɣira mesrara '' , `` Bent ammi '' , `` Eddunya '' d `` Zman EL youm '' .
+Deg 1937 , temlal d win ara yuɣalen d argaz-is , anaẓur Muḥamed Temmam ( 1915-1988 ) , tuɣ-t imir-nni d anelmad deg l ’ école supérieur des arts décoratifs de Paris .
+Deg useggas 1949 sawlen-as-d deg teẓrigin Pathé Marconi ad tsekles iḍebsiyen-is imezwura , s teɛrabt : `` Rayeḥ maɛdum , Ya umri lik '' d `` Yali qeleqtu '' .
+Ɣas akken , tebḍa la troupe artistique maghrébine , azekka-nni n ṭtrad , ur teḥbis ara Bahya Faraḥ .
+Twala dakken di tallit-nni i tt-ḥwaǧen mliḥ yiɣriben , i tt-teḥwaǧ Lezzayer .
+Aṭas dɣa n yinaẓuren yeddren di Lpari i iwufqen ṛray n Bahya .
+Dɣa tesnulfa-d `` La troupe artistique du FLN '' .
+Di lawan-nni i d-temlal d Slimane Azem .
+D timlilit-nni i tt-yerran tettwassen ugar , ladɣa ɣer Leqbayel .
+Tecna d Slimane Azem tizlit yufraren `` kemm d nekk '' akked `` aṭas ay ṣebreɣ '' .
+Deg useggas 1965 , tuɣal-d ar Tmurt .
+Din din , terra ɣer RTA , texdem d Ccix Nureddin deg ṛradyu tis-snat .
+Tecna daɣen kra n tuɣac i as-yura Crif Xeddam d Ccix Nureddin .
+Tsekles di tilibizyu snat n tuɣac , maca ar ass-a ur nwala ara isura-nni .
+Deg useggas n 1967 , uqebl ad tebru i RTA , tsekles tizlit `` Tfuk lɣerba , tfuk '' , d taɣect-is taneggarut .
+Seg wass-nni , yekkfa wawal ɣef Bahya Faraḥ : imḍebbren ur as-fkin ara azal d ccan i tuklal .
+Ma d nettat yejreḥ wul-is : mačči akken i tɣil ad tidir di Lezzayer i d-ḥerren yirgazen d tlawin i tt-yecban .
+Tesɛedda taggara n tudert-is deg tatut , ɛeggu d waṭṭan i d-yeɣlin fell-as , ssexsayen-tt cwiṭ cwiṭ almi d asmi i tewweḍ s anda ara naweḍ ass amenzu n yibrir 1984 .
+
+Diduc Muṛad ( s tefransist Didouche Mourad s taɛrabt : ديدوش مراد ) , ilul ass n 13 Yulyu 1927 di Lezzayer tamanaɣt , yemmut ass n 18 Yennayer 1955 di Condé-Smendou di Qsenṭina .
+D yiwen gar sdis imeɣnasen i yesbedden Tirni n Weslelli Aɣelnaw , daɣen d netta i yellan ɣef uqeṛṛu n Minṭaqa n Qsenṭina si 1 unbir 1954 armi i yemmut .
+Deg useggas n 1947 yella daɣen gar wid id-yesnulfan Tuddsa Tuffirt ( OS ) , d tuddsa i yellan tettheggi i ṭṭraḍ i wakken ad tekkes tsehrest n Fṛansa si tmurt n Lezzayer .
+Yettwaṭṭef di 1950 mi tfaq fransa i tuddsa tuffirt , acu kan yerwel-d seg wmmas n temsulta .
+Yemlal Mesṭafa Benbul3id di 1952 di lezzayer , anda ttkemmilen ahil n tuddsa tuffirt .
+Deg unebdu n 1954 , Muḥamed Buḍiaf ijemɛed 22 n yimeɣnasen n tuddsa tuffirt , gar-asen Diduc , Benbulɛid , Benmhidi .. atg deg wexxam n Lyes Derric id-yusan di Clos-Salembier , deg unejmuɛ-a ɣetsen ad bdun ṭṭraḍ uslelli n lezzayer mgal Fṛansa , daɣen fernen-d sdis n imasayen ara iḍebren ɣef tegrawla gar-asen semmus n iqeṛṛay n twilaytin .
+Ssi Ɛebdelqader sersent ɣef uqeṛṛu n twilayet tis snat ( Qsenṭina ) .
+D netta akked Buḍiaf i yuran Taseɣret n umezwaru n wunbir , iwakken ad sfehmen i wegdud azzayri iwacu i yuiln s adrar , akked wayɣer ilaq ad ten-ɛawnen .
+Yemmut Diduc Muṛad ass n 18 yennayer 1955 , deg imenɣi n Dewwar Swadek , di Condé-Smendu , di Qsenṭina ( Tura Ziɣut Yusef ) .
+D netta i d aqeṛṛu n twilayet amezwaru ara yettwaɣen , mi yemmut sersen Ziɣut Yusef deg wemkan-is .
+
+Cirin Abu Ɛaqla ( s taɛrabt : شيرين ابو عاقلة ) isem-is Kamel d : Cirin Neṣri Anṭun Abu Ɛaqla tlul ass n 03 n yebrir 1971 di Lquds ( Uṛacalim ) , temmut deg wass n 11 di mayyu 2022 deg yigiṭunen n Janin id-yezgan deg wasif n umalu , d taneɣmast tafalesṭinit tamarikanit .
+Texdem deg ubadu n Al Jazeera i 25 n yiseggasen , seg 1997 armi d 2022 .
+Lmut-is tekka-d mi terza akken ad d-ssugen d acu yellan deg yigiṭunen n Janin , imiren i temmut imi tḥuza-tt terṣast s aqerru .
+Adabu afalesṭini d Ḥamas nnan-d belli d iserdasen n Israyel i tt-yenɣan , ma d wid n Israyel rran-tt-id ɣef kra n yifalesṭiniyen , maca inadiyen n yiɣmisen n Israyel s yiman-nsen d tittekkayin i yettnaɣen ɣef yizerfan n umdan akka am Betselem beyynen-d belli tarṣast tekka-d seg tnilla n Israyel , ar tura Israyel tbeddel awalen-is ukkuz n yiberdan Lmut n Cirin yewwi-d tiririyin seg umaḍal kamel , ifalesṭiniyen d yisrayiliyen beyynen-d tamuɣli-nsen , tiddukla n Turuft d uxxam amellal daɣen fkan-d rray-nsen , ssawlen i unadi n tidet ara d-yilin mebla amili deg lmut n tneɣmast-agi .
+Akka yernu , azekka-nni , di lǧanaza-ines , iserdasen n Israyel uten wid yeddan akken ad temḍel , d ayen id-yuwin awalen-nniḍen .
+Teɣra deg uɣerbaz n Bit Ḥanina .
+Syin terza ɣer tmurt n Urdun i deg teɣra deg yiwet n tseddawin-ines , seg tseddawit n Yarmuk deg Urdun tewwi-d agerdas-is di tɣemsa , imiren tuɣal ɣer Falesṭin .
+Texdem ula d ɣer UNRWA , , Amman Satellite Channel d MIFTAH .
+Deg 1997 texdem deg Al Jazeera deg uḥric-ines aɛrab , tezdeɣ yernu texdem deg Uṛacalim n usammer , tessugen-d imenɣi yellan gar wudayen d yiɛraben , tettwassen s usugen n Intifaḍa tis snat , tezga tessugun lǧanazat n yimeqqranen ifalesṭiniyen .
+Yenna-d unemhal n tujjya di tseddawit n Najaḥ belli tarṣast i yḥuzan Cirin deg walaɣ-is tella tqreb-itt mliḥ , d awezɣi ur tt-yettwali ara usserdas n Israyel , ihi , d lekdeb acu id-qqaren yisrayiliyen .
+Daɣen anemhal n tujjya deg tseddawit n Nabels yenna-d belli tarṣast tḥuza-tt deg uqerru , win itt-yewten yella yebɣa annecta , mačči d tiḥuzin kan akka mebla lɛamda .
+Imiren kan iserdasen , d yimsulta n Israyel ẓedmen s axxam n Cirin id-yezgan deg Lquds , ssufɣen akk wid id-yusan ɣer lǧanaza ad wasin axxam n Cirin , tuwet-iten , tessufeɣ-iten .
+Aṭas n tmura id-yennan belli ḥeznen , rfan seg wayen yeḍran , ssaxlen ɣer unadi i yɛedlen , akken ad iwali acu yeḍran , aselway n Falesṭin yenna-d d awezɣi ad qedcen d yisrayiliyen neɣ ad nadin yid-sen deg wayen yeɛnan tamsalt-agiimi d nutni i tt-yenɣan .
+Axxam amellal daɣen yenna-d belli yerfa yernu ssawlen ɣer unadi iɛedlen , ssḥasfen imi tin yemmuten d tamarikanit , imi Cirin tesɛa taɣlent tamarikanit .
+
+Kawsen Ag Geda ( 1880–1919 ) Yella d aheggar atergi d ugrawliw meqqren .
+Ilul deg 1880 ɣer tama n Tamazlaɣt deg yidurar n Ayer ( Niǧer amaynut ) , Kawsen yekka-d seg udrum n Ikazkazan amaziɣ , d adrum meẓẓiyen deg teddukli n Kel Awey , yexdem tagrawla mgal ucengu afransis i d-iskecmen iman-is deg yidurar n Ayer deg Nijer , deg 1916-17 .
+Ardekal ɣelluy-ines .
+Yerra Kawsen ɣer ugafa ; yettwaṭṭef yettwaxnaq seg yiserdasen iɣelnawen deg Murzuq , Libya .
+Gma-s Muxtaṛ Kudugu yella d aɣella wis sin deg akk tudert-is , yedder kan yiwen n useggas ardekal lmut-is , yemmut deg tnegluft mgal Tubu d Fula deg tselṭanit n Damagram .
+Syin , deg 1914 tessawel ṭṭriqa tesnusit ɣer Lǧihad mgal ucengu afransis .
+Deg 1916 , bdann yiserdasen i yemhel Kawsen amennuɣ d unekcum ɣer kra n temdinin deg yidurar n Ayer .
+Mazal ccfawat n tegrawla , d tmenɣiwin id-yekkan ardekal-ines d timuddirin deg wallaɣen n yitergiyen , ttwalin tagrawla-agi d aḥric seg usaru meqqren n umennuɣ ilmend n tiwin n tlelli seg ucengu , kra nniḍen ttawlin asaru-agi ur yekfi ara imi mazal ibaduten iwakuden ur wwin ara tilelli deg Nijer d yinurag-is .
+Nezmer ad nessers tagrawla n Kawsen deg umezruy aɣezzfan n umennuɣ atergi mgal ccetlat n Sungay d Lhusa deg unẓul n uneẓruf ameqqran , ahat amennuɣ yebdan seg unekcum n umenkud n Sungay ɣer Agadiz deg 1500 AT , neɣ daɣen deg tarziwin timezzwura n yitergiyen ɣer unẓul n yidurar n Ayer seg tasus tis 11 ɣer tasut tis 13 AT .
+Kemlen yimennuɣen seg timunent , deg tegrawliwin titergiyin deg udrar n yifuɣas deg Mali 1963-64 , tidyanin n yiseggasen n 1990 deg Mali n Nijer , d tedyanin timaynutin yebdan deg tlemmast n yiseggasen n-2000 ( wali aɣewwiɣ wis sin n yitergiyen ) .
+
+Lla Yamina d tacennayt ger tmezwura n teqbaylit .
+Isem-is n tidett s teqbaylit At Waɛrab Farruǧa , tulled deg temnaṭ n Yiɣil Aɛli di tama n wadda n tmurt Leqbayel ( Basse Kabylie ) deg usegwas 1905 , temmut deg Yennayer 2008 .
+Imiren di laɛmar-is urɛad ɛcrin .
+Anekccum-is a Radyu n teqbaylit yellad s lemɛawna n snat tullawin .
+Yiwet deg sent qqaren-as Lla Tassaɛdit ( nettat d-tarumit , isem-is aḥeqani d Madame Lafages ) .
+Tissnat d Lla Wenissa , umi qqaren Qdim Ḥlima n tmurt n Umalu ( Akruma n wassa ) .
+Ccna n Lla Wenissa d Lla Yamina akk Lla Zina , yezzi kkan s icewwiqen .
+Ulac allalen imiren , ala tuɣac-nsent .
+Uyrna radyu n teqbaylit n yimiren ur tesawad-ara ar tmurt n leqbayel hacca ar tmurt n lɣurba kkan ig iteffaɣ ṣṣut-nsent .
+Lla Yamina nettat tigjdit n ccna n teqbaylit , ger dit yerzan asalu ar ccna n tulawin di lweqt-nni anda ccna yella amzun d lɛar .
+Lla Yamina , Lla Wenissa akd Lla Zina , skerented tarbaɛt umi qqaren `` Tarbaɛt n Lla Wenissa '' deg segwasen nni n 30 .
+Sakkin arnanted ɣursent Lla Cṛifa , Lla Lǧida Tamuqrant , Cabḥa , Jamila , sekrented nnuba umi qqaren `` Urar Lxalat '' yuɣlen d `` Nnuba Lxalat '' .
+Lla Yamina tedda di ccna alami d asmi Imdebren n Radyu ( Amaṭṭaf wis ssin ) bgsend ad sngren urar n lxalat f lemwaǧi n radyu .
+Dɣa Lla Yamina teffaɣ si radyu deg segwasen n tesɛin .
+2 ) Ccaḥ ccaḥ a ṛṛay-iw D kecc ig bɣan , Mi teddid d win ik yehwan , Teǧǧid imawlan
+
+Muḥamed Benḥanafi neɣ Muḥamed At Ṭaher , d anaẓur muqren deg umezruy n yedles aqbayli .
+Ilul deg 1927 di taddart Sidi Atmane di tama n Larbɛa n At Wasif .
+Illa iznuzu lkettan di temnaṭ n Tihert .
+Di tegrawla n uwenbir 1954 , illa d lkumisar di tama tis snat di Tihert .
+Asmi tebbwi tmurt azarug , ikcem-ed Muḥamed Benḥanafi ar tɣiwant n Lezzayer netta d twacult-is , u yebda ixedem di radyu tis snat .
+Ibda s nuba isefra umi isema `` leqlam ajedid '' , imiren ixdem nuba i warrac umi isema `` tibḥirin d ijejigen u-d-waman isemaden ig sefraḥen arrac imecṭuḥen '' .
+Aṭas n warrac i ɛdan ar ifassen-is , i yuɣalen d inazuren n tezlit taqbaylit am Ḥabib Mulud d Nwara .
+Illa daɣen ixdem di tedwilt n `` icenayen uzekka '' anda ɛedan inazuren am : Malika Dumran , Lwennas Meɛṭub , Ǧamal Fraḥi , Saɛid At Judi , Dalil Umar , Malḥa , Anisa , Cabḥa .
+S 1963 asmi ibda ar radyu , iḥbes kan si 1993 ar 2001 , lamaɛna yuɣal-ed s yiwet n tedwilt , isem-is `` ɣaf yir lkanun '' .
+Yura aṭas isefra i inazuren meqqren am Ǧamal Cir , Yidir , Meǧahed Ḥamid , Arezqi Buzid , Atmani , Ṭawes , Qasi Abǧawi , Yasin Babasi , Malḥa , Cabḥa , Wrida , Fella , Lǧida Sɣira , Zahya , Mulud Ḥabib , Crif Xeddam , Muḥamed Bensliman , tarbaɛt n Faḍma n Sumer .
+Yemmut ass n 4 Meɣres 2012
+
+Jean-Baptiste Poquelin yettwassnen s yisem-nnes n unaẓur n Molière ( ilul deg 15 Yennayer 1622 deg Paris - yemmut deg 17 Furar 1673 deg temdint-nni ) , d amaru n tmezgunin yerna d asegbar ( acteur ) n umezgun , d yiwen seg wuẓwiren imeqranen n tmellaɣt ( comédie ) deg tmura tutrimin .
+Yeqdec 13 n yiseggasen d asegbar ( acteur ) ay itteddun seg wemkan ɣer wayeḍ akken ad yurar timezgunin , yerna aya iɛawen-it akken ad igerrez tamussni-nnes deg usseḍsi n medden asmi ay yebda yettaru .
+Imi ay yella yessen kra n warisṭuqraṭen , iṣaḥ-it-id ad d-yurar timezgunin sdat ugellid n Fransa , Louis wis 14 deg leqṣer n Louvre .
+D aya ay yejjan agellid ad as-yefk yiwet n tzeɣɣa deg Louvre akken ad yetturar deg-s timezgunin .
+Maca , ɣas ma yella Molière yella yesseḍsay , llan kra ay yebdan kkaten-d deg tmezgunin-nnes yerna ttwalin-tent xulfent imenzayen akked ddin ( gar-asen imḍebbren n Taklizt Takaṭulikt ) .
+Tamezgunt n Tartuffe ou L'Imposteur ( Tartuffe Axeddaɛ ) iga-tt Molière akken ad d-iwet deg yergazen n wesɣan ( ddin ) ay ixeddɛen medden , dɣa d aya ay yesserfan taklizt .
+Seg tama niḍen , Molière yella iqeddec aṭas yerna aya yesseɛya tazmert-nnes , dɣa ɣef waya ay yeḥbes leqdic deg 1667 akken ad yesgunfu .
+Deg wass aydeg ara yemmet , deg 1671 , Molière yella yetturar-d tamezgunt-nnes taneggarut , Le Malade Imaginaire ( Amuḍin asugnan ) , dɣa teṭṭef-it yiwet n tusut d tameqrant ( imi ay yella yuḍen tideggirt ( tuberculose ) .
+Ɣas ma yella ikemmel urar arma ay tfuk tmezgunt-nni , Molière yemmut kra kan n tsaɛtin sakkin .
+
+Novak Đoković ( Новак Ђоковић ) d amyurar n waddal n Tennis tmurt Serbi , ilul ass n 22 mayyu 1987 di temdint n Belgrad .
+Yebda yetturar d terbaɛt tameqqṛant aseggas n 2003 , yeḥrez amḍiq amenzu n ubellez n ATP azal n 90 imalas yemseḍfaren .
+Yeḥrez ar assa 45 izwilen , gar-asen 10 imeqqṛanen ( 7 n Grand Chelems d 3 teqbuct n Masters ) d 19 n Masters 1000 .
+Đoković yeḥrez azwel n Melbourne di Ustralya iseggasen ( 2008 , 2011 , 2012 , 2013 ) , win n Wimbledon di tmurt n Lengliz ( 2011 , 2014 ) , win n Flushing Meadows di Timura Yedduklen n Marikan ( 2011 ) .
+Tura Novak yettidir di Monte Carlo , tama n Monaco , netta d tmeṭṭut-is Jelena .
+Di temẓi-s Novak Đoković yella yetturar daɣen ddabax uḍar , yella yeẓweṛ s waṭas , maca d addal n Tennis i yeffren mi yella di Tam ( 8 ) iseggasen di lɛemṛ-is , ɣas akken mazal-it yeṭṭafaṛ ar assa u yḥemmel aṭas tarbaɛt n ddabax uḍar n FK Crvena Zvezda .
+Yewwi azwel-ines amenzu aseggas n 2006 , di dduṛt n Amersfort ( indoor ) .
+Seg imir-nni yewwi 7 n t dduṛtin n Grand Slam .
+Yerna taqbuct n Masters Cup ( 2008 , 2012 , 2013 ) d wazal n 19 azwilen n Masters 1000 .
+
+Ardeqqal , iteddu ɣer Tamurt n Faris ( Iṛan n tura ) ed Beɣdad , ed ad d-yuɣal ɣer Tazunegzirt taɛrabt ( deg 1327 ) anda yeqqim kraḍ n iseggasen .
+Deg 1342 , rran d anmahal ɣer amenkad n Ccinwa , Ibn Baṭṭuṭa yeǧǧa Delhi ma d askil-is yella yeččur imihiyen ; iẓdem-d fell-as iɣewwaɣen ihendusen , ixesseṛ ayla-s ed isefka n amenkad n Ccinwa .
+Kra n lweqt deffir tuɣalin-is ( deg 1350 ) , Ibn Baṭṭuṭa iteddu ɣer Limara n Ɣernaṭa .
+Amafag n Tingi Ibn Battuta Mall .
+
+Ilul Henry – René – Albert – Guy DE MAUPASSANT ass n 05 ɣuct 1850 di teɣremt n Miromesnil di Tourville-sur-Arques , ɣer tama n Dieppe , deg Ugafa n Fransa .
+Imawlan-is msebḍan mi yesɛa 12 n yiseggasen .
+Yesɛedda temẓi ines taseɛdit d yemma-s deg ugama n La Normandie , anda ixuleḍ at taddart uɣur i d-yessen tameddurt n yifellaḥen d yinsayen nsen .
+Yekker-d ger lecḍuḍ d lberr , tesḥer-it tugna n waman .
+Mi meẓẓi , iteddu d yiṣeggaden ɣer ceṭṭ i tegmert , d ilemẓi inehher taflukt deg wasif n La Seine , yessikil deg Ugrakal .
+Mi yekfa almud-is , ssawlen-as , yelsa d aɛsekri di tallit n umgaru ger Fransa d Lalman .
+Acḥal d tikelt i d-yebder tirmi-s n tallit-a di tullisin-is anda i d-isugen lfetna ; d lɛada taweḥcit , imenɣan ger yiɣerfan d tifrat n tkerkas ur nettwaqbal .
+Mi yekfa wemgaru , yexdem deg Weɣlif n tegriwa ( la marine ) , sakkin deg Welmud azayzan ( publique ) anda yettwali tudert tabiruqratit iɣef iqejjem di lehmum d lɛeqliyyat n yimdanen i yudes di tirawin-is tiseklanin .
+Ɣas akka , yeqqim d axeddam amedyan ; iquder iman-is , qudren-t yiɣellaten-is .
+Segmi d-tufrar tullist-is : Takurt n Tassemt ( Boule de Suif ) , MAUPASSANT yebda tira deg yeɣmisen iɣer t-iwelleh Gustave Flaubert i yas-iseknen iɛewwajen n tsekla , yeḥbes seg uxeddim-is akken ad yidir d imserreḥ aḥrur .
+Bdan-as wuguren n tezmert .
+Imagraden i yettaru di tɣamsa , uɣalen-as d asluɣmu d tannant i t-yullen ɣef tira .
+Di temrawt 1880-1890 , yura setta wungalen : Une Vie deg 1883 ; Bel-Ami deg 1885 ; Mont-Oriol deg 1887 ; Pierre et Jean deg 1887-1888 ; Fort comme la Mort deg 1889 ; Notre cœur deg 1890 akked 305 ger tullisin d tmucuha .
+Iweddeb-it waṭan n nnaqsa ( névralgie ) i yas-isewlellsen allen-is , yerna yesnulfa-yas-d amerɛun , ikemmel-as Syphilis , armi yuɣal yezzer di lweswas , yezga yettwali tamettant-is ; dɣa yeɛreḍ ad ineɣ iman-is weqbel ad t-tekcem tselbi d wekraf armi yemmut ass 06 Yulyu 1893 .
+Yettwamḍel di tenḍelt n Montparnasse s tilin n yimeddukal-is , gar-asen Émile Zola .
+Ɣas yettunebgat sɣur timetti tunnigt n tallit-is , iḥemmel agama , iḥemmel taywennit ( solitude ) , iɣucc axaleḍ d wuḍan n zzhu n yinesbaɣuren .
+Yenna deg yiwet si tebṛatin-is : Kra n wemdan yebɣan ad yeḥrez iman-is , ama d tilelli n tekti , taɣawsa , tudert , talsa akked umaḍal s tiṭ n umannay ilelli , ilaq-as ad yebɛed maḍi ɣef yenna-tenna .
+Ad yebɛed ɣef teflas d tesraḍ yettwawṛaten .
+Ad yebɛed ɣef uxaleḍ d wassaɣen n tmetti , ayen ?
+Imi tuccḍa akked leḥmeq , neṭṭḍen amdan s zzerban bla ma ifaq ; ad yaɣ abrid nsen , ad yelḥu deg-s tikli-nsen , ad yettxemmim s ttxamim nsen .
+Yenneɛtab seg yilem i yas-d-yezzin d wulac n tudert , MAUPASSANT , izdeɣ-it lweswas , hban-t wumran ; d ayen i yas-yekksen asirem n ḥellu .
+Yenna ɣef waya : « Ẓriɣ gwriɣ-d iman-iw , sserhaben-iyi wuḍan iɣezfanen n tusaft .
+Yettuneḥsab ɣur-s uḥulfu n teywennit d lmektub , di tedmi-s ur yumin tella leḥmala ger yemdanen ; wa ur ikeccem deg wul n wayeḍ , amsefhem gar-asen d awezɣi .
+Ayagi , yettban-d di tirawin-is s tmuɣli n layas alqayan ɣef tudert akked tmetti .
+Yella d amdan yettḥussun mačči d win yettḥulfun .
+Yeqqar : « Ɣur-i asugen asemmaḍ ilaw .
+Ḥemmleɣ ayen ẓerreɣ… ur sɛiɣ ara iman aḥulfan. ’ ’ Taẓuri ines , tezdeɣ asugen ilaw n tɣawsa d tekli n wemdan akked tmetti .
+Ur yeḥbis ara deg usugen n yal amkan i yudef : agama d yinsayen n yimezdaɣ-is , timetti n Lpari d leɛceq ines , lgirra d lfejɛat-is… Ma d isental-is i d-yettuɣalen s ṭaqqa deg wayen yura , ggten , gar-asen : Tayri d wassaɣen-is , igen d wemgaru , takdit d lexdeɛ , tigullelt d wayla , tamgerḍt d ttaṛ , tagmert d usgunfu , jjiḥ d tlawin , aman d yillel , tamettant d tselbi , atg .
+Maca , deg waya akk , MAUPASSANT , yemmug am unaẓur ; ur yebɣi ara ad aɣ-d-yesken tugna n tudert , maca ad aɣ-d-ifek tamuɣli-s lqayen yemmden , tin iqerben yettqerriben ɣer tilawt .
+I wakken ad yaweḍ iswan-is , MAUPASSANT , iseqdec aɣanib asehlan d uweɛran .
+Tafyirt-is d tafessast tefses d leqniɛa n tudert n yidgan igellem .
+Maca , isental-is qqnen s initen d yinsayen n Fransa n tallit-is , ladɣa wid n temnaḍt n La Normandie , tikwal yuɛer , neɣ ahat d awezɣi ad yenfali wemdan ɣef tefses yellan akk di tutlayt-a s tutlayt-niḍen .
+
+Maṛtina Hingis d tanaddalt n Tennis Taswisit ilulen ass n 30 Ctamber 1980 di Košice ( tamurt n Sluvaki , zikenni čekusluvaki ) .
+D nettat i d tanaddalt meẓẓilen i yebḍen ad teḥrez talɣuɣa n Grand Chelem si zman n Lottie Dod aseggas 1887 , d nettat daɣen i d tanaddalt tameẓlant i yebḍen ɣer tqacuct n wedras umaḍan deg umezruy n Tennis .
+Tettmeslay rebɛa n tutlayin , Tačikit , Talmanit ( taswist talmanit ) , tagyizit d tefṛansist .
+Tella d tamdakult n unaddal n Golf Serǧiu Garsia , sin akkin tessen amyurar n Tennis Radek Stepanek asegwas n 2006 .
+Tezweǧ akked umennay afṛansi Tibault Hutin aseggas n 2010 .
+Deg useggas n 1999 tuɣ axxam deg temdint n Floride Marikan maca teqqim tettidir di teswist .
+D yemma-s i s-yefkan isem n Martina , imi tella tḥemmel tanadalt tameqqṛant n Tennis Martina Navratilova , nettat daɣen n tmurt n čekusluvaki .
+Yemma-s tella tetturar addal n Tennis , dɣa d ayen i tt-yeǧǧan ad tili d tasleɣmayt n Martina deg umecwaṛ ines meṛṛa .
+Aseggas n 1997 d win i iwalan urar n maṛtina ad yuɣal qessaḥ nezzah , terbeḥ 37 uraren wa deffir wayeḍ , iz d yewwin 6 telɣuɣa , tewwi Open n lustṛali mgal Mary pierce 6-2 6-2 , tewweḍ ɣer tagara n Rolland Garros anda texṣer d Iva Majoli acku tuḍen cwiṭ di tagara , tewwi daɣen Wimbledon mgal Novotna akked US Open d Venus Williams 6-4 6-0 ; d ayen i tt-yeǧǧan ad tawi Clem amecṭuḥ .
+Tewwi kṛad n telɣiwin n Grand Chelem yemgaraden , ala Rolland Garros it xṣen sin iberdan di tagara , aseggas n 1999 anda turar akked tanadalt tameqqṛant Steffi Graf i yellan di tagara n umecwaṛ-ines deg addal n Tennis , teqqim-d deg umezruy , acku Martina tɛac ass-nni yiwen wass ur tezmir ad tettu , tella terbeḥ urar deg weḥric amezwaru , sinna yella-d umgarad garas d unefray , ayen yeǧǧan ula d imfarǧen ( imeshanayen ) ad ddun d Steffi Graf , di tagara , Maṛtina texṣer talɣuɣa , teffeɣ seg urar s yimeṭṭawen , ayen werǧin n wala deg addal agi .
+Seg ass-nni Martina ur tewwi talɣuɣa n Grand chelem , teqqim deg umḍiq amezwaru deg ubellez umaḍal , acku terbeḥ aṭas n telɣuɣa it tturar , maca ur tewwi ara talɣuɣa tameqqṛant .
+Aseggas n 2002 texṣer daɣen di tagara n Open n lustṛali mgal Jennifer Kapriati , deg urar daɣen id yeqqimen deg umezruy aladɣa Maṛtina tella teḥrez aḥric amezwaru 6-4 , yarna deg wis-sin tella tezwar 4-0 , sinna 5-1 , ar-mi dezzi fellas Jennifer , tifesniwin di temdint n Melbourne bḍen-t ɣer 50°c , ayen yeǧǧan Maṛtina att xṣer zdat Jennifer .
+Lxṣara y agi d tin yeǧǧan Maṛtina kra wagguren ar zdat ad tḥbes urar n Tennis di Frurar 2003 , mbaɛd mi tesɛa kra iɣeblan deg uḍar-is .
+Xas akken , Maṛtina teqimed d yiwet seg tnaddalin n Tennis tameqṛant , dɣa imi ur tesɛa y ara lǧahd amakken tella Monika Seles neɣ Serena d Venus Williams , maca tewweḍ ad deg amḍiq-is gar asen-t , u ad tiweḍ ɣer tqacuct n ubellez n Tennis azal n 275 imalas .
+Di Gold Coast , i lemhegga n Open n lustṛali , tin yewwin 5 n Grand Clem tarbaḥ timlilit ines tamezwarut zdat Maria Vento-Kabchi 6-2 6-1 , tarna tarbaḥ snat n temlilin igarzen armi tebweḍ zdat n Flavia Pennetta , tanadalt tis 23 deg umaḍal dɣa texṣer timlilit acku tesɛa uguren deg wammas-is .
+Ddurt i dyernan texṣer zdat Justine Henin 6-3 6-3 .
+Di Open n lustṛali 2006 , Grand Clem ines amezwaru segm-id uɣal s uran , Martina Hingis tesbegned d akken mazal-itt d tanaddalt tameqqṛant , imi dɣa tessaweḍ armi d dduṛt n wis 1/4 si tagara , uqbel ad texṣer zdat n Kim Clijsters di 3 yeḥricen : 6-3 2-6 6-4 , maca Maṛtina Hingis ur duɣal ara seg Melburn ifassen d-imawen , aladɣa tewwi Tabuqalt n uslig ( irgazn/tilawin ) akked amyuran n tmurt Lhend Mahesh Bhupathi , tabuqalt tis 8 deg Open n lustṛali , 3 ( kraḍ ) deg Afras , 4 ( kuz ) deg uslig tilawin , 1 ( yiwet ) deg uslig irgazen/tilawin .
+Di tedwilt n Ṭukyu , Maṛtina tessuffeɣ ta deffir tayeḍ , Naṭali Decy , Maria Kirilenku d Maria Caṛapuva di 1/2 si tagara , tewweḍ ɣer tagara n tedwilt i tikkelt tamenzut segm-id uɣal , maca di tagara texṣer zdat tarusit Elena Dementieva sin yeḥricen s ulac ( 6-2 6-0 ) .
+Ayagi yeǧǧa Maṛtina ad ali deg ubellez n WTA seg umḍiq n 117 ɣer wis 48 , sin wagguren kan segm-id uɣal s-urar .
+Tewweḍ ɣer dduṛt tis 1/4 si tagara di Dubai , anda texṣer timlilit ines zdat Maria Caṛapuva , i d-yerran ttaṛ , ayagi maca yeǧǧa martina ad ali deg ubellez n WTA ɣer s-amḍiq wis 32 .
+Tkemmel deg Indian Wells , anda terna Lindsay Davenport , maca texṣer di 1/2 si tagara zdat Maria Caṛapuva i iḥersen tadwilt agi di tagara , di tagara n tedwlit tuli-d s amḍiq wis 26 deg umaḍan .
+Tewḍel ɣer tedwilin n wakal , anda Maṛtina tennad d akken ala Rolland Garros i tt-ixuṣṣen deg tedwilin n Grand Clem , u d yiwet seg tɣawsiwin i tt-yeǧǧab tuɣal-d ɣer wurar , deg Vaṛṣuvi texṣer di dduṛt tis snat zdat Venus Williams s ugemmuḍ : 4-6 7-5 6-4 .
+Di Berlin tebweḍ ɣer 1/4 si tagara anda texṣer zdat Amili Muresmu:4-6 6-4 6-4 .
+Ass n Acur 21 Mayu 2006 Maṛtina tesbegned d akken tuɣal-d s wazal-is imi terbeḥ tadwilt n Ṛṛum di temlilit n tagara zdat tarusit Dinara Safina s ugemmuḍ 6-2 7-5 , tagi d tarennawt ines tamenzut seg 2002 , u d tis 41 deg umacwar ines ; deg ubellez Maṛtina tulid ɣer s amḍiq wis 14 .
+Di barra n wannar , Maṛtina tellad d « come-back n useggas » deg Laureus Award n Barcelone , i tuɣalin ines ifazen ɣer wurar .
+Sinna mi terbeḥ tamarikanit Lisa Raymond , tačikit Zuzana Ondrášková , takṛuatit Ivana Lisjak , tizraelit Shahar Peer , texṣer deg 1/4 n Roland Garros zdat tabeligit , tis nat deg umaḍan , Kim Clijsters .
+Tuɣal ɣer Wimbledon 5 iseggasen si tikkelt taneggarut , tarbaḥ Olga Savchuk , Tathiana Garbin maca teɣli di ddurt tis kṛaḍ zdat tajapunit Ai Sugiyama .
+Di tedwilin n Marikan texṣer deg 1/4 di San Diego zdat daɣen n Kim Clijsters .
+Tewweḍ ɣer tagara di Montreal , ayen i tt-yeǧǧan ad kcem ɣer 10 timezwura deg ubellez umaḍan .
+Deg US Open texṣer di ddurt tisnat zdat tafṛansit Razzano .
+Di tedwilin n Asia , tewwi tadwilt n Kalkuta zdat Pučkuva , tṛuḥ ssin ɣer seoul anda texṣer di dduṛt tisnat zdat Sania Mirza .
+Martina tessaweḍ ad tekki deg Msters n Madrid , acku tuɣalin ines d tin i igarzen s waṭas , maca tuzgad deg aggay awṛaɣ , anda tella Ameli Muresmo , Nadia Petṛuva d Justine Henin texṣer zdat Henin d Muresmo , maca tarbaḥ Nadia Petṛuva di temlilit tis kṛaḍ .
+M-ad Maṛtina teḥbes urar n Tennis i tikelt taneggarut .
+
+Yemma-s , Agribin tamenzut terna ɣur-s akken ad s d-arew snat n teḥdayin di Lalman ; Agribin tameẓẓyant `` rran-d isem n yemma-s '' ( yemma-s n Nirun ) deg 15 , d Drusilla di 16 .
+Amenkad Tibir , yusmen seg Ǧermanikusiwala-t d axeṣṣar fella-s dɣa yenɣa-t di 19 Yenna-d umazran Switun belli imiren id-bda ters tayri gar Kaliɣyula d Drusilla s tuffra ( tayri gar uqcic d weltma-s ur tettwaqbel ara di akk timettiyen ) netta tella 13 ma d netta 17 .
+Kaliɣyula yekkas weltma-s i urgaz-is Lukyus Kasyus tebra-d deg useggas-nni yekkes-it Kaliɣyula si tudert qabel-nni .
+Deg ctumber 37 , yerra Kaliɣyula Drusilla d tawrit ɣef yidrimen-is d umenkud-is .
+d tameṭṭut tamezzwaru i wumi ara yettunefk umenkud s lebɣi n umenkad .
+Deg tuber 37 , Antunya tamẓẓyant , jida-s n Kaliɣyula d Drusilla , tenɣa iman-is , tuyes seg tudert imi yesserwa-as Kaliɣyula lemrar kkes-d d acu ur s-yexdim .
+S wul ihudden , yeffeɣ si Rum ur d-yuɣal armi d kra n yimalasen .
+Mi d-yuɣal ɣer Rum , deg Ɣuct n 38 , yessuter-d i usqamu n lecyux ad rren Drusilla d illu , yeqqim way-a armi d Yulyus Sizar Kaliɣyula leɛmer yeḥli seg lǧerḥ-nni , d ayen i yuaren urar ameqqran deg lehlak n tnefsit-is d tiderwect-ines i yettwasnen seg uqbel lmut n Drusilla
+
+Isem-ines n tidett Ferit Orhan Pamuk , d yiwen n umaru aterki .
+Ilul deg ass n 7 deg wayyur n yunyu deg useggas n 1952 deg temdint n Stanbul .
+Idlisen-ines ṭṭfen taqacuct n yedlisen deqs n lweqt .
+Nzan azal n 12 imelyan n yedlisen-is , ubayen , mucaɛ aṭas aṭas .
+S waya yuɣal d Amyarru aturki yettwasnen aṭas deg umaḍal .
+Idlisen-is ttwaṭerǧment ( ttwasuqlen-d ) ar ugar n 60 n tutlayin , gar-asent tarumit , talimant , tanglizit , tatelyanit , taspenyulit ... Amyaru yagi yerbaḥ tlata n warrazen , gar-asent win n France Culture ( 1995 ) , win n uɣmis n New York Times deg useggas n 2004 , win n Medicis deg useggas n 2005 .
+Yella daɣen yesselmad deg tesdawit n Culumbia `` Littérature comparée '' .
+Deg useggas n 2006 , yerbaḥ araz n `` prix de la littérature '' , d amyarru aterki amezwaru i irebḥen arras aggi .
+Asmi yewweḍ ar Tesdawit , yeɣra `` architecture '' maca cwiṭ n lweqt kan yeǧǧa leqraya-yagi , yuɣal yetbaɛa leqraya iwakken ad yuɣal d aneɣmas ( journaliste ) .
+Asmi yesuli leqraya-s , yennum yettɣima deg wexxam-is ass marra , mebla ma yeffeɣ .
+Dɣa yebda isurifen imenza deg tira n yedlisen .
+
+Eutropius yella d anmezray Arumani yedderen deg azgen aneggaru n lqern wis rebɛa .
+Yewin unmezray n nidden , Georgios Codinos , deg De Originibus Constantinopolitanis yena-d belli Eutropius yella d amaray n Constantinus I , Gaius Flavius Valerius Aurelius Constantinus , lameɛna ur iban ara lhal lammer ihder ɣef Eutropius agi .
+Ɣas akken Talatinit-is temxalef , deg kkra n imedyan , ɣef ayen yefsan deg tutlayt , lameɛna ahric ameqran n iɣerbazen uddren , ɣef lmuda i meqren , iḍrisen-is imi selmaden Talatinit i inelmaden-nsen .
+Taɣzi n Lbreviarium temɣer armi n lweqt n Iustinianus s iffassen n Paulus Diaconus ( illul azal n 720 – yemut azal n 799 ) akk-d Landolfus Sagax ( azal n usegas 1000 ) armi n lweqt n umenkad Leon V ( 813-820 ) asmi teţwaru tigezmi yeţţusemmen Historia Miscella .
+Ger tisuqal merra deg tutlayt Tayunanit s iffasen n Capito Lycius akk-d Paeanius , taẓrigt n unegarru i g kemlen ɣef wiyad .
+Lameɛna taẓrigt n Eutropius i sɛan ccan deg ddunit merra tella n H. Droysen ( 1879 ) imi tesɛa taẓrigt Tayunanit akk-d n Paulus Diaconus d Landolfus .
+Llant daɣen atas n tisuqal s Tanglizit .
+
+Faḍma At Menṣur neɣ Faḍma At Menṣur Ɛemruc , Faḍma At Menṣur-Ɛemṛuc yal tamnaḍt taqbaylit akken id tessenṭaq d tameṭṭut taqbaylit tamenzut i yuran adlis s tfṛansist iwumi tsemma tamacahutt n tudert-iw Histoire de ma vie deg useggas 1946 di Ṛades i d-yeffɣen deg useggas 1968 , aseggas mbeɛd tamettant-is .
+Tazwert n udlis-agi yura-tt Vincent Monteil akked Kateb Yasin .
+Faḍma d tayemmat n sin n yemyura , inaẓuren imeqqranen i d-yeğğan isem-nsen deg tsekla tafransist d yedles amaziɣ , Jean-lmuhub Ɛemruc d Marie Louiz Ṭawes Ɛemruc .
+Di taddart-is , tenḥaf aṭas , timetti n yimiren ur tt-tqal ara sawalen-as taqcict n lɛaṛ , ɣef waya wwint-tt temrabḍin Iṛumyen yellan xedment di sbiṭar n Micli sekrent-tt-id , seɣrent-tt , dɣa mi temmed , tewweḍ 16 yiseggasen , fkant-as amḍiq gar-asent , txeddem dinna ula d nettat di sbiṭar , di lawan-nni dɣa i tt-yessen Belqasem At Ɛemruc i d wi tezweğ deg useggas 1899 .
+Mbeɛd zzwağ-is , Faḍma tban-as-d tudert-nniḍen , tufa win i d wi tecrek lferḥ-is d lqerḥ-is .
+Belqasem yella-yas d ayen akk tt-ixuṣṣen di tudert-is , yefka-yas tayri , leḥnana , tagmat , yerra-yas-d taflest d laman deg yiman-is .
+Tedder kra yiseggasen gar yiɛeggalen n twacult n urgaz-is syen unagen ɣer Tunes .
+Dinna , dɣa i tesɛedda tugget n yiseggasen n tudert-is , tessekcem arraw-is ɣer uɣerbaz , tefka-yasen ayen akk ilaqen akken ad ilin gar wid ifazen , ufraren-d s tegzi-nsen , s tmusni-nsen kesben , ḥellan-d imeḍqan ɛlayen .
+Faḍma d Belqasem , d ddin amasiḥi i ḍefren .
+Ɣef waya ad naf yal yiwen deg tarwa-nsen fkan-as sin n yismawen , yiwen d isem amasiḥi , wayeḍ d isem amaziɣ acku Faḍma ɣas tebɛed ɣef wakal n lejdud-is maca teṭṭef deg yiẓuran-is , s wakka arraw-is ẓṛan ansi d-frurin .
+Dinna di Tunes , tezga tettcewwiq izlan n teqbaylit , tettawi-d timucuha n tgemmi n lejdud-is i dderya-s , tessaweḍ tefka-yasen idles-is , idles tuwret ula d nettat ɣef yemma-s. Faḍma iḥuza-tt aṭas yinig , ɣef waya tenna : zgiɣ sarameɣ , yiwen n wass ad iliɣ di tmurt-iw , di tlemmast n taddart-iw , gar lejdud-iw , d wid d wi ttmeslayeɣ s yiwet n tutlayt , wid d wi zdiɣ yiwet n tmuɣli , yiwen n yiman neɣ rruḥ n tlelli , n tdukli d tmunent , d rruḥ n Yugurten .
+Deg wakken tfud , neɣ tḥemmel taqbaylit-is , tessaweḍ armi tettali ɣer sufella n tɣurfett akken ad tessemḥas i yemsebriden yettɛeddayen zdat uxxam-is i d-yezgan deg ubrid ameqqran imi ara ttmeslayen s tcelḥit imi d tantala n tutlayt tmaziɣt yettcabin aṭas ɣer tantala taqbaylit .
+Faḍma d adrar n ssber acku zyada ɣef lḥif i tt-iḥuzan di temẓi-is , rnu lɣerba i tt-yesbeɛden ɣef wakal-is , terna-d tmettant yettawin arraw-is yiwen yiwen , d urgaz-is Belqasem , tewwet ssiɛqa di tudert-is imi tezwer akk tawacult-is , d ussan irẓaganen i tessegra ala Ṭawes i s-d-yegran , tin i d wi tezdi lqerḥ-is .
+Faḍma ur tunif ara i yir tudert tesɛedda d wussan i tedder di tmurt n Leqbayel ad ten-tɣum tatut .
+Ayen i d-teğğa d agerruj , ɣur-s aẓar n tmedyazt d tẓuri .
+Ass-a , teqqim-d d azamul n tmeṭṭut taqbaylit timinigt s tesreṭ tamasiḥit yefkan i warra-is ttrebga izaden , i ten-id-yessufɣen d aggagen n yal ukud di yal amkan .
+Temmut Faḍma di Sbiṭar n la Bretagne di tmurt n Fransa deg useggas 1967 .
+
+Gaya d agellid aneggaru n tgelda n masilya uqbel ad tt-yesdukel mmi-s Mass-nsen yesзa 04 n warrac id-yebder umezruy ( wigi ur llin ara d arraw n taklitin n Gaya maca d arraw n tlelliyin ) d Mass-nsen Ulzasen Feryal d Masilba .
+yexdem nnfaq d Qerṭaj yernu yerra tagelda n Lmazisul ar deffir imiren d sifaks i tt-igelden .
+yekcem tamdint n hibu Ɛennaba tura yerra-tt d Tamanaɣt .
+si rrbeḥ ɣer wayeḍ akka armi yeweḍ tamdint n Kulu ( Skikda ) armi d tisilisa n wass-a gar Lezzayer d Tunes .
+mi yekfa nnfaq d qertaj yezgan d ccwal d Ruma .
+yexdem amwali n talwit yid-sen . yuzen-asen-d mmi-s d umekkasu-ines Mass-nsen ula d iqertajiyen uzenen-d mmi-s n uqerru-nsen ɣer teɣremt n Gaya .
+yedda cwiya d qertaj di nnfaq-ines mgal Rum .
+yessegra-d ussan-is ineggura i umennuɣ d tgelda tamazisulit i yegled ugellid Sifaks umi tamurt-ines tezga-d si kulu armi d muluca di tmurt n Lmerruk n wass-a .
+yesebbel tudert-ines akken ad timɣur tgelda-ines armi dayen .
+ɣef waya i yeddukel d Saderbaɛl ( agellid n Sbenyul n wass-a ) akken ad-as-id yezzi i sifaks si sin n yidisan .
+di taggara n tudert-ines ibeddel isem-ntgelda-ines si Masilya lmeɛna-s Mmi-s n yilel ar Numidya n usamar yessegra-d tagelda yelhan tban-d deg Masensen ardekal .
+deg useggas n 207 uqbel n tlalit n lmasiḥ yemmut Gaya yegled mmi-s Ulzasen syin d Kabusa ass mi id-ḍra tiyita n uwanek tefka deg-s Qerṭaj afus yegled Lakumzis maca masensen yerra-d azref-ines ikemmel asemlil n Tageldit n Inumiden
+
+Muḥemmed Lmaǧed Ɛebdelmalek yettwasnen s yisem n Crif Bubeɣla , d agrawliw azzayri id-bedden mgal yifransisen di tazzwara n unekcum-nsen , ɣer Lezzayer , ilull deg useggas n 1820 .
+Yettwassen s usenker-ines n tegrawla yeṭṭfen isem-is deg ɣuct 1851 , mgal ucengu afransis deg temnaḍt n udrar n Ǧerǧer ( tamurt n Leqbayel meqqren ) i yessenker mi yeddukel d Lalla Faḍma N Sumer .
+Ikemmel tagrawlaa-agi armi yemmut deg wass n 24 duǧember 1854 , ideg yemmut deg umennuɣ deg yidurar n Lbiban deg tɣaltin yulin , deg temdint n Burǧ Buɛririǧ .
+deg 5 yulyu 2020 , wwin-d ayen id-yeggran seg yiɣsan-is ɣer Lezzayer , imi wwin yirumyen iɣsan-is mi t-nɣan ɣer usalay n umdan deg Paris , ɣer tama n 24 n yigrawlien izzayriyen i wumi teḍra-asen akka am Bubeɣla , meḍlen , -t deg tmeqbert n Lɛalya deg Lezzayer tamanaɣt .
+Bu ssidf agi yettunnefka-as imi yelmla itekka ɣer seyyafa yeddan d ugeldun Ɛebdelqader , Yunag-d seg umalu n tmurt ( si leǧwayeh n Ssɛida ) ɣer Sur Lɣezlan , imi kecmen yirumyen tamnaḍt-a i seg id-yerwel , di taggara , yextar Lqelεa n Ayt Ɛebbas akken ad yebdu dinna aheyyi i tegrawla mgal yifransisen , s lemɛawna akked yiderman iɣelnawen .
+Ikemmel deg tiwḍin n yiserdasen iṛumyen armi i tent-rra tmara ad uɣalen ɣer deffir ; ɣer udrar n Ǧerǧer , imiren rnan-d yiderman-nniḍen ɣer yidis-s . Dinna , i yesselḥeq Bubeɣla ad yesseɣli tarbaɛt n yiserdasen ifransisen ɣer tama n Buɣni , deg wass n 18 ɣuct 1851 . . Mi ččan tiyita qqimen yiserdasen irumyen s ddaw n lamer n ujiniral Bilisyi ddawaren ɣef yigrawliwen di temnaḍt n Leqbayel i wayyur s lekmal-is .
+Mi d-yuɣal ɣezr Wat Mlikec , yessewseɛ axeddim-is armi d temnaḍin n Leqbayel yettḍillin ɣef yilel .
+armi d 25 yennayer 1852 mi ḥwaǧen 3000 n yiserdasen akken ad ɛiwden alluy n ubrid gar Bgayet d Leqṣer , mi yečča tiyita tamaynut , yebda anadi ɣef yigrawliwen ara yilin ɣer tama-s , armi d 19 yunyu mi t-ḥuza terṣast mi yella yettnaɣ deg taddart n Tiɣilt Meḥmud ( ɣer tama n Suq Letniyen ) .
+D anembaḍ n temnaḍt Randdun deg taggara i yxeddmen tuffɣiwin s lemɛawna i as-d-fka Fransa deg ttnaṣfda n 1854 , iswi-inrs d asseɣli n Wat Jennad yeddan d Bubeɣla , yekcem taddart n Uɣrib , yezḍem ɣef Wat Yeḥya d Wat Ijjer , xas akenni yewser azal n 94 n yiserdasen yemmut d 539 i yjerḥen , Crif Bubeɣla yettwajerḥen yuɣal-d ɣer Wat Mlikec , ideg ikemmel asegɛed n yiserdasen-is , yelḥeq ad yeddukel d Lella Faḍma N Sumer , maca yettwanɣa deg 26 duǧember 1954 ɣef ufus n Lexḍer ben Lḥaǧ Ḥmed Lmeqqrani ( gma-s n Muḥemmed Lmeqqrani ) .
+Syin , Lella Faḍma terra irumyen ad sutren aḥbas n umenɣi , mi xesren di tnegluft n Teckirt 800 n yiserdasen gar-asen 56 n yiɣellaten , ur teɣli ara tegrawla armi d 1857 .
+
+Ḥmiduc , neɣ s yisem-is aḥeqqani Ḥmed Xeddim ( Ahmed Khedim ) , d acennay n teqbaylit yerna d amedyaz .
+Ilul ass n , 14 ɣuct 1956 , deg Ugni n Waklan deg taddart n Ɛeṭṭuc , taɣiwant n Makuda , deg lwilaya n Tizi Uzzu , deg tmurt n Leqbayel .
+Ilul-d deg yiwet n twacult talemmast kan , yella diɣ d ababat n 04 n warraw-is .
+D ilemẓi n 45 n yiseggasen kan d leɛmer , asmi medlent wallen-is , tcelqef-it lmut , yeǧǧa ddunit ur tt-yeṛwi , yezger ɣer laxert .
+S ṣṣut-is ḥninen , yeččuren d sser d wawal iweznen i yezdeɣ ulawen n medden .
+D acennay n tayri zeddigen d wuguren n tmetti taqbaylit .
+Yemmut ass n , 05 yunyu 2002 , deg temdint n Marseille n tmurt n Fransa , di leɛmer-is ala 45 n yiseggasen .
+Ma d ssebba n tmettant-is d aṭṭan n tgeẓẓal , i t-yeṭṭfen acḥal d lweqt .
+Ass n 11 yunyu 2002 , wwin-d lǧessa-s s axxam-is yellan deg taddart n Taksebt , wallan-t medden i tikkelt taneggarut .
+Aṭas n yinaẓuren imeqqranen i iḥedren tamḍelt-is , yecban : Lewnis At Mengellat , Baɛziz , Amar U Rabaḥ , Buǧemɛa Agraw…at .
+Yettwamḍel deg taddart-is tanaṣlit Agni n Waklan .
+Tizlit akk tamezwarut yecna d asefru-nni « A Wiza semmeḥ-as » i yura s timmad-is .
+Syin akkin yebda asekles n yiḍebsiyen armi yeṣṣaweḍ 11 n yiḍebsiyen .
+Amezwaru yecna-t deg useggas n 1980 , ma d sin ineggura yessuffeɣ-iten-id deg useggas n 1993 .
+Yesɛa yiwet n ṣṣut dayen kan , d win n waqqur .
+Ulac ilemẓi neɣ tilemẓit ur yesuzen ara , ḥemmlent akk yilmeẓyen .
+Yecna gar 1978 armi d asmi yuḍen di 2001 .
+Deg useggas n Tefsut n yimaziɣen ( 1980 ) , yessuffeɣ-d tasfift-is tamenzut i wumi isemma « Kret ay ayetma !
+» , ideg llant 09 n tezlatin .
+Gar-asent : A Wiza semmeḥ-as , Kkert ay aytma !
+Seṭṭac di leɛmer-is , Lbumba , Nadya ruḥ…atg .
+Syin akkin , seg useggas n 1980 armi d 1986 , yessuffuɣ-d tasfift di yal aseggas .
+Ffɣent-d akka myezwarent ; Inna-as inna-a 1981 , Lemḥiba-w temmut 1982 , Kker a gma ad nruḥ 1983 , Sidi Lmir 1984 , Lezzayer-Tunes 1985 , Targit 1986 .
+Tin ɣur-s , yeqqim armi d 1988 , i wakken i d-yerna tasfift-agi Ayayay , syin yerna 3 n yiseggasen d wakken i d-yessufeɣ album wis 09 , i wumi isemma « Le parti » .
+Sin n yiseggasen mbeɛd , di 1993 ikemmel-d sin-is iḍebsiyen ineggura ɣef tikkelt , wigi d « Azzayri » akked « Tafat » .
+Syin akkin , seg useggas n 1993 armi i d-tewweḍ Tefsut taberkant deg aseggas n 2001 , ikemmel kan yecna deg tmeɣriwin , maca ur d-yessuffeɣ ara .
+
+Aḥmed Ǧennadi d yiwen ger imenzawiyen n tilizri iqbayliyen .
+D amseḍru isura d tasgilin .
+Mmis n Bgayet isɛan 50 n yisegasen , d bab n ṣaṭ ( 7 ) n derya .
+Yeɣra tizrawt n umzenzi , u yesɛa agerdas di tusna usedhan 'Comptabilité ' i d yewwi di 1974 , d ayen icban lbak n tura .
+Isyin iɣra azal n kuz isegasen di yiwen uɣerbaz n Lyon di Franṣa anda id yebwi agerdas n CED ( Diplôme d'Expert Comptable ) .
+Anecta yella-d s wudem amneɣray imi di talit nni tawafɣa ar berra tella s ttesriḥ sɣur adadu n Lezzayer n imiren .
+Di tuddert-is Aḥmed Ǧenadi yexdem aṭas n tasɣunin .
+Yella d asedhan , d amdebbar ( aɣella ) usedhan , d anemhal n tedrimt , d anemhal amatu n tkebanit deg weḥric n lebni neɣ usali alama d 1984 .
+Seg useggas agi yuɣal d alellam ( Libéral ) , dima deg weḥric usali .
+Seg usegas n 1980 , iger idaren-is deg weḥric usliqqel ( Audio-visuel ) .
+Imiren yella ixeddem s Kamira n 'Super 8 ' s wayes ixdem aṭas n tugniwin i yeffer d cfawat .
+Deg 2001 , imi yella iteddu ar Franṣa imlal-d d yiwen uwaziw n tilizri yettwasnen Muḥend Tafarka deg unafag Aban Ramḍan n Bgayet .
+Yarḍit ar Rradyu n tmaziɣt n BRTV , i syin iɛedad di tilizri ines .
+Anecta ibeddel amecwar-is imi s tmusni ines deg usliqqel , akw d teqbaylit , ur iɛeṭel ara yuɣal ger iɛegalen n tilizri n BRTV ifazen ar assa .
+Seg ass-nni ara assa , i sewǧad yiwet n tasgilt yal amalas , umi isemma Tamurt-iw .
+Ar tagara n 2006 , tasegilt-agi tesɛa azal n 483 n tedwilin .
+Gar asent , ma nezmer ad nader tidiwinin i yexdem akw d uneɣlaf amezwaru iɛedan Aḥmed Uyaḥya deg wexxam udadu , d kra udmawen n umussu n Laɛrac , am Belɛid Abrika d Ali ɣerbi .
+Deg 2006 , isufɣed yiwen ussaru ɣezifen s tutlayt taqbaylit , umi isema Aɛziz aken yebɣu y-ili .
+Anecta yella-d s illalen ines d lemɛiwna n kra n tkubaniyin am CRISTOR n Burǧ Buɛririǧ , EPB n Bgayet , d SOVAC n Lezzayer tamanaɣt .
+Deg 2007 , isufɣ-d assaru xezifen wayed isɛan mraw ( 10 ) iḥricen umi isema Ussan Nni .
+Ma d assaru ɣezifen wis krad atan deg ubrud u sufeɣ .
+Azwel-is Asirem .
+
+Mḥenni , di tidett Mḥenni At Waɛmiruc , illul ass n 3 dujember 1938 deg Wizgan .
+Mhenni yesɛeda temẓi-s deg taddart-is At Wizgan , i d-yezgan 65 km ɣef usamer n Tizi Wezzu .
+Asmi yesɛa 8 yiseggasen , yekcem ɣer ulmud amenzu deg uɣerbaz n tlata iwmi sawalen tura At Yexlef .
+Aseggas n 1952 , yunag ɣer Fransa , tamdint n Marseille akked jeddi-is akken ad ikemmel almud-ines , rnu yelmed lḥirfa n uḥeddad neɣ alsaq n wuzal ( soudeur ) .
+Asmi i d-yuɣal ɣer tmurt deg useggas n 54 , tendeh tnekra n Lezzayer .
+Lɛesker n tmurt n Fransa ttnadin ɣef Mhenni yellan iqeddec lawan-nni mgal-nsen .
+Ur sawḍen ara ad t-id-ṭṭfen , yuɣal ɣer wansa i d-yekka , ɣer temdint n Marseille aseggas n 1955 .
+Din kan , yekcem deg umenuɣ meqqren ɣer yidis n watmaten-is yellan deg la fédération de France n FLN aseggas n 1957 .
+Ula deg temdint n Marseille ur yemniɛ ara , ttnadin fell-as iɣallen n laman n tmurt n Fransa , tettunefk fell-as ad yerwel ɣer tmaneɣt n Fransa Lpari , s lekwaɣeḍ ur nseḥḥa ara .
+Dinna , yekcem ɣer terbaɛt tanaẓurt n FLN i iqedcen s tuffra deg leqhawi akked deg yibisṭruten izzayriyen .
+Gar inaẓuren-agi , ad d-naf Ccix Misum , Ḥnifa , Abcic Belɛid , Akli Yeḥyaten , Yusef Abjawi , atg .
+Tarbaɛt-a tqeddec aṭas ɣef tegrewla n Lezzayer , ad sakin win yellan yeṭṭes , sfaqen win yellan yeɣfel s ccnawi-nsen d tceqqufin-nsen n umezgun , xas akken tegget fell-asen lɛessa d leḥris .
+Mhenni yesekles sdis ( 6 ) n tezlatin i d-yettɛeddayen lawan-nni deg radyu n Fransa gar-asent tamaɛzuzt n wul-iw , ay aberrani , ay abeḥri .
+Asmi i d-yusa ɣer tmurt n Lezzayer deg useggas n 1963 akken ad yesteɛfu kra wussan , yemlal d Colonnel Muḥend Ulḥaj i as-yennan : « dagi ara-teqqimḍ i tmurt n Lezzayer nesɛa Radyu .
+» Mhenni yeqbel tiɣimit di tmurt-is .
+Syen Muḥend Ulḥaj iwessa Muḥemmed Ḥilmi , yenna-as « Ɣurek aqcic-agi , awi-t yid-k ɣer rradyu .
+» Deg lawan-nni , Mhenni yesɛa 24 yiseggasen kan di leɛmer-is .
+Dinna radyu tessekcem-d inaẓuren ixedmen s waggur , ideg llant trebbaɛ n uẓawan d trebbaɛ n umezgun ideg yekki Mhenni .
+Ticeqqufin n umezgun ttɛeddint-d yal ddurt .
+Taceqquft ideg d-yurrar i tikelt tamezwarut d tin iwumi qqaren “ Amezruy n umeɣras ” .
+Aseggas n 1964 , Mhenni iɛedda comédien profissionnel s wudem unsib .
+Aseggas n 67 , yesɛa tadwilt iwumi qqaren “ Leɛyub n ddunit ” iḥemmlen aṭas imsefliden deg lawan-nni , rnu ixeddem ticeqqufin n umezgun s ccnawi akked les Sketchs s wazal-nsen .
+Yelḥa-d amecwar almi d taggara n useggas n 79 .
+Deg umecwar-agi i d-yewwi yegla-d s tlalit n yiwet n tizlit mucaɛen aṭas deg yiseggasen n 70 “ Zejiga ” .
+Mhenni yeqdec aṭas ɣer yidis n yinaẓuren meqqren gar-asen Muḥemmed Ḥilmi , Saɛid Ḥilmi , Ben Muḥemmed , Muḥemmed Ben Ḥanafi , Acruf Idir , Anissa , Ǧamila , Newwara d wiyaḍ i yesulin deg ccan n radyu n teqbaylit .
+Amenuɣ i yuɛren d win n yiseggasen 70 ɣef temsalt n tmaziɣt , lawan ideg yeqwa lḥers , tuggdin tezdeɣ ulawen n yimdanen , fuden merra maca ulac anda ara d-swen .
+Maca Mhenni , Ben Muḥemmed d wiyaḍ rẓan asalu , bran i tuggdin , qublen tagnitt ɣas aken tuɛer aṭas , mɛawanen taɛkemt ẓẓayen almi tuɣal fessuset .
+Mhenni akked yimdukal-is i d-yeswejden amennuɣ n 80 ( tafsut n yimaziɣen ) .
+Llan teddun ɣef tesdawiyin akked tesnawiyin , cennun i yinelmaden , senɛaten-asen-d ticeqqufin n umezgun , swayes i ten-sakayen ɣef temsalt n tmaziɣt .
+Tikti agi tekka-d sɣur Mulud Mɛemri , asmi i yenna i Mhenni : « atan arrac-nneɣ ad ten-awin , ɣurwet i d-yegra leslaḥ a Mhenni , ilaq ad sen-tecnum .
+» Deg yimiren yerna-asen tabɣest , qeddcen nnig tezmert-nsen .
+Dɣa , din Mhenni yexdem tizlit iwmi yeqqar “ tcekreḍ-iyi jeddi-k ” akken ad d-yessefhem i tarwa belli sɛan lejdud .
+Tallit-nni , daɣen , tadwilt n “ Iɣennayen n uzekka ” i d-sewjaden yal ddurt Crif Xeddam d Acruf Idir , texdem ccɣel-is , sakin aṭas n yilmeẓyen .
+Rnu tasuqqelt n umezgun “ tawrirt yettwattun ” di radyu .
+Aseggas n 1998 , Mhenni yeffeɣ-d lantrit .
+Yeqqim akken almi d asmi i d-tlul tiliẓri n tmaziɣt ( amaṭṭaf w-4 ) .
+Dɣa , yessawel-as-d Sid Ali Nat Qasi akked Muḥemmed Manesri akken ad yurar deg usaru “ yak nniɣ-ak ! ”
+
+Lla Ḥnifa , isem-ines unṣib d Iɣil Larbɛa Zubida .
+Semman-as ar Ḥnifa , weltma-s n Lla Lǧida Tamuqrant , iy ccnan cwiṭ deg iseggassen n 40 .
+Tawacult-is truḥ ar Lzzayer am waṭṭas n twacculin tiqbayliyen n yimiren iwakken ad affen aɣrum d uxedim .
+Asmi yebda traḍ urumi d uliman ( 2WW ) , tawaccult Iɣil Larbɛa tuɣaled ar Tmurt n Leqbayel .
+Deg usegwas n 1957 , lla Ḥnifa tunag ar Fransa am waṭṭas n Inaẓuren di lawan nni .
+Mid tewwed ar Paris , tebda tamɛccit waɛen macci drus , tamɛccit n waccu id yefka wass yeccat yid .
+Deg usegwas n 1957 , lla Ḥnifa temllal d Kamal Ḥemadi , yettnadin ɣaf ṣṣut n tmeṭṭut ara yeccnun yides taɣect `` Yidem yidem '' .
+Dɣa yuffa Ḥnifa .
+Asmi yekfa traḍ n timunent , tuɣaled Lla Ḥnifa ar wakal n tmurt .
+Teccna cwit di Lezzayer , tetteki deg tmeɣriwin , teccna di `` Nnuba Lxalat '' .
+Deg usegwas n 1973 , lla Ḥnifa tuɣal tuɣalin taneggarut ar Fransa , anda temmut deg usegwas n 81 .
+Ulac tameɣra anda ur tettɣni ara , anda ur teɛmir-ara urar .
+Asmi id uɣal ar Lzzayer deg usegwas n 1951 , temllal ak d Lla Yamina , d nettat i-tt yewwin alami d radyu , anda tetteki di tedwilt `` Urar lxalat '' ar tama n Lla Zina , Lla Cṛifa , Lla Yamina , Lla Lǧida Tamuqrant .
+Imiren daɣen i tebda ccna akw d l'orchestre n Ccix Nurdin , ukud teccna kra n tezlatin am tinna `` Lḥeǧla Ilili '' .
+
+ZEDDAK Lmulud ( fr : mouloud Zedek ) Yebda tira n isefra-s d amẓyan , deg useggas wis ssin n uɣerbaz amenzu ( 2ème AM ) , di leɛmer-is 12 neɣ 13 n iseggasen .
+Ma d ayen yeɛnan lmuziga yeqqim ḥalami d aseggas deg iṛuḥ ad d-yesɛeddi lɛeskar i yebda yesnulfu-y-d tuɣac .
+Warǧin yelmid lmuziga deg uɣerbaz , maca am akken it-id-yenna ulac aɣerbaz yifen Ath Xelfun , labaɛda amekkan wumi qaren Tala n Berzal akked Tiɣilit n umadaɣ .
+Tamedyazt akked Lmuziga d ayen is-izedɣen ul .
+Tizlitt m'ara d-t-as tettas-d akken tekmel , iteddu-d deg-s usefru akked lmuziga , ma teqqim-as deg wallaɣ lmeɛna-s d tizlit yelhan , ma yettu-tt hatan ihi fiḥel-itt ... Ccix Lḥesnawi , Sliman ƐAZEM , TALEb Rabaḥ akked Ḥnifa d wid swayes yenǧer abrid-is Lmulud .
+Ass mi yuɣal ula d netta s timmad-is d anaẓur , iḥemmel ad yessl i tezlatin n AT Megellat , Lwennas Maɛtub , Yidir akked waṭṭas nniḍen .
+Yessekles takasiṭ-is tamenzut ass mi yesɛa 23 iseggasen , swaswa kan mi d-ifuk lɛeskaṛ .
+S tkaṣiṭ-agi dɣa is-d-iban ubrid ara yawi , abrid n ccna akked umennuɣ aseklan .
+Asekles-agi amenzu d win is-d-yewwin lxir ar zdat , acku imdebbeṛ n uxxam n usekles iweɛdas 3 iseggasen n leqdic yid-s. Xas akken abrid n unaẓur yessawen maca laɛtab warǧin it-id-yudder , yezga yebɣa ad iɛaned imuqranen , yezga yettmuqul ɣer Lewnis At Mengellat yellan d anaẓur is-iceɛlen tafat .
+Llan daɣen wiyaḍ d wid is-yellan d tigeja wuɣur isenned seg wass-mi yebda , uɣalen maḍi d imdukal-is , am Maɛtub Lwennas akked Crif ḤAMANI is-yefkan aṭṭas n ufus n tallelt .
+Lmulud , yal tikelt yettara-y-asen tajmilt .
+Lmulud d win wumi tezdeɣ teqbaylit deg ul , adrar n ǧerǧer d win swayes yezga yettzux , ulac lɛerc yeǧǧa , tameɣra tettak-it i tayeḍ , amundul ddaw teɣruḍt yekka-d meṛṛa tudrin n tmurt , ulac taddart ur yessefreḥ ara s tezlatin-is , si Tizi ar Lezzyer , si Tubirett ar bgayet .
+Yecna ula di Wehran anda yewhem dɣa ɣef tzeqqa yeccuṛen ḥalami d ulamek ... Wamag tura ulayɣer d nebder tiseddawinyin , yal mi s-d-sawelent netta ad asent-yerr tiɣri ... Yiwet n tikelt dɣa di Tizi-uzzu , deg yiwet n tejmilt is-yuɣalen i ḤNIFA , Lmulud yezdi aṭṭas n tmusniwin akked inaẓuren it-yecban .
+Yeḥka-d , s tujma akked ucmumeḥ , dakken tanaẓurt NEWWARA tenna-y-as belli tikelt tamezut ass-mi it-twala , tenwa meqqar di laɛmaṛ `` Beaucoup plus bieux '' , acku cbaḥa n tezlatin-is akked telqey n tmedyazt-is amzun tekka-d seg iles n umɣar azemni .
+Deg useggas n 1990 daɣen yecfa-d Lmulud ɣef tmeɣra yexdem deg uxxam n tnelmadin di MDUḤA netta akked umdakkel-is M.FELLAG yesnecraḥen taswiɛt ... Yella daɣen Yusef ABEǦAWI i iwalan di Lmulud anaẓur izemren ad iruḥ ɣer lebɛid ass-mi yebda .
+Ass-agi Zeddak Lmulud d isem yessen umeqran d umeẓyan , isefra-s d wid lqayen .
+Lmulud d win ijerden abrid-is yerna warǧin is-yexḍa .
+
+Gaius Julius Qayser ( Latina : Gaius Julius Caesar ) ( 100 BCE - 44 BCE ) d nettat ay d amezwaru n ugellid Aṛuman .
+ilul deg 100 BCE .
+Yettwaḥseb-it d yiwen seg isertayen imeqranen akk deg Roma Tamezwarut , d yiwen seg yigennalen imeqranen imeqranen akk deg umezruy n umaḍal .
+Ula d netta yettwassen daɣen ɣef uxeddim-nnes d amasih , d ameskari ed umezruy .
+Mi yerbeḥ imnaɣen-nnes aserti deg yiwen n wemgaru n temdint iweɛṛen , Qayser yeḥkem cwiṭ akken d asertar n Roma uqbel ma yenɣa-t deg 44 BCE .
+Mi d-yenɣa tmenɣiwt-nnes , Usinat Aṛuman yewwi-d asaḍuf , yeqqar-d dakken Qayser yeqqel d Ṛebbi .
+Ass-a , axeddim-nnes mazal-it yessefhamen-d iman-nnes d leɛjeb ed ukṛeh .
+Ma yella yebɣu yili , medden zemren ad d-ḍefren tazmert n uxeddim n Qayser deg tefsirt n waṭas n temdinin n umaḍal , am Fṛansa ed Yiwunak Yeddukklen .
+Amezwaru n tanglizit William Shakespeare , yellan yezdeɣ deg wass n Renaissance , yura-d yiwen n wurar ɣef Qayser isem-nnes Julius Caesar .
+Ugaɣ , urar-a yeḍḍef tilelli igerrujen d tameqrant seg umezruy n tidet .
+
+Johann Wolfgang von Goethe ( ilul deg 28 ɣuct 1749 deg Frankfurt – yemmut deg 22 meɣres 1832 deg Weimar ) d amaru yerna d amassan almani , yura tamedyazt ed tmezgunin , am wakken ay yura ɣef temsal yeqqnen ɣer tfelsuft , tasekla ed tussna .
+Goethe yesɛa daɣen aṭas n yisefra igerrzen , am wakken ay yettwassen s wungalen-nnes Wilhelm Meisters Lehrjahre ( Iseggasen n welmad n Wilhelm Meister ) akked Die Leiden des jungen Werthers ( Tidyanin yesseḥzanen n Werthers Ameẓyan ) .
+Goethe d yiwen seg yimura ay yuraren dduṛ d ameqran deg tsekla talmanit takelsakt ( classique ) n tgara n lqern wis 18 ed tezwara n lqern wis 19 .
+Tallit-nnes teɣli-d ed tallit n Lqern n Teftilin akked tallit n trumantit .
+Goethe yura-d daɣen idṛisen deg tussna , am Tiẓri n Yiniten ( La Théorie des Couleurs ) akked yeḍrisen yerzan talɣa ( forme ) n yiɣersiwen ed yemɣan , yerna ayen ay d-yura deg wenrar-a iɛawen aṭas imassanen n ugama n lqern wis 19 ( am Charles Darwin ) akken ad kemmlen inadiyen-nsen .
+Goethe yeqdec daɣen d aneṣṣaḥ aɛlayan n yemḍebbren n uduci ( duché ) n Sachsen-Weimar .
+Asmi ay tenker Tegrawla Tafrensist , Goethe yella yettwali agdud ur izemmer ad yeḥkem iman-nnes i yiman-nnes .
+Iqeddicen n Goethe deg yedles ed tussna zerɛen deg wakk timura n Turuft , yerna ttekkan deg wesnerni n tmedyazt , n umezgun akked tfelsuft .
+
+Yemmut ass 5 dujamber 2013 di Johannesburg , d-argaz n Uwanek n Tafriqt n Wenẓul ; yella deg iɣellaten imezrayen n Imenɣi mgal anagraw aserti n apartheid uqbel ad yuɣal aselway n Tagduda n Tefriqt n Wenẓul seg 1994 ar 1999 , sakin des tifranin timezwura tiɣelnawin war beḍḍu n iri deg l'umezruy n tmurt agi .
+Nelson Mandela yekcem ar Uswir Aɣelnaw Aferkan ( ANC ) deg ussegwas 1944 , iwakken ad i nnaɣ mgal aɣmar aserti n tadersi tamellalt dɣa abeṭṭu n iran i t-seṭṭef taneggarut agi .
+Yuɣal d-abugaṭu , i ttekki ar ubellen war takriḍt mgal isuḍaf n apartheid , id i yesexdem anabaḍ n Ukabar Aɣelnaw seg 1948 .
+Deg useggwas 1960 , ANC yuɣal d-amegdul ; daɣen , abellen Amelwi ur d-yettak ara igmaḍ yelḥan , Mandela yesnulfa-d ageṭṭum aserdas n ANC , Umkhonto we Sizwe ( Uzzal n uxtuc n uɣlan ) , deg useggwas 1961 .
+Xedmen timhalin n wesfata mgal isgulaf izuyaz d-iserdasen .
+Ass n 12 yulyu 1963 , yetweḥbes sɣuṛ lbulis n Tafriqt n Unẓul s-timula n CIA ( Tafullut Talemmast n Umel ) , daɣen ḥekmen-as i lḥebs d imuhal n tmara alamma d lmut deg uẓmaẓ n Rivunia .
+Imir , y-uɣal d-azamul n ubellen i tulut n iran dɣa yermes tadhelt tagraɣlant i temɣeren .
+Sakin 27 iseggwasen di lḥebs deg tiwtilin tiweɛṛanin , erran-as tilelli i Mandela ass n 11 fuṛaṛ 1990 , sakin , aneggaru-agi yeḥuded amsuɣal d ustug s unabaḍ n uselway Frederik de Klerk .
+Sakin tukkit i wɛeṛen anda de Klerk d-netta ssinefen ṭrad taɣarimt gar imuɣlen n apartheid , wid n ANC dɣa wid n Inkhata s-uneɣmar zulu , Nelson Mandela y-uɣal aselway aberkan amezwaru n Tafriqt n Wenẓul di 1994 .
+Yenheṛ tasertit n umsuɣal aɣelnaw gar iberkanen d-imellalen ; yennaɣ mgal tirgaddiwin tudmisin , lamaɛna yestehzi amennuɣ mgal SIDA , yellan deg tallit n urnay deg Tafriqt n Wenẓul .
+Sakin lmanda awḥid , yekkes iman-is deg tameddurt tasertit turmidt , lamaɛna i kemmel arfad azayez i Uswir aɣelnaw aferkan maca i kemmel ad i ssiẓer tifuliwin-is .
+
+Stefani Joanne Angelina Germanotta ( tlul deg 28 meɣres 1986 deg temdint n New York ) , d tin yettwassnen s yisem-nnes n tnaẓurt Lady Gaga , d tacennayt tamarikanit ay icennun aẓawan n pop .
+Deg tallit-nni , testenya leɛqed akked termist n Streamline Records ay yeqqnen ɣer Interscope Records .
+Naqal , tebda kan tettaru tizlatin i yicennayen niḍen , maca dindin gren-as tamawt tesɛa taɣect yelhan i ccna yerna testenya leɛqed niḍen akked termist n Kon Live Distribution akken ad tebdu ccna .
+Deg 2008 , Lady Gaga tessuffeɣ-d album-nnes amezwaru , The Fame yerna teqqel mechuṛet yes-s imi ay d-yessekcem aṭas n yedrimen .
+Sakkin , asmi ay d-tessuffeɣ iḍebsiyen-nnes n usingle Just Dance akked Poker Face , teqqel tettwassen deg wakk timiwa n umaḍal .
+Deg 2009 , terna tessuffeɣ-d album n The Fame Monster ( d akemmel n umezwaru-nni ) , yerna terna-d yid-s snat tezlatin , Bad Romance akked Telephone .
+D aya ay yejjan cciɛa-nnes ad tennerni ugar yerna d aya ay as-igan abrid akken ad teg yiwet n tuzzya n yibarazen ( concerts ) .
+Lady Gaga tuwey-d kra seg yicennayen n rock am David Bowie , Elton John akked Queen , am wakken ay d-tuwey kra daɣen seg yicennayen n pop am Madonna , Michael Jackson ed Amy Winehouse .
+D acu kan , Lady Gaga tesɛa yiwet n lḥeṭṭa d taɣwalit ( bizarre ) aydeg tettlusu iceṭṭiḍen yessewhamen ( tikkal amur ameqran seg tfekka-nnes d aɛeryan ) , am wakken ay d-tettawey yiwet n tikli d taɣwalit ama deg ccna-nnes sdat lɣaci , ama deg yeklipen-nnes .
+Tuwey semmus warrazen n Grammy Awards , tessenz 15 n yimelyunen n walbumen ed 51 n yimelyunen n yiḍebsiyen n usingle .
+
+Mixayel Aleksandrubicc Bakunin ( s trusit Михаил Александрович Бакунин ) , imi qqaren tikwal Michel Bakounine , illul ass 30 di mayu 1814 di Primuxino , di tmurt n Rrus , imut ass amenzu di yulyu usseggass n 1876 di Bern , tamurt n Sswis d afilusuf awernaḍ ( anarchiste ) .
+Acḥal d asseggas d Pierre-Joseph Proudhon illa-d d tala-s n tikta .
+Ass-mi idder di Mosku d Saint-Petersburg illa issuqul-d imarayen ilamniyen am Hegel d Fichte ar trusit .
+Di 1842 , yusa ar tmurt n Lalman u si imi iwweḍ imlal n ilmeẓyen inelmayen n tmurt n llalmen di Berlin .
+Syin , idda ar Fransa anda imlal d Proudhon d George Sand u issen-d daɣen imnejla n tmurt Polonya .
+Si Paris , iruḥ ar tmurt n Swiss anda izdaɣ kra iseggasen u anda ikki u igar tamawt ama s tiga am tikti d ṭaqa n imussuten inelmayen .
+Ass-mi akka I illa izdeɣ di tmurt n Swiss , anabaḍ n tmurt-a ira a t-isqarqer ar tmurt-is , tamurt n Russ .
+Bakunin yugi .
+U tigin-a ines tessassa as-d tukwsa n wayen isɛa , ama d axxam ama d ayen nniḍen .
+Di 1848 , di tuɣalin-ines ar Paris , yura kra n wawalen d imsarɣiyen mgal tamurt n Rrus u dgha anect-a iwwi yas-d tufɣa si tmurt n Fransa , ittwaqerqer-d seg-s. Amussu agrawliw n 1848 ifka yas abrid s wayes ikcem ar gar kra n trebbuɛa ifetlen arway d tektiwin ɣef tugdut .
+Ikki deg umennuɣ n Dresde n 1849 u dinna dɣa I ittwarez , “ taɣdemt ” teddem fell-as tamgart , u ittwarez “ ar laxart ” .
+Fkan-t , neɣ rran-t , s ifassen ttwaqnen , I udabu n tmurt n Rrus , win izemmemen fell-as tawwurt n tazult u I t-yuznen , kra issegwassen s yin , ar lka n usemmar n Siberya deg useggas n 1855 .
+Deg useggas n 1861 , deg yiwen n ttriḥ i s-fkan I kra n wussan irwel ar tmurt n Japon , d Iwunak Idduklen u tagara ar tmurt n Lingliz .
+S yin idder akw tudart-is di Turuft , ladɣa di tmurt n Sswis .
+Di 1869 issali yiwet n tdukli tasertant : Tadukli Tanemlayt n Tugdut .
+Maca ugin as I tdukli agi ines anekcum ar tmenzut n Tagraɣlant Inemahalen ( Internationale des travailleurs ) , nnan as tadukli inek ulac deg-s tirrebbuɛa tigraɣlayin .
+Dɣa assegwass nni , tebḍa Tdukli ya u wid illan ttekkin akw deg-s ddan ar Tagraɣlant Inemahalen iman nsen , myal yiwen ansi I ikka .
+Di 1870 isseker-d ahetrwel d ummennuɣ di Lyon , maca ur issaweḍ sani n kra .
+Maca xas ilul-d din immut din umenniɣ-a , izga , kra iseggasen s yin , d amedya di Tɣiwant n Paris .
+Karl Marx d Friedrich Engles ufan as anamek diɣen : tasnaraft n tigellel .
+Deg useggas n 1872 Bakunin essufɣen-t seg ukabar amarksiẓri di temlilit n la Haye imi imgaraden di tamuɣli netta d Marx .
+Marx inna ilaq uwanek anemlay ar isseddun timsal ar tuksa uwanek s wadda , ma d Bakunin ur iwala ara I wacu awanek akken ad tili tuksa ... uwanek-a .
+Xas akken Bakunin , si zik , ittwali di Marx tigzi ɣef sin iḍaren , maca yufa-t tikwal ittzuxu u imiren id-inna d akken abrid n Marks ar Tesnaraft ar yawwi wid iddan deg-s u ma s yis-s urǧin ad tili tegrawla tanemlayt .
+Bakunin iceḍ daɣen imi iwwet di Marks ɣef iẓuran-is udayen u Marks inna daɣen ɣef Bakunin belli ittargu deg iḍ deg ass u ɣef anect-a Bakunin inna-d : d tidett !
+Iffeɣ Bakunin seg wannar umennuɣ di Luganu deg useggas n 1873 u immut di Bern ass n 1 di yunyu 1876 .
+Issal-id u eǧǧa-d amussu agraɣlan awernaẓri .
+Tawernatt macci kan d arway , di tazwara d ameggel n tikta , d amennuɣ ɣef izerfan , d tugin n tesnaraft uwanak ɣef wudem n tugdut .
+Asirem d tektiwin n Bakunin fɣent-ed deg udlis-is Ilu d Uwanek .
+Fell-as netta tura Madeleine Grawitz Bakunin di teẓririgin Calamin-Levy 2000 .
+
+Jack aqettal ( s tenglizit : Jack the Ripper ) d isem i yettunnefkan i yiwen uqettal s uɛiwed ur neẓri ara d anwa-t , i yenɣan aṭas n yimdanen deg temnaḍt n Whitechapel deg Lundun tamanaɣt n Legliz deg useggas n 1888 .
+Isem-agi mazal-it ɣer ass-a ulac win yessnen bab-is d ayen id-yefkan tikti i tidmi n waṭas n yimyura i wakken ad t-sxedmen deg waṭas n tmucuha-nsen seg yimiuren armi d ass-a .
+Isem d uɣara n uqettal , nnekwa-ines , mazal ar assa ulac win iteny-yeẓran , iban-d yisem-agi n Jack i ubrid amezzwaru deg tebrat n « Dear Boss » , i yettwaceyyɛen i ubrid amezzwaru i uɣmis .
+Yuɣal yettwasexdem s waṭas deg yiɣmisen n yimiren imi bab-is yenɣa arṭas n yimdanen yernu yella yettaru ɣef tfekka n yal yiwen isem n Jack the ripper ( Jack aqettal ) .
+Imsulta d yiɣmisen uwḍent-ten-id aṭas tebratin i yesɛan assaɣ d temsalt-agi .
+Inadiyen , ufan-d belli d atgi d tamsalt i yzegren timura yernu teḥwaj ambadel deg yisallen i wakud ɣezzifen .
+Deg ctumber d tuber 1888 , yeffeɣ wawal belli aṭas n temsalin n lmut yellan deg Whitechapel tesɛa assaɣ d tiyaḍ , semmus seǧsent banent belli n Jack aqettal d tid n lmut n : Mary Ann Nichols , Annie Chapman , Elizabeth Stride , Catherine Eddowes et Mary Jane Kelly .
+Imi liḥalat n lmut agi sɛant aṭas n taktiwin kif-kif-itent d waṭas n wagazen yettemcabin .
+Di tazzwara llant akk d lfergat yernu yella ineqq-itent deg tama n wadda n Lundun .
+Sɛant akk tamgerḍt igezmen uqbel ad asent-isexṣer iɛebbuḍen-nsent s ujenwi .
+Asuffeɣ n yiḥricen si daxel n tfekka i wugar n kraḍ seg wid yenɣa yessebgen-d belli Jack aqettal yella yessen kra n taktiwin deg tussna n ucelleḥ , ayen id-yemmalen belli tikti tṣeḥḥa mi yufa yiwen seg yixeddamen deg Whitechapel Vigilance Committee , tabrat deg tuber n 1888 , isem-is seg Ǧahennama « From Hell » ɣer tama-s tella tegẓelt iban-d umbeɛd belli tella i yiowen seg wid i yenɣa .
+Ɣef way-a imi wid akk yettwanɣan mmuten kif kif yernu mebla rreḥma cukken meddden d yiwen i ten-yenɣan isem-is Jack aqettal , imi ur d-ufin ara tiririt uɣalen medden ttaran ɣer umezruy d ufulklur i wakken ad afen sexdamen yimussnawen awal ripperology i wakken ad lemden liḥalat n tmenɣiwt i yexdem Jack aqettal deg wid yenɣa .
+
+Mani ( s tfarisit ماني ) d yiwen seg yimceyyɛen id-ibane deg tmurt n gar sin n yisaffen , ilul-d deg 216 n tlalit deg temdint n Babil i yenbeḍ umenkud afarisi , d netta id-yesnulfan ajjed amanawi , i yekcemen aṭas n tmura , gar-asent tafriqt n ugafa , gar wid-itt-ikecmen agerram Uɣesṭin , wid i t-iḍefren deg tmurt n gar sin n yisaffen ttwaḥerṣen mliḥ sɣur umenkud afarisi yellan ttamnen s tmess , yettwaḥbes deg usekraf deg useggas n 276 ḥekkmen fella-s s lmut .
+Ur yeddir ara Mani akked yemma-s tettwabɛed fella-s , ɣef way-a timẓi-ines tusa-d tewɛer , imi baba-s yeffeɣ i wajjed i yellan imiren deg Lɛiraq yekcem ɣer wajjed n yisabiyen neɣ ɣer yiwet n terbaɛt i yettekkan ɣer yisabiyen .
+Tarbaɛt-agi ttamnen belli tameṭṭut d nnǧasa d yelli-s n cciṭan ɣef way-a yusa-d Fatezk ɣer mmi-s Mani ass mi i yesɛa kan ukkuz n yiseggasen deg yila-s yessebɛed-it ɣef yemma-s ddren akkenni ɛezlen akked d terbaɛt-nni ttẓallan ttebɛaden ɣef akk ayen yettɣuṛṛun amdan ladɣa tulawin .
+Fatek yenna-d belli yesla-as i yillu yessawel-as kraḍ n yiberdan akken ad yunag ɣer taddart i wumi qqren Misan deg lɛiraq ideg ttilin yibellazen , imiren ihi i yexdem Fatek d mmi-s abellez , kcemen ɣer wajjed n yiṣabiyen imindayen s talɣa tunṣibt , aya yeḍra-d uqbel ad tewseɛ tmasiḥit .
+Yeqqim mani akken ɣef wajjed i ɣer t-isssekcem baba-s armi d aseggas-is wis 21 , imiren yesla s tmasiḥit d wayen akk id-qqaren ɣef umidag n Yissu ; dɣa seg yimiren yella yeqqar belli d netta i d Rruḥ lqudus nni iɣef d-ttmeslay tmasiḥit , ḥessben wat tarbaɛt-ines belli tagi d ticuffert dɣa staxṛen-t syinna .
+Imiren ifarisiyen llan ttabaɛen ajjed azaradicti yettqeddisen timest , Mani yella yeqqar yettwali asɣanen , ihi yegmen ad yini belli d netta i d nnbi amaynut , yeqqar-d ɣef yiman-is belli ass mi yesɛa 12 n yiseggasen yeffeɣ-as-d lmelk , ur d-yuɣal ara armi d aseggas-is wis 24 akken ad-yessuffeɣ tabrat n yillu ; yernu ad yebnu timsirin n wajjed amanawi ara yilin seg Ccinwa ɣer tmurt n Sbenyul d Fṛansa , yebda niqal asiwel d usekcem ɣer ddin-is deg temnaḍt-nni i deg yedder maca , i tmental ur neẓri yunag ɣer Lhend , ideg yessawel ɣer wajjed nni ines yessekcem ɣer-s aṭas n yimdanen , dinna i yelmed timsirin tibudiyin d tzaradictiyin .
+Deg useggas n 240 yebda asiwel ɣer wajjed-agi-ines , yuwi abrid n unelmad tuma ɣef way-a id-iɛedda sezg Bakistan , Afɣanistan , Lhend n wass-a , mi dayen yunag ɣrer Lhend d Maṣer nnan-d belli yelḥeq ad yessekcem yiwen n unembaḍ ɣer wajjed-ines , deg useggas n 242 ibedde-d sdat n ugellid Cabur I , i as-iɛemden ad yessiwel ɣer wajjed-ines s tlelli meqqren , yuɣal seg yiqeddacen n ugellid , imiren i yebda tira n udlis-ines i yqeddsen , syin yerra ɣer ywet n tiɣilt ɣer tama n wasif n Diǧla ideg yebda lebni n tmezdayt-ines , yeqqim Mani yessawal i wajjed-ines s ṭul n 30 n yiseggasen mebla ma yeḥreṣ-it-id yiwen .
+Assmi yemmutt umenkad Cabr deg useggas n 272 , yebda iɣelli Mani imi sin n yimenkad i yellan s deffir-s llan d tixutam deg yifassen n yimunaken izaradictiyen , d ayen i yerran imunaken ad bdun aḥraṣ dd udfaṛ n yal win yumnen s tmanawit di taggara sullzen amenkad akken ad-as yessiwel i Mani akken ad ibedd sdat n uxxam n teɣdemt n yimunaken izaradictiyen , ihi wwin-t ɣer usekraf zzin as-d s senslat , yeqqim deg usekraf 26 n wussan la yettidir am uɣerda yal ass d tiytiwin d uḥqar inelmaden-is zgan ẓerren-t armi yeḥkem fella-s umenkad s lmut deg useggas n 276 .
+Ihi , yettwaṣleb Mani , syin kksen-d tafekka-ines gezmen-as ifassen-is d yiḍarren-is sserɣen-t , maca imeḍfaren-is ummnen belli rruḥ-is tuli d asawen , ɣef way-a yuɣal wass-nni d tafaska ɣur-sen ttuẓumen 30 n wussan n wayyur n yebrir ɣef way-a .
+
+Sfenbeɛl kra qqaren-as Sufines ( s tbuniqit : 𐤑𐤐𐤍𐤁𐤏𐤋 Ṣap̄anbaʿal , s tfinaɣ : ⵙⵓⴼⵉⵏⵙ Sufines ) , tlul di Qertaj di 235 ut .
+Y .
+-L. temmut di sirta di 203 ut .
+Y .
+-L. , d yiwet n tgellidt n Numidya , d tamyercalt n Sifaks , agellid meqqren n Numidya n umalu , ardekal n Masensen .
+Tban-d deg yidlisen iqburen di taggara n nnfaq abuniqi wis sin , mi akken Ruma teɛreḍ ad d-awi nnfaq ar tefriqt afin akken ad yexser Hannibal , i yellan di Ttelyan d yisedasen-ines .
+Akken id-yules Dyudur asiqili , .
+tfuk-d ulmud-ines di Lmusiqa d tzurit Appien tettwaxdeb i ugeldun Masenisen , ageldun n Masilya ( tagelda n Numidya n usamer ) .
+yexdem d yiserdasen n Qertaj mgal Ruma .
+Gar -206/-205 , yefka-tt baba-s i Sifaks , agellid n Masisilya ( tagelda n Numidya n umalu ) , akken ad dduklen w ad zzin i yiserdasen irumaniyen id-yekcemen ar Tefriqt .
+Imiren yekcem Sifaks tilisa n Masensen yellan yemxallaf yid-s si tazzwara , yedduklen seg yidis-is akked Sibyun .
+Amur ameqqren n yimussnawen n umezruy igrigen-irumaniyen nnan-d belli temmeslay Sfenbeɛl i urgaz-is tettezzi-as armi yeddukel d yiqertajiyen .
+Mlalen yiserdasen n Hasdurbal d Sifaks deg yiwet n tneflut ideg yexser Sifaks sdat Masensen yeddem ayen -id yuwi yid-s ur-d yezzi ara i Sirta Mi teɣli tgelda n Sifaks yemlal-d Masensen d Sfenbeɛl .
+tewwi-as ul-is yegùmen ur -tt-yettak ara i yiruumaniyen akken ad tili d Taklit yerra-tt Masensen d tamyercalt-ines di tmeddit-nni kan i sfugglen zzwağ-nsen xas akken masensen yezwej meqbel .
+Maca Sibyen ur yesnummer aara taddukli-agi , imi yugad ad-as tezzi Sfenbeɛl armi ybeddel tanilla-s. Rnu-as irumaniyen ttwalintt-nsen llan gemnen ad tenz di ssuq imi nettat deg tɣawsiwin-nsen .
+
+Sextus Aurelius Victor ( a .
+320-a .
+390 ) yella d anmezray akk-d asertay n umenkud Aromani .
+Aurelius Victor yella ameskar n yewit n tektabt iţusemman Amezruy n Roma seg lweqt n Augustus ( Gaius Julius Caesar Octavianus ) armi n Iulianus ( Flavius Claudius Iulianus ) ( 360 ) , yeţwaktab azal n 361 .
+Iulianus yefkaya-s asehru imi yerat d anebdad ( praefectus ) n Pannonia Secunda .
+Aurelius Victor izmer ad yelli amdan nni i g-yellan d lconsul deg 369 lwahid d mmi-s Valentinianus I ( Flavius Valentinianus ) , akk-d d anebdad n temdint n Roma ( 389 ) .
+Tira tis sin teţwaru , ɣef tikelt tamezwarut , deg Napoli azal n 1472 , ɣef ssifa n rebɛa n isuned , seddaw n lisem n Plinius Ilemzi ( Gaius Plinius Caecilius Secundus ) mačči am tira tis rebɛa i teţwaru deg Strasbourg deg 1505 .
+Tazrigt tamezwarut merra si ger n tira agi tella n Andreas Schottus ( 8 n isuned , Antwerp , 1579 ) ; mebla ma neţţu daɣen tazrigt tartar n De Caesaribus n Pierre Dufraigne ( Collection Budé , 1975 ) .
+
+Muḥemmed Cikri ( s Taɛrabt : محمد شكري , s Tefransist : Mohamed Choukri ) d amyaru d Amaziɣ yura ungalen s Taɛrabt .
+Muḥemmed Cikri ilul di 15 yulyu 1935 di At Ciker , di temnaḍt n Nnaḍur , di Arrif .
+Immut di 15 wamber 2003 .
+Deg wakud n laẓ di Arrif , tawacult-nnes terwel ɣer Tanja .
+Baba-s aql-it d askayri iccat tarwa-nnes d temeṭṭut-is .
+Muḥemmed Cikri umi iẓṛa manaya irwel si taddart-ines , ibda ikkal itnus di zzenqet anda i yexs ad yečč , anda itettar neɣ izenz taḥcict .
+Armi itwaṭṭef deg usekraf ( leḥbes ) umi aql-it ɣur-s 20 iseggwassen , isselmed-as yiwen umeḥbus tira n Taɛrabt .
+Yura aṭas n idlisen gar-asen Aɣrum Ḥafi .
+Adlis-nni itwasuɣel ɣer 40 n tutlayin .
+Aɣrum Ḥafi itwagdel deg Umeṛṛuk deg wakud n Ḥasan wiss 2 .
+Di 15 Wamber 2003 , immut Muḥemmed Cikri di usganfu n userdas di Rbaṭ .
+
+Samir Saleḥ Ɛebdella Al Suwaylim ( s taɛrabt سالم صالح عبد 14 , الله السويلم yebrir 1963 neɣ1969 -20 meɣres 2002 ) yettwassen aṭas s yisem n Ibn al-Xettab ( qqaren-as daɣen amir xettab , anamek-is agellid Xettab , aɣella Xettab neɣ aqerru Xettab ) , ilul-d deg tgelda tasaɛudit taɛrabt , d amǧahed i ytekkan deg ṭṭrad acicani wis sin .
+Tmmad n tidet n Xettab ur twaleknent ara , mazal wid icukken deg-sent xas akka yemmut , mi d yemmeslay gma-s i uɣmis .
+Yemmut deg 20 meɣres 2002 imi ymass tabrat yesɛan ssem , i sd-rran seg leqdic n laman arusi .
+Nnan-d fella-s belli yetbeɛ lǧihad asalafi , tamussni-agi i yesɛa aṭas deg umaḍal ineslem imi yezzi-d waṭas n tmura-nsen , ilul deg Suɛudiya , yennuɣ deg Afɣanistan , Ṭajikstan d Daɣistan di taggara deg Cican , yernu daɣen imi yemmeslay aṭas n tutlayin : taɛrabt , tarusit , tanglizit , tafarsit , tacicanit , tabectunit d tkurdit dɣa yeqreb ɣer wulawen n yimezdaɣ imi yettmeslayasen s tutlayin-nsen , d annecta i yesseḥman idammen n yimǧuhad akken ad dduklen yid-s , yella daɣen yessen asexdem n wallalen imaynuten yessexdem-iten i usellez n yimǧuhad .
+seg wansi id-yekka Xettab d asasten meqqren , kra nnan-d belli aseggas n tlalit-is d 1963 deg Urdun daɣen yettusemma deg tlalit-is s yisem n Ḥabib Ɛeb-Rreḥman Ibn al-Xettab , daɣen qqaren-d belli yemma-s d tasurit taterkmanit .
+Yettwaglem-d am unelmad iḥercen mliḥ , yuwi-d 94 seg twines deg yikayaden n tsenawit , yella yebɣa ad ikemmel ulmud-is deg tseddawiyin n yiwunak yedduklen , xas akken iḥemmel ibidyuten tinselmin , macci akka am watmaten-is ur necliɛ deg tikti tineslemt , sawalen-as Xettab ɣef yisem n lxalifa wis sin deg tneslemt Ɛumar IIbn el Xettab .
+Yeṭṭef aɣara mi yella yettnaɣ deg Afɣanistan , i yebdan deg 1987 , deg leɛmer n 17 n yiseggasen , mi ytekka d wafɣanen iɛraben mgal taddukli tasubyitit .
+Deg wakud-agi dinna iḥuza afus-is ayeffus ruḥen-as aṭas n yiḍudan ardekal aṭerḍeq n yiwet n lbumba .
+Yesseḥla Xettab iman-is s yiman-is imi yerra tamment ɣef lǧerḥ-nni .
+Xettab , yella d aɣella n terbaɛt tineslemt izegren timura , medden akk steɛrifen belli yedder seg 1989 armi d 1994 deg afɣanistan yernu yeẓra-d Usama ben Laden .
+Di meɣres 1994 , yuweḍ-d Xettab ɣer Afɣanistan yesselmed imenɣi i yemǧuhad deg yigiṭunen n uwanek n Xust .
+Yuɣal-d daɣen ɣer Afɣanistan akked terbaɛt tamezzwarut n yiserdasen icicaniyen deg mayyu 1994 .
+Xettab yesselmed aṭas deg Afɣanistan yesɛa aṭas n wassaɣen d laqaɛida .
+Aṭas n twinsat n yicicaniyen lemden deg yigiṭunen n lqaɛida amennuɣ deg Afɣanistan .
+Nna-d yiɣbula n Arminya belli deg 1992 yella d yiwen seg waṭas n yicicaniyen id-yeggren iman-nsen i yimenɣi ɣer tama n Azebijan deg temnaḍt n Nagurnu-Karabax , ideg yeẓra Camil Basayib .
+Maca , tanɣelfa tazebijanit n uḥuddu tenker tallit n Xettab deg yimenɣi amezzwaru ɣef nagurnu Karabax .
+Seg 1993 ar 1995 , yerra Xettab ɣer Ṭajikistan akken ad yeddukel d terbaɛin tinselmit i ytekkan deg nfaq n daxel aṭajiki .
+Send tiǧǧin n Ṭajikistan deg 1994 , yefka-as xettab i Ɛebdelkarim Xeḍr awtul-ines , i ysemma din din Xettab .
+Deg temlilit , yenna-d xettab yiwet n tikelt belli itekka deg nnfaq n Lbusna .
+Yella d netta i yxeddmen tibidyutin ɣef yigrawliwen n Cican mi xeddmen leqdic-nsen , akken ad d-yerbeḥ ulawen n wid i t-yettwalin ad as-fken idrimen neɣ ad d-asen s timmad-nsen ɣer yimenɣi deg Cican , netta s yiman-is yuɣal yettwassen mliḥ deg 1996 mi d-yessugen s yiman-is asṭerḍeq-ines n yiwet n tmacint tarusit deg Catuy .
+Macci aṭas seg mi d-yuweḍ yuɣ yiwet n tmeṭṭut seg ccetla n Lak n Daɣistan , d weltma-s n Nadir Xacilyeb , yiwen yessawalen ɣer unbaḍ n ccariɛa tineslemt , yernu d aɣella n tiddukla n yinselmen n Rusya , i ywala d abrid akken ad yuɣal yimenɣi ɣef timunent n Cican yettwassen deg umaḍal kamel .
+Deg yimenɣi acicani amezzwaru , itekka Xettab deg yimenɣi mgal yirusiyen , yexdem am wassaɣ n tifkin n yidrimen gar yinselmen n berra n Cican d wid n daxel-is .
+Akken ad yeggri laman deg yidrimen i asen-yettunefkan daɣen akken ad taweḍ tebrat n tegrawla , yella yeteddu akked yiwen n yimsuggen `` cameraman `` .
+tarbaɛt i yettenbaḍ texdem aṭas n twaɣiyin i yiserdasen irusiyen tesseṛwa-asen lemṛar deg yidurar n Cican .
+Tigawt-is tamenzut tella deg tuber n 1995 imi yeḥbes yiwet n terbaɛt yesɛan 47 n yiserdasen irusiyen .
+Xettab yettwassen aṭas yuwi * -d karuh seg Rrus imi yeɣḍel tamacint meqqren yettawin leslaḥ di yebrir 1996 deg Yarismadi ɣer tama n Catuy , i deg yenɣa 100 n yiserdasen ihudd akken snat neɣ kraḍ n tkeryas meqqren .
+deg temlilit nniḍen ɣer tama n Bedeno , yenɣa akter n 28 n yiserdasen irusiyen .
+Mi yettkemmil nnfaq , yuɣal Camil Basayeb d ameddakel-is i yqerben ɣer wul-is .
+Yeddukel daɣen akked Zelimxan Yandarbiyeb i yefkan i Xettab sin n warazen ɛlayen meqqren deg yiserdasen n Cican , araz n nnif d waraz n ugrawliw bu tebɣest , yessuli-t ɣer wadeg n ujiniral .
+Yenna-d uɣella acicani i yettusemman Smaɛilub amek i asen-yeqqar Xettab belli ilaq ad ṭṭfen reffu-nsen , yeqqar-asen ssurat seg udlis n tira n Leqran , imi deg taggara n nnfaq llan bɣan yicicaniyen ad wten s rṣas yal win i ysenzen tamurt .
+Yexdem azeṭṭa n yigiṭnen n uselmed i yiserdasen deg yidurar n tgduda macci kan icicanen maca ula d wid id-yekkan seg lquqaz d Asya talemmast .
+Deg 22 duǧember 1997 , ardekal yiwen n useggas ɣef uxdam n umsefhem n Xasab-Yurt i yekfan ṭṭrad amenzu n Cican , imǧuhad iɛraben d terbaɛt n yigrawliwen idaɣistaniyen ɣeḍlen tabrigadt tis 136 d uḥric wis 58 n yiserdasen irusiyen deg Byunaksk , Daɣistan .
+Tarbaɛt n uḥraz n laman izegren timura ( IIPB - tam : RḤLZT ) ( yettwasnen daɣen s yiserdasen i yqeddcen i uḥraz n laman n yinselmen ) d terbaɛt n tlawin ineqqen iman-nsent s uṭerḍeq n lbumbat , lkatiba yeḥwaǧ awal amaziɣ Riyadus-Salixin n unadi d usexseṛ yettabaɛen imeɣnasen ( ccuhada ) icicaniyen .
+Di Ɣuct-Ctember 1999 , texdem terbaɛt n IPB kra n leqdic d yimenɣi yenɣan ugar n twines n yimdanen akka i yebda ṭṭrad acicani wis sin .
+Ɣas akken , nnan-d kra n yineɣmasen d yimusnawen n umezruy yeddren deg umalu belli lbumbat-nni llant d tikerkas , fd Rrus i tent-ixedmen s lemɛamda akken ad t-id-gren ɣef yicicaniyen ad ten-ɣeḍlen , yernu ad sɛun azref akken ad uɣalen ɣer leqdic n yiserdasen .
+Gar wid i yettamnen s tikti-agi amnai deg tseddawit n Hubkenz Dibid sater , d yimusnawen n umezruy : Yuri Flčenski , d Ami Nayt d Karin Dwica , d uɣella meqqren Aleksandr Litibinku i yeffɣen i leqdic uffir , yemmuten s ssem deg Lundun .
+Ɣas akken , yella unekcum arusi ɣer Daɣistan di Ɣuct 1999 d tamentilt tagejdant imi yekker nnfaq acicani wis sin .
+Yexdem aṭas n leqdayec iǧehden deg useggas-agi , akka am tnegluft n udrar , i yenɣan ugar n 67 n yirusiyen i ylemden ulmud meqqren deg leqdic n nnfaq , daɣen tanṭagt ɣef terbaɛt n UMUN tama n Zhani-Bedenu , ideg yenɣa ugar n 3 n yiserdasen irusiyen itekkan deg leqdic n tɣelfa n daxel Yedder Xettab , xas akken tḥuza-t terṣast deg uɛebbuḍ-is , d lbumba i yet ) ṭerḍqen s ddaw n yiḍarren-is .
+Skadben ɣef lmut-is mi yesla umeḥbus deg usekraf n Gwantanamu belli yettwanɣa Xettab deg yiwet n Tenṭagt di Jurjya deg 28 yebrir 2002 deg tassart n Dwisi .
+Xettaba ( хаттабка ) d isem n yiwet n lbumba tacicanit yettwasnen mliḥ ass-a .
+
+Ḥmed Ɛeyyad , isem-is unaẓur Rwiced , d yiwen unaẓur aɣerfan aqbayli n ccraḥa , umezgun , issura , akk d Ssinima .
+Ilul di 20 yebrir 1921 di Lezzayer Tamanaɣt .
+Yemmut ass n 28 yennayer 1999 .
+Imawlan-is laṣel-nsen seg Aẓeffun , di Tamurt n leqbayel .
+Yekcem ar uɣerbaz amezwaru di 'Susṭara ' , di 'Kasba tunigt ' , ur iɛeṭṭel ara yeḥbes leqraya-s iwakken ad yawen imawlan-is i llan xuṣṣen nezzeh di teswiɛt nni udabu ifransisen , uqbel trad umadal wis II .
+Ixdem aṭas lecxal : ayeznuzu iɣmisen , ay ṣefeḍ isebaden , ayeznuzu iguma d tizegza , atg .
+Zzehri-s i wwit armi d yiwen n wass anda anaẓur umezgun ameqqran Maḥbub Sṭambuli , yerra tamawt s wayen yezmer Aḥmed Ayad ad t-yexdem di taẓuri umezgun .
+Ur iɛeṭṭel ara isawlas-d , yessekcem-it s anar agi umezgun .
+Yewwi-d srid ar tazeqa 'La Majestic ' , tura yaka isem-is Aṭlas , di tama n 'Bab Lwad ' di Lezzayer tamanaɣt .
+I semlalit d unaẓur wayeḍ yellan mucaɛ , wagi Racid Qsenṭini , i wakken ad yelmed yid-s. Segmi yuɣal isem-is Racid amecṭuh , neɣ s teɛrabt n Lezzayer Rwiced .
+Qqaren d tanaẓurt n tiliẓri Nuriya , i s-yefkan isem agi n taẓuri-ines .
+S isem-is yeqqim armi d tamettant-is .
+Timlilit n sin unaẓuren Aḥmed Ayad d Racid Qsenṭini , d tazwara umecwar ɣezifen n Rwiced , i ikecmen di yal aḥric n taẓuri : ccna , amazgun , tiliẓri , ssinima , atg .
+Yekcem isyin deg waṭas n temtilin ( rôles ) , di 'les sketch ' , wala d tcequfin umezgun , ama s tutlayt taqbaylit , n lejdud-is , neɣ s tutlayt taɛrabt n Lezzayer , is i d-ittureba .
+Isegwasen ar zdat , yuɣal ikecem s anar isura , anda id yurar deg issura yettwasnen ines .
+Ama d issura imecṭaḥ am : Hasan Terru , Hasan Taksi , d Hasan Niya , neɣ wid imuqren n Sinima , am 'Opium et le bâton ' , i yellan d adlis n umyaru aqbayli Mulud At Mamar .
+D assaru anda id yurar zdat inazuren imuqranen wiyaḍ am : Jean Louis Trintignant , Sid Ali Kwirat , Maris Josée Nat , Meḥyedin Bacṭarzi , Mesṭafa Kateb , atg .
+Deg anar umezgun Aḥmed Ayad yurar zdat inaẓuren imeqqranen umezgun azzayri , am : Mulud Turi , Ḥasan Lḥasani , Nuriya , Keltum , Farida Sabunǧi , Yasmina , Larbi Zekkal , Muḥamed Unic , Sid Aḥmed Agumi , atg .
+Daɣen Aḥmed Ayad yella yetteka di tarbaɛt umezgun n Rrayu n teqbaylit , zdat n Ali Abdun , Muḥamed d Saɛid Ḥilmi , Qadri Ṣɣeyer , Ccix Nurdin , Samira , atg .
+Di tagar isegwasen n 50 , netta d Muḥamed d Saɛid Ḥilmi , xedmen di Rradyu n teqbaylit yiwet n tedwilt n necraḥa d teḍṣa , isem-is Tlata izehwaniyen .
+Daɣen Aḥmed Ayad icna aṭas n tuɣac ama s teqbaylit , neɣ s taɛrabt n Lezzayer , ladɣa tid n taḍṣa d necraḥa .
+
+Baṭlimus ( talatinit : Ptolemaeus , tagrigit : Πτολεμαῖος , Tifinaɣ ⴱⴰⵟⵍⵉⵎⵓⵙ ) , ilull deg useggas n 1 uq.sidna Ɛisa .
+S tuffɣiwin-is d yiserdasen-is , yessebgen-d Baṭlimus tiḥḥerci-ines d takdit-is akka am ugellid-amsaɣ n Ruma .
+D agellid yettwasnen i yqerben mliḥ ɣer ugdud-is amaziɣ , yunag di akk umenkud arumani , akka am teskendrit d Maṣer d Ṭelyan .
+Ɛ.-L .–23 um .
+Ɛ.-L. ) d Kliyubatra Silini II ( taqcict tawḥidt n Kliyubatra tis ṣa d Mark Antwan ) .
+Baṭlimus ihi d argas yezɛan aẓar d yidles amaziɣ ( seg baba-s Yuba II d baba 1 ru ) agrigi seg yemma-s daɣen di taggara , arumani ( imi mmi-s d amenkad arumani Klud , Nirun d Kaliɣyula ) .
+Baṭlimus ilul deg Qeyṣeriya , tamanaɣt n tgelda n Muretanya ( Cercal n wass-a di Lezzayer ) deg umenkud arumani .
+D isem n lejdud n yemma-s Silini , i d-yekkan si ccetla tabaṭlimusit i d-rran mi t-id-sɛa nettat d Yuba .
+Baṭlimus d yelli-s Drusilla tamueiṭanit lemden ɣer yiselmaden irumaniyen .
+Deg useggas n 19 , yefka-as baba-s leqdic yettcabin iwin n ugellid .
+Ukkuz n yiseggasen ardekal , yemmut Yuba wis II yuɣal Baṭlimus d agellid .
+Deg Legrig , rran-asen tajmilt i Yuba wis sin d mmi-s Baṭlimus s yisebdaden , xedmen-as i Baṭlimus asebdad akken ad rren tajmilt i tayri-ines i tɣuri d tira n yidlisen .
+Ula d netta yefka isebdaden-agi d araz i Akrubulis .Imezdaɣ n Atina rran-as tajmilt i netta d twacult-is acḥal d abrid , d ayen i d-yesbegnen aqader meqqen i sen-gan .
+Deg 17 , xedmen yiderma , n imaziɣen n yiǧituliyen d Leɣrament tagrawla meqqren imehl-itt Takfarinas akken ad teffeɣ tgelda-nsen i ufus n Ruma .
+Iɛum ṭṭrad tafriqt n ugafa merra : ttekkan ula d yiserdasen imaziɣen yellan zik d aklan n Baṭlimus .
+Ɣas akken yexdem ɣ kra n tuffɣiwin d yiserdasen-is maca iban-d Baṭlimus ur yecliɛara neɣ ur igir ara iman-is deg tegrawla .
+Yessuter-d ad yiǧhid akter unembaḍ arumani ɣef tefriqt n ugafa ad as-rnun daɣen i netta di ccan akken ad t-iɛiwen .
+Xesren yiǧitulen d Leɣrament di taggara deg useggas n 24 .
+Rrbeḥ-agi n Baṭlimus d yirumaniyen tettwaxelleṣ akken ilaq lḥal : sin n yid yennuɣen xeṣren εtas n yidrimen d yiserdasen .
+Imi d-yuwi rrbɛh-agi yefka-as usqamu arumani araz , ḥesben-t d agellid-ameddakel unṣib .
+Yezweǧ d Julya Uranya , umi yemmal-d umezruy belli nettat d tagrigit-tasurit , d taɛeyyalt deg twacult n yighelliden n Ḥumṣ.Yesɛa-d akken deg useggas 37-39 Drusilla ḥala nettat i d-yell-is i ɣ-d-yuwi umezruy .Tezweǧ d Anṭunyus Filiks , aɛessas n unẓul n wayen i wumi neqqar tura Falesṭin ( Israyel ) , deg 52 .
+Ufan-d tira deg Muriṭanya temmal-d belli Yuba II d Batlimus xedmen taẓallit tamenkadt ( d taẓallit xeddment yirumaniyen i yimenkaden -nsen i yemmuten ) akken i tt-xeddmen yirumaniyen ɣef rruḥ n jedd-is agellid HimṣalI , agellid aqdim n Numidya , d jedd-s si baba-s i Yuba II .
+Akken id -mmalent tira , Yezmer ad yili Baṭlimus yexdem taẓallit n yigelliden ɣef rruḥ-is netta uqbel ad yemmet , ila d i yimawlan-is ( akken i t-id yemla wajjed aqdim n yimaziɣen ) .Ufan-d tira yiwet i netta sfilliten ad timɣur tgelda-ines ma d tayeḍ sfilliten deg-s tazmert d sseḥa i Baṭlimus .
+Ur iban ara d acu yerran Kaliɣyula ad yexdem annecta.Nnan-d yimazranen iqdimen belli d tismin n Kaliɣyula ɣef yinesbεuren , neɣ d leḥmla meqqren i yeɛa Baṭlimus deg nerɣ berra n tgelda-ines .
+Mi yettwanɣa Baṭlimus , yekker-d yiwen seg waklan-is i yqedcen deg tɣerma-s , qqaren-as Aydmun , yella iḥemmel mliḥ aggelid-ines , yegmen ad d-yerr ttaṛ , yexdem tagrawla n Muriṭanya ɣef Ruma .
+tagrawla-a tusa-d tewɛer ɣef yirumaniyen akka am tin n yiǧitulen d leɣrament , maca teɣli di taggara , imir tuɣal Muriṭanya tettwamhel seg ucengu arumani tettwafreq ɣef sin n yigudaz taṭenǧit d Tqayṣerit .
+
+Lewnis At Mengellat , d amedyaz , d acennay i yellan yiwen seg inaẓuren imeẓẓwa ugar ( plus populaires ) n yiqbayliyen .
+Ilul ass n 17 yennayer 1950 , deg taddart n Iɣil n wamas ufella n tmurt n Leqbayel ar tama n Micli .
+Yesɛa sdis warrac gar-asen yiwen d anaẓur n ccna : ǧeɛfer AT MANGELLAT .
+Tawacult-is llan di imzenza di Wehran anda sɛan tiḥuna .
+Mi yekfa trad mgal Franṣa deg 1962 , Lewnis At Mengellat iruḥ ar Lezzayer tamanaɣt akked watmaten-is Smaɛil d Aḥmed .
+Din yekcem ar uɣerbaz wis amezwaru ( primaire ) di Champs de Manœuvres .
+Din yeɣra tizrawt uwizi ( Études collégiales ) azal n 3 iseggasen , s wanda id yeffeɣ s usileɣ ( formation ) n wayen umi neqqar s tefranṣiṣt Ébéniste .
+Deg useggas aneggaru Lewnis At Mengellat yeǧǧa leqraya-s imi yemmut gma-s ameqqran di yiwet n laksida n tkerrust , d netta yella iɛgcit seg wasmi iruḥen imawlan-is ar Wehran .
+Asmi yeqqar , yella iḥemel tasekla , d yiwen uselmad d amusegmi ( pédagogue ) id a t-tiḥemmlen .
+Dɣa yuɣal ixeddem weḥd-s isefra .
+I wakken ad yečč aɣrum-is , yella ixeddem di yiwet tneɣlaft di Lezzayer , uqbel ad yeḍfer abrid n ccna .
+Ur iɛṭel ara iǧat lukan mačči d imedukal i s dizzin i wakken ad as beddlen tikti .
+D Wehhab i yellan si twacult-is i t-yewwin ar yiwet n tedwilt , iɣennayen uzekka , n umaṭaf wis II n Rradyu n Lezzayer , i iselḥay unaẓur n ccna Crif Xeddam .
+Yecna-d taɣuct-is tamezwarut Ma trud ula d nekk kter i yexdem asmi yesɛa 16 n yiseggasen .
+Deg 1968 , netta d kra n yimeddukal , xedmen yiwet n tarbaɛt umi semman Imaziɣen .
+Llan accenun di tmeɣriwin yakk di tmurt n leqbayel , ladɣa di tasaft .
+Deg 1970 , tarbaɛt agi tuɣal texsi , Lewnis AT MANGELLAT yuɣal-d ar taddart-is Iɣil n wamas , yezweǧ , yexedem d amaray di 'Kasma ' n temnaṭ ines .
+Kra n wayyuren kan , iruḥ seddaw isenǧaq , ar lɛesker di Blida yesɛedda 6 wayyuren , ma di Qsenṭina , 18 wayyuren .
+Anecta ilad ar umazrag Yeḥya Lhadi , di Wehran , yellan d yiwet n tmusni n Wehhab .
+Asmi yella di lɛasker , anaẓur n ccna Kamal Ḥemmadi i yellan d ameddakel-is , ixedm-as tanalt ( contact ) d kra imazragen .
+Ma d ittruḥu s turagt ( permission ) di taggara umalas , Kamal Ḥemmadi i ttaǧǧas yiwen u 'Studio ' n unaẓur ameqran Meḥbub Bati i wakken ad isekles .
+Uqbel ad yeṭṭef tamacint ar Qsinṭina i wakken ad yuɣal ar lɛesker , i ttaǧǧa-yas tasfift i Kamal Ḥemmadi i wakken ad iqeleb af imazragen .
+Dɣa yiwen deg imazragen i weṣat i wakken ad yaweḍ taɣuct n Awḥid Yusef : Ih a Muḥend a Madam Servi Latay .
+Lameɛna amedyaz Lewnis At mengellat , g-imiren ittwali ar lembɛiad .
+D ayen yellan , imi simi bdan kan iseggasen n 1970 , yuɣal Lewnis AT MANGELLAT yettwasen mebla ma yeẓra , ladɣa s tuɣac ' A Lwiza ' , 'Ma selbeɣ ' i g-sekles netta yella di lɛasker .
+Seg iseggasen n 1980 , yebda aḥric wayeḍ deg umecwar-is n ccna , imi yeffeɣ si tuɣac n tayri ar t-id n tanegmit n tamagit ( la revendication identitaire ) , annecta iban-d ugar si tamrawt ( décennie ) ar zdat .
+Iɛedda i tikkelt tamezwarut di tazeqqa 'Olympia ' di 'Paris ' deg useggas n 1978 .
+Isyin anda iɛedda , ama di tazeqqa n 'Zénith ' di 'Paris ' deg 1985 , ama di Lezzayer tamanaɣt , Tizi Wezzu , Bgayet , atg , yeččur d imeshaniyen .
+Anaẓur Lewnis AT MANGELLAT yecna aṭas iseggasen s yiwen n alal kan : tagiṭart neɣ amundul .
+Armi 30 iseggasen mbaɛd , yebda isekcam alalen nniḍen , ladɣa tajewaqt akked klavyi .
+Ar unemzel ( unanimité ) n waṭas n tsuta n wid iḥemmlen Lewnis at Mengellat , yella d win iqedcen ameslay akken ur llan aṭas am netta .
+I sexdam awal , ittak-as anamek d wazal , iqqar-d ayen yellan , d wayen ur nelli , d ayen ara yelin .
+Segmi Lewnis at Mengellat qarren-as medden d amussnaw , daɣen d amesnagay yiwen ( philosophe unique ) ar iqbayliyen .
+Lewnis at Mengellat isekles ugar n 200 n tezlatin .
+
+Mulud Mɛemmri , neɣ Mulud At Mɛammer , d amaru , d amdan yefkan azal ameqqran i yedles d tutlayt Tamaziɣt , d netta d amezwaru iy yeslemden Tamaziɣt di tseddawit n Lezzayer .
+Dda Lmulud ilul ass 28 duǧember 1917 di Tewrirt Mimun deg Ayt Yanni di Tizi Wezzu .
+Yemmut ass 25 n furar 1989 di Ɛin n Defla deg webrid n tuɣalin-is si Merruk .
+Deg 1928 yunag-d ɣer Lmerruk ɣef texxamt n unat-is deg Rbaṭ .
+Rebɛa n yiseggasen sakkin yuɣal-d ɣer Lezzayer ad yekfa almad-ines deg uɣerbaz iwumi qqaren “ Bugeaud ” di teɣṛemt n Lezzayer ; kra n yiseggasen sakkin , imi yekfa-d almad-is , yeǧǧa-d aneggaru-agi ɣef yewwin aɣerbaz nniḍen iwumi qqaren “ Louis-le-Grand ” di teɣṛemt n Paris i wakken ad yuɣal d aselmad .
+Deg 1939 ikcem-d ɣef tzemmalt , asmi Ttrad n Ddunit II tebda-d , lameɛna yettwaserreḥ-d deg Tuber 1940 : Lmulud Mɛemmri ikcem-d ɣef uɣiwen n tisekwla n uɣerbaz n temdint Lezzayer .
+Deg 1942 , sakkin agwad n Lmarikan ɣef Tafriqt n ugafa , Mɛemmri yettnuda ɣef tzemmalt i tikkelt tis snat ; yezra igran n yimenɣi n Ṭṭelyan , Fransa , akked Lalman .
+Di taggara n ttrad , 1945 , yessewjed-d , deg Paris , ɣef tmenyugart n yiselmaden ; sakkin ayagi yuɣal-d ɣer Lezzayer deg Ctember 1947 .
+Yesselmad deg Lemdiya akked Ben-ɛaknun yerna yura-d adlis-is amezwaru , Tawrirt yettwattun ( `` La Colline oubliée '' ) deg 1952.Lameɛna s ddaw n tiggermemt n temɛict deg Lezzayer yeǧǧa-d tamdint n Lezzayer deg 1957 .
+Seg 1957 armi 1962 , Mulud At Mɛammer iɛac deg Lmerruk .
+Deg 1962 , armi terbeḥ azarug-ines , Mulud At Mɛammer ikcem-d ɣer Lezzayer .
+Seg 1965 armi 1972 , yesselmed Tamaziɣt deg tesdawit n temdint n Lezzayer s ddaw n uferkaw n umezruy n yigduden ; ayagi sakkin tagdelt n yislemaden n tmaziɣt deg 1962 ɣef ddemma n unabad n Lezzayer .
+Mulud At Mɛammer yesselmed tamziɣt s ddaw tamagazt i iḥersen n tmsulta n sser n unabad n Lezzayer .
+Deg 1969 Mɛemmri yesdukkel iḍrisen n umedyaz aqbayli Si Muḥend .
+1969 armi 1980 yella d anemhal n yiferkawen n idelsen n yemdanen , amezruy atrar , akked amezruy n yigduden .
+Deg 1980 , sakkin tagdelt n usarag-is deg Tizi Uzzu ɣef tamedyazt taqdimt n wegdud aqbayli , bdan ccwal n Tafsut Tamaziɣt .
+1982 , ixleq-d deg Paris Tuddsa n Yislemaden & Tagmi n Tamaziɣt ( `` Centre d Etudes de Recherches Amazighes '' , CERAM ) , akked tasɣunt Awal .
+Deg 1988 Mulud Mɛemmri yettwaqbel am ṭṭbib s tamanegt deg tesdawit n la Sorbonne .
+Mulud At Mɛammer yemmut deg wass n 26 di Furar 1989 , lameɛna aḥric ameqran n medden sɛan ccek belli anabad Aɛrab n Lezzayer i t-yenɣan deg tmeddit-nni ; ayagi merra d ayen i izemren ad d-ssefhem s tidet , akken ilaq , amxix-agi .
+Mulud At Mɛammer yeǧǧa later d tikta meqren akter n uḥric ameqran n yimalwayen ayen llan deg umezruy n wegdud aqbayli ; akter n Masensen , akter n Yugurten , akter n Lkahina , Mɛemmri yebda-d abrid i yettawin ɣer umneɛ n rruḥ n wegdud aqbayli , agdud-nneɣ .
+
+Ɛli Ɛemran , s yissem-is unṣib ( Ɛli Kulugli , s tefransist : Ali Koulougli ) , d acennay n tmurt n leqbayel , ilul-d ass n 20 Mayyu 1969 , deg Igariden i d-yezgan di Mɛatqa ( Tizi wezzu ) .
+Ɛemran yella d isem n yiwen si lejdud-is .
+D ameẓyan yettaɛraḍ yetturar snitra , yessaweḍ yexdem-d yiwet s tebelyunt n zzit , am akken xedmen akk icennayen iɛeddan uqebl-is ; Yettaɛraḍ , yeṭṭafar , yal tizlitt umi slan imeẓẓuǳen-is ; D acu kan netta yesɛa zzher , imi yufa-d snitra deg wexxam si temẓi-s , xas akken d taqburt meɛna ar ɣur-s tesɛa azal meqqren ; Tella niqal n d ayla n gma-s armi yuɣal ikesbi-tt , netta .
+Asmi yella di tesdawit , dinna Ɛli i d-yebda yettbin-id , imi yella yetturar snitra , ixeddem aẓawan , icennu i yiwet n tarbaɛt umezgun n tesdawit n Dda Lmulud at Mɛemmar di Tiziwezzu , uwumi qqaren Meɣres ; Di tallit nni , yebda yetturar tizlatin n Yidir , Simon and Garfunkel , Moustaki , Cabrel , Inaṣliyen , Pink Floyd , Abranis , Cat Steγens , ... S wakka Ɛli ilemmed u yebda isurifen ines imezwura deg-wubrid n lfen .
+Di 2001 , yesekles tasfift-ines tamenzut , anda is-yeqqar : Amsebrid , s wakka , s tesfift-agi , Ɛli yekcem annar n cna.Ur iɛeṭṭel ara yebda timaɣriwin di tmurt n leqbayel , deg-waxxam n yedles Lmulud at Mɛemmar , daɣen deg-wuxxam umezgun n Bgayet .
+Aken assegas , ilemnd n tefsut tabarkant , Ɛli yecna di tzeqqa n Zinit ( Zénith ) di Lpari , s idis n ucennay ameqran Farḥat Imaziɣen Imula , Akli .
+D , d Gnawa Diffusion .
+Zdat n lɣaci id yusan , tizlitt-is A xali sliman yufrar-d yarna taɛǧeb nezzah i lɣaci nni id yussan , yeslkelsitt yarratt di < le clips > weqbel ad yessufeɣ tasfift-is , tinna yessufeɣ di 2005 .
+Ɛli yessewjed tasfift tamaynut id-yefɣen deg useggas n 2009 , anda is-yeqqar : `` Akka id amur '' .
+
+Muḥend Aɛrab Besɛud ilul deg useggas n 1924 deg Tgemmunt Lejdid , deg tɣiwant n At Dewala .
+Yella deg tegrawla-nni mgal tahrest tafṛansiwt d amaɣnas n Umussu Aɣelnaw Azzayri .
+Werǧin yefka afus deg wayen yumen d abrid n tidett , d abrid yessuffuɣen ar tlelli n wegdud .
+Deg Iggen n Uslelli Aɣelnaw ( ALN ) yerra-t Krim Belqasem d yiwen seg imeqqṛanen .
+Deg useggas n 1966 yesbedd Agraw Amaziɣ , netta , Ṭawes Ɛemruc , Muḥemmed Arkun akk d Imaɣnasen nniḍen .
+Deg useggas 1978 , imsulta ifṛansiwen ḥebsen-t netta akk d wid yettilin imir-nni deg uxxam n Ugraw Amaziɣ , am Saibi akk d sin nniḍen .
+Ifṛansiwen d aḥṛas i ten-id-ḥeṛsen imir-nni wid yeṭṭfen adabu deg Lezzayer akk d Lmeṛṛuk , Bumdian akk d Ḥasen wis sin .
+Snejlan-t seg tmurt n Fransa , yezger ar tmurt n Legniz anda yedder almi d tuɣalin-is ar tmurt deg useggas 1997 .
+Tazmert d tameɛlalt , aṭan yettnerni , terna-yas teqṛeḥ yenneqṛaḥ zdat n tmenɣiwt n ilemẓiyen deg tefsut taberkant , tewwi-t tmettant ass 01/01/2002 .
+Ittwamdel amenzu n Yennayer n useggas 2952 deg Uqawej .
+Agraw Amaziɣ seg wass mi i d-yennulfa yuɣal d taqeṛṛabt n umennuɣ ɣef idles akk tutlayt imaziɣen deg teɣremt n Paris .
+Deg iseggasen n 70 , win i d-yefflen , deg imaɣnasen , seg tmurt nneɣ ar Fṛansa , lembat-is d Agraw Amaziɣ .
+Agraw-a yekka s waṭas deg takin i yukin iqbayliyen s twaɣit yeḍran yid-sen , tin i sen-yefka udabu azzayri .
+Agraw amaziɣ yefka i iman-is iswi amenzu a d-issaki agdud yeṭṭsen .
+Ccna d yiwen seg wallalen yesseqdec Ugraw Amaziɣ akken ad yessiweḍ izen .
+Yessawal i icennayen iqbayliyen akken ad cnun ɣef timmuzɣa .
+Tugett seg-sen rran-d tiɣri .
+Ass-agi tanemmirt i nutni imi amennuɣ yewweḍ ar wezgen ameqqran deg iswi i yefka i iman-is .
+Deg Paris , lamikkal n FLN deg Fṛansa tezga tettnadi amek ad teṛṛez ifadden i wegraw amaziɣ imir-nni .
+Tella tessexdam nniya n ixeddamen iqbayliyen deg Fṛansa akken ur d-ttarran ara i tiɣriwin n Wegraw neɣ a s-nerwin timliliyin iskarayen .
+Ma ɣas akken lamikkal tesɛa idrimen aṭas maca ur tessaweḍ ara ad teṛṛez amennuɣ .
+Adabu s timmad-is ur yessaweḍ ara ar iswi-s ad iṛṛez amennuɣ n iqbayliyen ɣef timmuzɣa ma ɣas ar ass-a ur yegzim ara asirem .
+Asirem n udabu yeqqim-d ass-a deg wayen yerki uɣerbaz azzayri akk d ixxamen n ddin .
+Yessefk kan ur as-neqqaṛ ara : `` dayen adabu yefsi tiyersi , dayen newweḍ s iswi , nezmer a nuɣal ar yiḍes '' .
+
+Benyusef Benxedda , ilul ass n 23 furar 1920 di Berwageyya di twilayt n Lemdiyyet .
+D asertay azzayri , D aselway wis sin n Unabaḍ Uɛḍil n Tegduda tazzayrit si 1961 armi tewwi Lezzayer azarug-is di 05 yulyu 1962 .
+Yemmut ass n 4 furar 2003 di Lezzayer .
+Syin yekcem ar tesnawit Duveyrier di Blida ( tasnawit Ibn Ṛucd tura ) anda i yemlal akked waṭas n yimeɣnasen iɣelnaẓriyen , gar-asen : Ɛebban Ṛemḍan , Saɛd Daḥlab , Lamin Debbaɣin , Mḥemmed Yazid akked Ɛli Bumenǧel .
+Mi d-yewwi lbac yekcem ar tseddawit n tesnajya akked tesnafart n lezzayer di 1943 .
+Yewwi-d agerdas n tesnafart deg useggaw n 1951 .
+Mi yebda ṭṭrad di tmurt n Lezzayer deg unbir 1954 teṭṭef-it Fransa ar lḥebs acku umnen belli d netta akked yemdukal-is n Useqqamu Alemmas i yessekren ṭṭrad .
+Yeqqim 8 n waguren di lḥebs , syin serḥen-as-d. Yeffq-d kan yekcem ar Tirni n Uslelli Aɣelnaw anda i yuɣal d amarag n Ɛebban Ṛemḍan di Lezzayer .
+Di ɣuct 1957 deg temlilit n Useqqamu Aɣelnaw n Tegrawla Tazzayrit di tmurt n Maṣer yettwakkes seg Tseqqamut n Tenmiregt akked Usselkem .
+Iṛuh ar waṭas n tmura s yisem n Tirni n Uslelli Aɣelnaw i wakken ad yessaweḍ ammenɣ n wegdud azzayri beṛṛa n Lezzayer .
+Ass n 9 ɣuct 1961 yessuli-t-id Useqqamu Aɣelnaw n Tegrawla Tazzayrit d aselway n Unabaḍ Uɛḍil n Tegduda tazzayrit.Ikemmel astugen akked udabu n Fransa i yebda Ferḥat Ɛebbas i wakken ad ḥebsen ṭṭrad .
+Yemṭel di tjebbant n Sidi Yahya ɣef yidis n wemdakel-is Saɛd Daḥlab .
+Taseddawit n Lezzayer Talemmast tettwasemma ɣef yisem-is .
+
+Aɛmar At Zay , deg yisem-ines di tzuri Amar Ezzaḥi .
+Illul ass amenzu n yennayer 1941 di tama n Alam b Udi ( Aṣqif n Ṭmana- Tizi Wezzu ) .
+Netta d amedyaz , d acennay n senf n Caɛbi s tutlayt taɛrabt taɣerfant .
+Seg mi i yesla i Bujemɛa Lɛenqis deg usegwas n 60 , iḥemmel caɛbi .
+Di 1963 yamlal akw d Ccix Laḥlu uk d Muḥemmed Brahimi ( umi qqaren Ccix Qbayli ) .
+Irgazen aggi fkan-as afus n talelet ( lemɛawna ) s leqṣidat , arnan-as lewṣayat ɣaf amek ig laq ad-ten yeccnu .
+Yiwan ufenan igarzen umi qqaren Qeddur Bactubǧi yattiki di tarbaɛt n uẓawan ( orchestre ) n Aɛmar Ezzahi ituɣzi n 15 isegwasen , yebda axxudim yides deg 1964 .
+Tasfift-ines tamenzut tafɣed deg usegwas n1968 .
+Tasfift aggi isema-yas `` Ya Ǧaḥel leshab ( a win yettun laḥbabis ) ak d `` Ya lɛdra '' ( a tucbiḥt ) .
+Tizlatin timenza deg 45t ines .
+Azawan akw d imeslayen n tesfifin yaggi sɣur Maḥbub Bati .
+Di 1971 issufɣed tlata n 45t .
+Deg usegwas n 1976 , yesufɣed sin n 33t .
+Yasɛa tlata n tezlatin di radio , rabɛa di tilizri .
+Yesɛa daɣen yiwet n tkassit ( K7 ) id yefɣen di 1982 ( Ya Rab leɛbad - A yilu n meden ) .
+Tura yesuli ( yeḥbes ) di ccna .
+Urɛad yeskaray kra n temɣriwin di twacculin .
+
+Deg yisem-is n tidett , Sadeq Buyaḥya .
+D yiwen unaẓur , acennay , i ilulen deg tama n Bgayet di 1907 .
+Yemmut ass n 7 yennayer 1995 .
+Sadeq Abǧawi yennum yettruḥ ɣef taddart-agi nsen seg wasmi yella d amectuḥ .
+Tawacult-is , netta , ur qdiɛen-ara akk taddart-nsen ansi id-kkan .
+Mucaɛ aṭas di ṣṣenf-agi n ccna .
+Deg useggas n 1933 alami d 1938 , yella ɣer uqerruy n tarbaɛt n ccna Tandalusit umi semman `` Lmussilya '' .
+Dɣa deg webrid-is di ccna yaggi tandlust , iruḥ alami di Tala Yemsan ( Tlemsen ) anda yelmed kra n nnubat , anda id-yerna tamussni .
+Yettwasen daɣen s tezlatin yura s teqbaylit i waṭṭas n icennayen n tallit-nni .
+Asmi telli `` rradyu '' n Bgayet deg useggas n 1946 , Ccix Sadeq Abǧawi yuɣal d bab n uẓawan ( chef d'orchestre ) , yesɛday-d daɣen tidwilin di rradyu-yagi .
+Deg tedwilin-is i bdan deqs n icennayen id-yufraren tallit-nni amzun Abdelwaḥab Abǧawi , Yusef Abǧawi , Ameqqran Agawa , Ccix Lmuḥub , Lɣazzi .
+
+Ccix Lfuḍil Awertilani ( S tṛumit : Fodil El Ouartilani ) yemmut ur iwala asirem-is wa ad yidir di Lezzayer tilellit .
+Ulac wid i t-id yemmektin , ɣas akken yefka tudert-is i tmurt-is nnig 30 iseggasen , yettwattun almi d 12 meɣres 1987 i t-id-yemmekti udabu-nneɣ , yerra-d tafekka-ines ar tmurt-is ɣer At Wertilan .
+Ccix Lfuḍil Awertilani d yiwen seg wid id d-yefkan aṭas i tmurt-is .
+I lul ass 6 fuṛaṛ 1900 di taddart n Wanu deg At Wartilan ( Sṭif ) , isem-is n tidet Ḥasanin Lfuḍil .
+Ikker-d di twacult yeɣran , baba-s yella d amasay n temɛemmert , yelmed leqran d wayen yeqqnen ɣur-s deg taddart-is .
+Deg useggas 1922 , wwin-tt ad isɛeddi lɛesker , irewwel-asen acḥal n tikkal .
+Din i yeẓra amgared yellan ger imsulta izzayriyen d wid iṛumeyen .
+Sya id-yewwi tikti iwakken ad yili ɣef wudem unekcam arumi .
+Asmi yekfa lɛesker , ikemmel andi akken ad isegmu tamusni-is , yewwi-d tikti tamaynut i yimezdaɣ n At Wertilan .
+Tikti-ayi teɣza deg wallaɣ , ur yeḥsib yiwen ama d imḍebren irumiyen neɣ lquyad-nnsen .
+Ineggura ayi ttnadin fell-as , iruḥ iǧǧa tamnaḍt-is yerra ɣer Qsenṭina deg useggas n 1930 .
+Mi yewweḍ ɣer din yerra ɣer wanda yella Ben Badis akken ad ikemmel i tmussni-s. Din yebda yettufrar-d am zzit ɣef inelmaden akk yettili , syin akkin yuɣal d amasay ɣef inelmaden-nni .
+Aseggas n 1932 , yeqqel d agensas n weɣmis Ccihab akk d ujemuɛ n yedrimen .
+D wayi id azal i yesɛa ɣer Ben Badis .
+D netta id imceggeɛ-is ɣer tmurt n Leqbayel s isem n teddukli n imusnawen inselmen bac ad ilin ɣer tama-s , issexdam tameslayt n imawlan-is ( taqbaylit ) , ilmend-is xilla id-ikecmen ar teddukli-ayi , ɣef aya yuɣal d aselmad ( yettɛawan-it ) .
+Di lawan-nni aṭas n imezdaɣ i irewlen si tmurt ar Fransa , tugett deg-sen ttun tamurt d wayen id-icudden ɣur-s. Ihi Tadukli n imusnawen inselmen twala ilaq ad ceyɛen win izemren ad ixiḍ acerrig yellan , wa aten-d yerr s abrid .
+Ɣas akken ẓran yuɛer lḥal aṭas ma wḍen aɛdaw s axxam-is am win yewḍen azrem ar lɣar-is .
+Ccix Ben Badis yeddem , yessers , yuɣal igzem-itt di ṛṛay-is ; yextar Ccix Lfuḍil awertilani .
+Acku nenna-d yakan ɣef wazal yesɛa ɣur-s , rnu yessen 03 n tutlayin ( tamaziɣt , taɛrabt , tafransist ) akk d termit i d-yewwi seg tmurt n Leqbayel .
+Di tlemmast n useggas 1936 , yerza ar Fransa , tazwara yettemlili , ixeddem isaragen i iminigen ( s twafra ) s wannect-a i yessaweḍ ad issemlil iminigen n din deg tdukliwin .
+Yesker-d tazwara 06 n tdukliwin .
+Taɛekkumt ẓẓay-itt , iɣeblan ugten d ayen ur yezmzir at-yexdem iman-is , iɛedda yuzen-as Ben Badis wid ar t-iɛiwnen wa ad yili d netta i d aqerruy-nsen .
+Asmi yekcem useggas n 1938 ssawḍen ar 19 n tdukliwin s yisem `` EL TEHDIB '' .
+15 di Lpari , 03 di Rennes , yiwet di Marseilles .
+D ayen i as-d-yeglan s wuguren d udabu aṛumi neɣ d waraw n tmurt-is , ur neqbil ara ad yufrar ger-asen am Messali Lḥaǧ ( yuggad ɣef umkan-is ger iminigen ) i yessawḍen armi yeccetka fell-as ar Ben Badis .
+Imi Ben Badis yessen-it amek iga , ur ten-yumin ara .
+D aya i t-yeǧǧan ad yerwel ar tmurt n Maṣer deg useggas n 1939 , yerra ɣer `` lǧameɛ El Azher '' ansi id-yewwi agerdas .
+18 di furar 1944 , tella-d tlalit deg Maṣer n yiwen umussu i izdin 03 n tmura ( Tunes , Merruk , Lezzayer ) , iswi-ines ad yesken i wegdud n umaḍan n wayen i iḍerrun deg Tefriqt n Ugafa .
+Ger n wid i t-id-issekren ad naf Ccix Lfuḍil .
+Amussu-a yura aṭas n tebṛatin i wegraw n tmura taɛrabin , akken daɣen i yuzen tabratt i wegraw n tmura idduklen deg useggas n 1945 akken aten-id yesmekti belli agdud n Tefriqt n Ugafa yettekkan deg ṭṭraḍ amaḍlan wis sin ar tama n Fransa akken ad awin timunent-nsen ur d yelli ara , tqubl-iten s imenɣeyen am wayen yeḍran di 08 mayyu 1945 di tmurt-nneɣ .
+Yerza sin iberdan ar tmurt n Yaman ( tettidir uguren ger ugellid akk d ugdud-is ) .
+Tirza tamezwarut tella-d akken iwata yeẓra agellid-is akk d ixṣimen-is .
+Agellid Yeḥya yessuter deg-s as-d-iheyyi ahil n unegmi n tmurt-is di yal iḥricen ( tasertit , tadamsa… ) .
+Tirza tis snat yewwi yid-s ahil-nni ɣef wacu ara tebnu tmenḍawt n tmurt n Yaman .
+Ahil-a qeblen-t akk .
+Agdud yebɣa ad yili ubeddel s lemɣawla ixsimen-is ufan-tt d tagnit ssekren ccewal llan-d imenɣeyyen i yeglan s tmettant n uglellid Yeḥya ass n 17 di furar 1948 .
+Yuɣal mmi-s deg umekan-is ur yeǧǧi ara ixsimen-is wa yenɣa-t wa yegra-t ɣer lhebs , yerra kullec ɣef Ccix Lfuḍil d netta i d sseba n ccwal yeḍran d tmettent n baba-s. Iceyyee akk i tmura taɛrabin ad t-ṭṭfent , tamurt ara yerr ttagin-as ad yeres yeqqim azal n 06 n wayyuren s ufella n lbabur , almi d aseggas n 1948 i t-yeqbel unebbaḍ n Lubnan s lemeiwna n kra yemdukal-is ad yili din s twafra almi tersa taluft n Lyaman .
+Ɣas akken , yettaru deg yeɣmisen s yismawen n weyyaḍ ɣef temsalt n tmurt-is , lawan-a yufa ugellid-nni mačči d netta i d sebba n wayen yeḍran di tmurt-is iɛedda isumeḥ-as .
+S tirza-ines seg tmurt ar tayeḍ , issaweḍ ad ibeddel tamuɣli n tmura taɛrabin d tenselmin ɣef wayen i d-teqqar Fransa ( agdud azzayri yeqbel s unekcam aṛumi ) yerra-d deg yiwen n weɣmis `` amek ihi i llan-tt tegrawliwin seg Amir Ɛebdlqader ( 1830-1847 ) , At Sidi Ccix ar Bubeɣla , Lalla Faḍma n Sumer ar tegrawla n Ccix Ameqqran d Ccix Aḥeddad ( 1871 ) '' Ass n 10 mayyu 1945 yessuter seg tebratt i iceyyeɛ i Wegraw n tmura idduklen , ad nadin ɣef tidett n wayen yeḍran deg Lezzayer deg ineḍruyen n 08 mayyu 1945 .
+Seg useggas n 1950 yessuget leqdic yerza nnig n 40 n tmura : Surya , Ṭṭurk , Swiss , Biljik , Hulland , Legliz… Yuɣal yerra tamuɣli-ines ar tmura n Asya yerza ar Lhend , Sɛudi , Pakistan , Sirilanka , Anduniz… deg useggas n 1952 .
+Yal tamurt ar iɛeddi , ad imlil d imasayen-nsen , tugett n tmura-nni fkantt-d awal akken ad ɛiwnent Lezzayer bac ad tawi timunent .
+Tebda tegrawla ass 01-11-1954 , tadukli n imusnawen inselmen ur d tefki ara tamuɣli-ines .
+Ccix Lfuḍil d netta i yellan d aqerru n tdukli-ayi di Maser , iburk-itt ifka-d taɣuri ass n 02-11-1954 i wegdud ad yili yid-s `` i yegrawliwen izzayriyen ass-a d tamettant niɣ d tudert '' . ``
+Iḍ n 1 n wember 1954 , llan-d nnig n 30 ineḍruyen di yal tamnaḍt n tmurt , si tilisa n Tunes ar tilisa n Umerruk , ama di temdint n Lezzayer , Bufarik , deg temdint n Iɛẓẓuzgen d Tizi Wezzu akk d tmurt n Leqbayel , si Buɣni , Delles ar Tubiret , si Burǧ Mnayel ar Tcentirt , llan-d daɣen di Qsenṭina , Tibesekert , di Wawras akk d Tbatnet . ''
+Deg useggas n 1956 , tella-d temlilit n 4 n tmura timeqranin di Ssewis ( Marikan , Rrus , Legliz , Fransa ) , yura-asen tabratt inna-asen : `` ilaq ad tafem tifrat i temsalt n Lezzayer , ad teǧǧem i wegdud ad yextir d wanwa ara yeddu wa ad tefkem timunent i Lezzayer akken itt-id tefka i tmura nniḍen '' .
+Mi yella di Lubnan , yerza ar tmurt n Ṭṭurk ( tella deg ugraw n Aṭlasi ) anda yessaweḍ ad d-yawi tamurt-a ar tama n tegrawla n tmurt-nneɣ wa ad t-id-ɛiwnen ad t-awi timunent .
+Yella daɣen deffir n usbeddi n `` Ɛmer Uɛemran '' d agensas n Lezzayer di tmurt-a .
+Lawan-a yeṭṭef-it waṭṭan , imejjayen ssutren deg-s ad yeǧǧ niɣ ad isenqes seg leqdic-is , yugi ad iḥbes niɣ ad isenqes .
+Ɣur-s d tamurt-is i izwaren tizmert-is , almi d 12 di meɣres 1959 yewweḍ ar leɛfu n Rebbi deg tmurt n Turk .
+D way i d Ccix Lfuḍil Awertilani yemmut ur iwala asirem-is wa ad yidir di Lezzayer tilellit .
+Ulac wid i t-id yemmektin , ɣas akken yefka tudert-is i tmurt-is nnig 30 iseggasen , yettwattun almi d 12 meɣres 1987 i t-id-yemmekti udabu-nneɣ , yerra-d tafekka-ines ar tmurt-is ɣer At Wertilan .
+

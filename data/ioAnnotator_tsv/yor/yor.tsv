@@ -1,0 +1,695 @@
+Viola	PER
+Davis	PER
+(	O
+/vaɪˈoʊl.ə/	O
+;	O
+tí	O
+a	O
+bí	O
+ní	O
+ọjọ́	O
+kọkànlá	O
+oṣù	O
+kẹjọ	O
+,	O
+ọdún	O
+1965	O
+)	O
+jẹ́	O
+òṣèrébìnrin	O
+ilẹ̀	O
+Amerika	LOC
+.	O
+
+Ó	O
+ti	O
+gba	O
+ọ̀pọ̀lọpọ̀	O
+àmì-ẹ̀yẹ	O
+bíi	O
+Academy	O
+Award	O
+,	O
+Primetime	ORG
+Emmy	ORG
+Award	ORG
+àti	O
+àmì-ẹ̀yẹTony	O
+méjì	O
+.	O
+
+Ó	O
+sì	O
+tún	O
+jẹ́	O
+ọmọ	O
+african	O
+American	O
+tó	O
+gba	O
+Triple	O
+Crown	O
+of	O
+Acting	O
+.	O
+
+Lẹ́yìn	O
+tó	O
+kẹ́kọ̀ọ́	O
+gboyè	O
+láti	O
+ilé-ìwé	O
+Juilliard	ORG
+ní	O
+ọdún	O
+1993	O
+,	O
+ó	O
+gba	O
+àmì-ẹ̀yẹ	O
+Obie	O
+ní	O
+ọdún	O
+1999	O
+fún	O
+ẹ̀dá-ìtàn	O
+rẹ̀	O
+,	O
+tó	O
+ṣe	O
+Ruby	PER
+McCollum	PER
+nínú	O
+Everybody	O
+'s	O
+Ruby	O
+.	O
+
+Davis	PER
+lọ	O
+ilé-ìwé	O
+Central	ORG
+Falls	ORG
+High	ORG
+School	ORG
+.	O
+
+Gẹ́gẹ́	O
+bí	O
+ọ̀jẹ̀-wẹ́wẹ́	O
+,	O
+ó	O
+darapọ̀	O
+mọ́	O
+ẹgbẹ́	O
+TRIO	ORG
+Upward	ORG
+Bound	ORG
+àti	O
+TRIO	ORG
+Student	ORG
+Support	ORG
+Services	ORG
+programs	ORG
+.	O
+
+Ó	O
+tún	O
+forúkọ	O
+sílẹ̀	O
+fún	O
+Young	ORG
+People	ORG
+'s	ORG
+School	ORG
+fún	O
+iṣẹ́	O
+tíátà	O
+kan	O
+ní	O
+West	LOC
+Warwick	LOC
+,	O
+Rhode	LOC
+Island	LOC
+.	O
+
+Ní	O
+ọdún	O
+2011	O
+,	O
+wọ́n	O
+gba	O
+ọmọ	O
+kan	O
+tó	O
+,	O
+orúkọ	O
+ọmọ	O
+náà	O
+sì	O
+ni	O
+Genesis	PER
+.	O
+
+Davis	PER
+tún	O
+jẹ́	O
+ìyá	O
+fún	O
+àwọn	O
+ọmọ	O
+méjì	O
+tí	O
+Tennon	PER
+bí	O
+nínú	O
+ìgbéyàwó	O
+rè	O
+tẹ́lẹ̀	O
+.	O
+
+Nneka	PER
+Lucia	PER
+Egbunna	PER
+,	O
+a	O
+bii	O
+ni	O
+ọjọ́	O
+kẹrìnlelogun	O
+,	O
+Ọdún	O
+1980	O
+.	O
+
+O	O
+jẹ	O
+olorin	O
+àdàlú	O
+ilẹ	O
+Nàìjíríà	LOC
+àti	O
+jamaní	O
+Hip/Soul	O
+.	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
