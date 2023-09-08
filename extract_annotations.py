@@ -167,7 +167,7 @@ if __name__ == "__main__":
     #dict_lang['pcm']['5727602702548992'] = 'Group1'
     #extract_sentences(dict_lang, lang='pcm')
 
-    dict_lang['yor']['5650928946380800'] = 'Group1'
+    dict_lang['yor']['5727531164499968'] = 'Group1'
     extract_sentences(dict_lang, lang='yor')
 
     dict_lang['eng']['5738484446789632'] = 'Group1'
