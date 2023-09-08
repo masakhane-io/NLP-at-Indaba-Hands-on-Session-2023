@@ -181,7 +181,7 @@ def compute_inter_agreement(dir_name, lang):
 if __name__ == '__main__':
 
     for lang in ['yor', 'eng']:
-        majority_vote('data/ioAnnotator_tsv/yor/yor.tsv', 'yor')
+        majority_vote('data/ioAnnotator_tsv/'+lang+'/'+lang+'.tsv', lang)
     #compute_inter_agreement('data/ioAnnotator_tsv/ne/', 'ne')
 
 
